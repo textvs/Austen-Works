@@ -1,47 +1,17 @@
-# SENSE & SENSIBILITY
+# Sense & Sensibility
+
+✍ Jane Austen
 
  
+With an introduction by Austin Dobson
 
- 
+Illustrated by Hugh Thomson
 
-### BY
-
-## JANE AUSTEN
-
- 
-
-#### WITH AN INTRODUCTION
-
-##### BY
-
-### AUSTIN DOBSON
-
- 
-
-#### ILLUSTRATED
-
-##### BY
-
-### HUGH THOMSON
-
- 
-
- 
-
-### LONDON: MACMILLAN AND CO., LIMITED
-
-### NEW YORK: THE MACMILLAN COMPANY
-
-### 1902
-
- 
-
-*First Edition with Hugh Thomson’s Illustrations* 1896
-
-------------------------------------------------------------------------
+(First Edition with Hugh Thomson’s Illustrations: 1896)
 
 
-## <span id="INTRODUCTION"></span>INTRODUCTION
+
+## Introduction
 
 With the title of *Sense and Sensibility* is connected one of those minor problems which delight the cummin-splitters of criticism. In the *Cecilia* of Madame D’Arblay—the forerunner, if not the model, of Miss Austen—is a sentence which at first sight suggests some relationship to the name of the book which, in the present series, inaugurated Miss Austen’s novels. ‘The whole of this unfortunate business’—says a certain didactic Dr. Lyster, talking in capitals, towards the end of volume three of *Cecilia*—’has been the result of <span class="smcap">Pride</span> and <span class="smcap">Prejudice</span>,’ and looking to the admitted familiarity of Miss Austen with Madame D’Arblay’s work, it has been concluded that Miss Austen borrowed from *Cecilia*, the title of her second novel. But here comes in the little problem to which we have referred. *Pride and Prejudice* it is true, was written and finished before *Sense and Sensibility*—its original title for several years being *First Impressions*. Then, in 1797, the author fell to work upon an older essay in letters *à la* Richardson, called *Elinor and Marianne*, which she re-christened *Sense and Sensibility.* This, as we know, was her first published book; and whatever may be the connection between the title of *Pride and Prejudice* and the passage in *Cecilia*, there is an obvious connection between the title of *Pride and Prejudice* and the *title of Sense and Sensibility*. If Miss Austen<span class="pagenum"><span id="Page_viii"></span>[viii]</span> re-christened *Elinor and Marianne* before she changed the title of *First Impressions*, as she well may have, it is extremely unlikely that the name of *Pride and Prejudice* has anything to do with *Cecilia* (which, besides, had been published at least twenty years before). Upon the whole, therefore, it is most likely that the passage in Madame D’Arblay is a mere coincidence; and that in *Sense and Sensibility*, as well as in the novel that succeeded it in publication, Miss Austen, after the fashion of the old morality plays, simply substituted the leading characteristics of her principal personages for their names. Indeed, in *Sense and Sensibility* the sense of Elinor, and the sensibility (or rather *sensiblerie*) of Marianne, are markedly emphasised in the opening pages of the book But Miss Austen subsequently, and, as we think, wisely, discarded in her remaining efforts the cheap attraction of an alliterative title. *Emma* and *Persuasion, Northanger Abbey* and *Mansfield Park*, are names far more in consonance with the quiet tone of her easy and unobtrusive art.
 
@@ -55,7 +25,8 @@ Of local colouring there is as little in *Sense and Sensibility* as in *Pride an
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_I"></span>CHAPTER I
+
+## Chapter I
 
 The family of Dashwood had long been settled in Sussex. Their estate was large, and their residence was at Norland Park, in the centre of their property, where, for many generations, they had lived in so respectable a manner as to engage the general good opinion of their surrounding acquaintance. The late owner of this estate was a single man, who lived to a very advanced age, and who for many years of his life, had a constant companion and housekeeper in his sister. But her death, which happened ten years before his own, produced a great alteration in his home; for to supply her loss, he invited and received into his house the family of his nephew Mr. Henry Dashwood, the legal inheritor of the Norland estate, and the person to whom he intended to bequeath it. In the society of his nephew and niece, and their children, the old Gentleman’s days were comfortably spent. His attachment to them all increased. The constant attention of Mr. and Mrs. Henry Dashwood to his wishes, which proceeded not merely from interest, but from goodness of heart, gave him every degree of solid comfort which his age could receive; and the cheerfulness of the children added a relish to his existence.
 
@@ -102,7 +73,7 @@ Margaret, the other sister, was a good-humored, well-disposed girl; but as she h
 
 <span class="pagenum"><span id="Page_6"></span>[6]</span>
 
-## <span id="CHAPTER_II"></span>CHAPTER II
+## Chapter II
 
 Mrs. John Dashwood now installed herself mistress of Norland; and her mother and sisters-in-law were degraded to the condition of visitors. As such, however, they were treated by her with quiet civility; and by her husband with as much kindness as he could feel towards anybody beyond himself, his wife, and their child. He really pressed them, with some earnestness, to consider Norland as their home; and, as no plan appeared so eligible to Mrs. Dashwood as remaining there till she could accommodate herself with a house in the neighbourhood, his invitation was accepted.
 
@@ -164,7 +135,7 @@ This argument was irresistible. It gave to his intentions whatever of decision w
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_III"></span>CHAPTER III
+## Chapter III
 
 Mrs. Dashwood remained at Norland several months; not from any disinclination to move when the sight of every well known spot ceased to raise the violent emotion which it produced<span class="pagenum"><span id="Page_11"></span>[11]</span> for a while; for when her spirits began to revive, and her mind became capable of some other exertion than that of heightening its affliction by melancholy remembrances, she was impatient to be gone, and indefatigable in her inquiries for a suitable dwelling in the neighbourhood of Norland; for to remove far from that beloved spot was impossible. But she could hear of no situation that at once answered her notions of comfort and ease, and suited the prudence of her eldest daughter, whose steadier judgment rejected several houses as too large for their income, which her mother would have approved.
 
@@ -222,7 +193,7 @@ No sooner did she perceive any symptom of love in his behaviour to Elinor, than 
 
 <span class="pagenum"><span id="Page_16"></span>[16]</span>
 
-## <span id="CHAPTER_IV"></span>CHAPTER IV
+## Chapter IV
 
 “What a pity it is, Elinor,” said Marianne, “that Edward should have no taste for drawing.”
 
@@ -268,7 +239,7 @@ Elinor had always thought it would be more prudent for them to settle at some di
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_V"></span>CHAPTER V
+## Chapter V
 
 No sooner was her answer dispatched, than Mrs. Dashwood indulged herself in the pleasure of announcing to her son-in-law and his wife that she was provided with a house, and should incommode them no longer than till every thing were<span class="pagenum"><span id="Page_21"></span>[21]</span> ready for her inhabiting it. They heard her with surprise. Mrs. John Dashwood said nothing; but her husband civilly hoped that she would not be settled far from Norland. She had great satisfaction in replying that she was going into Devonshire. Edward turned hastily towards her, on hearing this, and, in a voice of surprise and concern, which required no explanation to her, repeated, “Devonshire! Are you, indeed, going there? So far from hence! And to what part of it?” She explained the situation. It was within four miles northward of Exeter.
 
@@ -288,7 +259,7 @@ Many were the tears shed by them in their last adieus to a place so much beloved
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_VI"></span>CHAPTER VI
+## Chapter VI
 
 The first part of their journey was performed in too melancholy a disposition to be otherwise than tedious and unpleasant. But as they drew towards the end of it, their interest in the appearance of a country which they were to inhabit overcame their dejection, and a view of Barton Valley as they entered it gave them cheerfulness. It was a pleasant fertile spot, well wooded, and rich in pasture. After winding along it for more than a mile, they reached their own house. A small green court was the whole of its demesne in front; and a neat wicket gate admitted them into it.
 
@@ -321,7 +292,7 @@ An opportunity was soon to be given to the Dashwoods of debating on the rest of 
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_VII"></span>CHAPTER VII
+## Chapter VII
 
 Barton Park was about half a mile from the cottage. The ladies had passed near it in their way along the valley, but it was screened from their view at home by the projection of a hill. The house was large and handsome; and the Middletons lived in a style of equal hospitality and elegance. The former was for Sir John’s gratification, the latter for that of his lady. They were scarcely ever without some friends staying with them in the house, and they kept more company of every kind than any other family in the neighbourhood. It was necessary<span class="pagenum"><span id="Page_28"></span>[28]</span> to the happiness of both; for however dissimilar in temper and outward behaviour, they strongly resembled each other in that total want of talent and taste which confined their employments, unconnected with such as society produced, within a very narrow compass. Sir John was a sportsman, Lady Middleton a mother. He hunted and shot, and she humoured her children; and these were their only resources. Lady Middleton had the advantage of being able to spoil her children all the year round, while Sir John’s independent employments were in existence only half the time. Continual engagements at home and abroad, however, supplied all the deficiencies of nature and education; supported the good spirits of Sir John, and gave exercise to the good breeding of his wife.
 
@@ -345,7 +316,7 @@ Marianne’s performance was highly applauded. Sir John was loud in his admirati
 
 <span class="pagenum"><span id="Page_31"></span>[31]</span>
 
-## <span id="CHAPTER_VIII"></span>CHAPTER VIII
+## Chapter VIII
 
 Mrs. Jennings was a widow with an ample jointure. She had only two daughters, both of whom she had lived to see respectably married, and she had now therefore nothing to do but to marry all the rest of the world. In the promotion of this object she was zealously active, as far as her ability reached; and missed no opportunity of projecting weddings among all the young people of her acquaintance. She was remarkably quick in the discovery of attachments, and had enjoyed the advantage of raising the blushes and the vanity of many a young lady by insinuations of her power over such a young man; and this kind of discernment enabled her soon after her arrival at Barton decisively to pronounce that Colonel Brandon was very much in love with Marianne Dashwood. She rather suspected it to be so, on the very first evening of their being together, from his listening so attentively while she sang to them; and when the visit was returned by the Middletons’ dining at the cottage, the fact was ascertained by his listening to her again. It must be so. She was perfectly convinced of it. It would be an excellent match, for *he* was rich, and *she* was handsome. Mrs. Jennings had been anxious to see Colonel Brandon well married, ever since her connection with Sir John first brought him to her knowledge; and she was always anxious to get a good husband for every pretty girl.
 
@@ -385,7 +356,7 @@ Soon after this, upon Elinor’s leaving the room, “Mamma,” said Marianne, �
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_IX"></span>CHAPTER IX
+## Chapter IX
 
 The Dashwoods were now settled at Barton with tolerable comfort to themselves. The house and the garden, with all the objects surrounding them, were now become familiar, and the ordinary pursuits which had given to Norland half its charms were engaged in again with far greater enjoyment than Norland had been able to afford, since the loss of their father. Sir John Middleton, who called on them every day for the first fortnight, and who was not in the habit of seeing much occupation at home, could not conceal his amazement on finding them always employed.
 
@@ -455,7 +426,7 @@ Sir John did not much understand this reproof; but he laughed as heartily as if 
 
 <span class="pagenum"><span id="Page_39"></span>[39]</span>
 
-## <span id="CHAPTER_X"></span>CHAPTER X
+## Chapter X
 
 Marianne’s preserver, as Margaret, with more elegance than precision, styled Willoughby, called at the cottage early the next morning to make his personal enquiries. He was received by Mrs. Dashwood with more than politeness; with a kindness which Sir John’s account of him and her own gratitude prompted; and every thing that passed during the visit tended to assure him of the sense, elegance, mutual affection, and domestic comfort of the family to whom accident had now introduced him. Of their personal charms he had not required a second interview to be convinced.
 
@@ -524,7 +495,7 @@ Perhaps she pitied and esteemed him the more because he was slighted by Willough
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XI"></span>CHAPTER XI
+## Chapter XI
 
 Little had Mrs. Dashwood or her daughters imagined when they first came into Devonshire, that so many engagements would arise to occupy their time as shortly presented themselves, or that they should have such frequent invitations and such constant visitors as to leave them little leisure for serious employment. Yet such was the case. When Marianne was recovered, the schemes of amusement at home and abroad, which Sir John had been previously forming, were put into execution. The private balls at the park then began; and parties on the water were made and accomplished as often as a showery October would allow. In every meeting of the kind Willoughby was included; and the ease and familiarity which naturally attended these parties were exactly calculated to give increasing intimacy to his acquaintance with the Dashwoods, to afford him opportunity of witnessing the excellencies of Marianne, of marking his animated admiration of her, and of receiving, in her behaviour to himself, the most pointed assurance of her affection.
 
@@ -562,7 +533,7 @@ After a short pause he resumed the conversation by saying—
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XII"></span>CHAPTER XII
+## Chapter XII
 
 As Elinor and Marianne were walking together the next morning the latter communicated a piece of news to her sister, which in spite of all that she knew before of Marianne’s imprudence and want of thought, surprised her by its extravagant testimony of both. Marianne told her, with the greatest delight, that Willoughby had given her a horse, one that he had bred himself on his estate in Somersetshire, and which was exactly calculated to carry a woman. Without considering that it was not in her mother’s plan to keep any horse, that if she were to alter her resolution in favour of this gift, she must buy another for the servant, and keep a servant to ride it, and after all, build a stable to receive them, she had accepted the present without hesitation, and told her sister of it in raptures.
 
@@ -633,7 +604,7 @@ To some few of the company it appeared rather a bold undertaking, considering th
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XIII"></span>CHAPTER XIII
+## Chapter XIII
 
 Their intended excursion to Whitwell turned out very different from what Elinor had expected. She was prepared to be wet through, fatigued, and frightened; but the event was still more unfortunate, for they did not go at all.
 
@@ -804,7 +775,7 @@ Could Elinor have listened to her without interruption from the others, she woul
 
 <span class="pagenum"><span id="Page_61"></span>[61]</span>
 
-## <span id="CHAPTER_XIV"></span>CHAPTER XIV
+## Chapter XIV
 
 The sudden termination of Colonel Brandon’s visit at the park, with his steadiness in concealing its cause, filled the mind, and raised the wonder of Mrs. Jennings for two or three days; she was a great wonderer, as every one must be who takes a very lively interest in all the comings and goings of all their acquaintance. She wondered, with little intermission what could be the reason of it; was sure there must be some bad news, and thought over every kind of distress that could have befallen him, with a fixed determination that he should not escape them all.
 
@@ -854,7 +825,7 @@ He engaged to be with them by four o’clock.
 
 <span class="pagenum"><span id="Page_65"></span>[65]</span>
 
-## <span id="CHAPTER_XV"></span>CHAPTER XV
+## Chapter XV
 
 Mrs. Dashwood’s visit to Lady Middleton took place the next day, and two of her daughters went with her; but Marianne excused herself from being of the party, under some trifling pretext of employment; and her mother, who concluded that a promise had been made by Willoughby the night before of calling on her while they were absent, was perfectly satisfied with her remaining at home.
 
@@ -965,7 +936,7 @@ This violent oppression of spirits continued the whole evening. She was without 
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XVI"></span>CHAPTER XVI
+## Chapter XVI
 
 Marianne would have thought herself very inexcusable had she been able to sleep at all the first night after parting from Willoughby. She would have been ashamed to look her family in the face the next morning, had she not risen from her bed in more need of repose than when she lay down in it. But the feelings which made such composure a disgrace, left her in no danger of incurring it. She was awake the whole night, and she wept the greatest part of it. She got up with a headache, was unable to talk, and unwilling to take any nourishment; giving pain every moment to her mother and<span class="pagenum"><span id="Page_73"></span>[73]</span> sisters, and forbidding all attempt at consolation from either. Her sensibility was potent enough!
 
@@ -1062,7 +1033,7 @@ Elinor took no notice of this; and directing her attention to their visitor, end
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XVII"></span>CHAPTER XVII
+## Chapter XVII
 
 Mrs. Dashwood was surprised only for a moment at seeing him; for his coming to Barton was, in her opinion, of all things the most natural. Her joy and expression of regard long outlived her wonder. He received the kindest welcome from her; and shyness, coldness, reserve could not stand against such a reception. They had begun to fail him before he entered the house, and they were quite overcome by the captivating manners of Mrs. Dashwood. Indeed a man could not very well be in love with either of her daughters, without extending the passion to her; and Elinor had the satisfaction of seeing him soon become more like himself. His affections seemed to reanimate towards them all, and his interest in their welfare again became perceptible. He was not in spirits, however; he praised their house, admired its prospect, was attentive, and kind; but still he was not in spirits. The whole family perceived it, and Mrs. Dashwood, attributing it to some want of liberality in his mother, sat down to table indignant against all selfish parents.
 
@@ -1170,7 +1141,7 @@ Edward made no answer. His gravity and thoughtfulness returned on him in their f
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XVIII"></span>CHAPTER XVIII
+## Chapter XVIII
 
 Elinor saw, with great uneasiness the low spirits of her friend. His visit afforded her but a very partial satisfaction, while his own enjoyment in it appeared so imperfect. It was evident that he was unhappy; she wished it were equally evident that he still distinguished her by the same affection which once she had felt no doubt of inspiring; but hitherto the continuance of his preference seemed very uncertain; and the reservedness of his manner towards her contradicted one moment what a more animated look had intimated the preceding one.
 
@@ -1245,7 +1216,7 @@ Marianne was surprised and confused, yet she could not help smiling at the quiet
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XIX"></span>CHAPTER XIX
+## Chapter XIX
 
 Edward remained a week at the cottage; he was earnestly pressed by Mrs. Dashwood to stay longer; but, as if he were bent only on self-mortification, he seemed resolved to be gone when his enjoyment among his friends was at the height. His spirits, during the last two or three days, though still very unequal, were greatly improved—he grew more and more partial to the house and environs—never spoke of going away without a sigh—declared his time to be wholly disengaged—even<span class="pagenum"><span id="Page_89"></span>[89]</span> doubted to what place he should go when he left them—but still, go he must. Never had any week passed so quickly—he could hardly believe it to be gone. He said so repeatedly; other things he said too, which marked the turn of his feelings and gave the lie to his actions. He had no pleasure at Norland; he detested being in town; but either to Norland or London, he must go. He valued their kindness beyond any thing, and his greatest happiness was in being with them. Yet, he must leave them at the end of a week, in spite of their wishes and his own, and without any restraint on his time.
 
@@ -1344,7 +1315,7 @@ Sir John had been very urgent with them all to spend the next day at the park. M
 
 <span class="pagenum"><span id="Page_97"></span>[97]</span>
 
-## <span id="CHAPTER_XX"></span>CHAPTER XX
+## Chapter XX
 
 As the Miss Dashwoods entered the drawing-room of the park the next day, at one door, Mrs. Palmer came running in at the other, looking as good humoured and merry as before. She took them all most affectionately by the hand, and expressed great delight in seeing them again.
 
@@ -1476,7 +1447,7 @@ Mrs. Palmer’s information respecting Willoughby was not very material; but any
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XXI"></span>CHAPTER XXI
+## Chapter XXI
 
 The Palmers returned to Cleveland the next day, and the two families at Barton were again left to entertain each other. But this did not last long; Elinor had hardly got their last visitors out of her head, had hardly done wondering at Charlotte’s being so happy without a cause, at Mr. Palmer’s acting so simply, with good abilities, and at the strange unsuitableness which often existed between husband and wife, before Sir John’s and Mrs. Jennings’s active zeal in the cause of society, procured her some other new acquaintance to see and observe.
 
@@ -1584,7 +1555,7 @@ Elinor heard all this with attention and surprise. “And who was this uncle? Wh
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XXII"></span>CHAPTER XXII
+## Chapter XXII
 
 Marianne, who had never much toleration for any thing like impertinence, vulgarity, inferiority of parts, or even difference of taste from herself, was at this time particularly ill-disposed, from the state of her spirits, to be pleased with the Miss Steeles, or to encourage their advances; and to the invariable coldness of her behaviour towards them, which checked every endeavour at intimacy on their side, Elinor principally attributed that preference of herself which soon became evident in the manners of both, but especially of Lucy, who missed no opportunity of engaging her in conversation, or of striving to improve their acquaintance by an easy and frank communication of her sentiments.
 
@@ -1709,7 +1680,7 @@ Fortunately for her, they had now reached the cottage, and the conversation coul
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XXIII"></span>CHAPTER XXIII
+## Chapter XXIII
 
 However small Elinor’s general dependence on Lucy’s veracity might be, it was impossible for her on serious reflection to suspect it in the present case, where no temptation could be answerable to the folly of inventing a falsehood of such a description. What Lucy had asserted to be true, therefore, Elinor could not, dared not longer doubt; supported as it was too on every side by such probabilities and proofs, and contradicted by nothing but her own wishes. Their opportunity of acquaintance in the house of Mr. Pratt was a foundation for the rest, at once indisputable and alarming; and Edward’s visit near Plymouth, his melancholy state of mind, his dissatisfaction at his own prospects, his uncertain behaviour towards herself, the intimate knowledge of the Miss Steeles as to Norland and their family connections, which had often surprised her, the picture, the letter, the ring, formed<span class="pagenum"><span id="Page_121"></span>[121]</span> altogether such a body of evidence, as overcame every fear of condemning him unfairly, and established as a fact, which no partiality could set aside, his ill-treatment of herself. Her resentment of such behaviour, her indignation at having been its dupe, for a short time made her feel only for herself; but other ideas, other considerations, soon arose. Had Edward been intentionally deceiving her? Had he feigned a regard for her which he did not feel? Was his engagement to Lucy an engagement of the heart? No; whatever it might once have been, she could not believe it such at present. His affection was all her own. She could not be deceived in that. Her mother, sisters, Fanny, all had been conscious of his regard for her at Norland; it was not an illusion of her own vanity. He certainly loved her. What a softener of the heart was this persuasion! How much could it not tempt her to forgive! He had been blamable, highly blamable, in remaining at Norland after he first felt her influence over him to be more than it ought to be. In that, he could not be defended; but if he had injured her, how much more had he injured himself; if her case were pitiable, his was hopeless. His imprudence had made her miserable for a while; but it seemed to have deprived himself of all chance of ever being otherwise. She might in time regain tranquillity; but *he*, what had he to look forward to? Could he ever be tolerably happy with Lucy Steele; could he, were his affection for herself out of the question, with his integrity, his delicacy, and well-informed mind, be satisfied with a wife like her—illiterate, artful, and selfish?
 
@@ -1761,7 +1732,7 @@ Elinor joyfully profited by the first of these proposals, and thus by a little o
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XXIV"></span>CHAPTER XXIV
+## Chapter XXIV
 
 In a firm, though cautious tone, Elinor thus began.
 
@@ -1864,7 +1835,7 @@ The visit of the Miss Steeles at Barton Park was lengthened far beyond what the 
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XXV"></span>CHAPTER XXV
+## Chapter XXV
 
 Though Mrs. Jennings was in the habit of spending a large portion of the year at the houses of her children and friends, she was not without a settled habitation of her own. Since the death of her husband, who had traded with success in a less elegant part of the town, she had resided every winter in<span class="pagenum"><span id="Page_133"></span>[133]</span> a house in one of the streets near Portman Square. Towards this home, she began on the approach of January to turn her thoughts, and thither she one day abruptly, and very unexpectedly by them, asked the elder Misses Dashwood to accompany her. Elinor, without observing the varying complexion of her sister, and the animated look which spoke no indifference to the plan, immediately gave a grateful but absolute denial for both, in which she believed herself to be speaking their united inclinations. The reason alleged was their determined resolution of not leaving their mother at that time of the year. Mrs. Jennings received the refusal with some surprise, and repeated her invitation immediately.
 
@@ -1912,7 +1883,7 @@ Their departure took place in the first week in January. The Middletons were to 
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XXVI"></span>CHAPTER XXVI
+## Chapter XXVI
 
 Elinor could not find herself in the carriage with Mrs. Jennings, and beginning a journey to London under her protection, and as her guest, without wondering at her own situation, so short had their acquaintance with that lady been, so wholly unsuited were they in age and disposition, and so many had been her objections against such a measure only a few days before! But these objections had all, with that happy ardour of youth which Marianne and her mother equally shared, been overcome or overlooked; and Elinor, in spite of every occasional doubt of Willoughby’s constancy, could not witness the rapture of delightful expectation which filled<span class="pagenum"><span id="Page_138"></span>[138]</span> the whole soul and beamed in the eyes of Marianne, without feeling how blank was her own prospect, how cheerless her own state of mind in the comparison, and how gladly she would engage in the solicitude of Marianne’s situation to have the same animating object in view, the same possibility of hope. A short, a very short time however must now decide what Willoughby’s intentions were; in all probability he was already in town. Marianne’s eagerness to be gone declared her dependence on finding him there; and Elinor was resolved not only upon gaining every new light as to his character which her own observation or the intelligence of others could give her, but likewise upon watching his behaviour to her sister with such zealous attention, as to ascertain what he was and what he meant, before many meetings had taken place. Should the result of her observations be unfavourable, she was determined at all events to open the eyes of her sister; should it be otherwise, her exertions would be of a different nature—she must then learn to avoid every selfish comparison, and banish every regret which might lessen her satisfaction in the happiness of Marianne.
 
@@ -1980,7 +1951,7 @@ Mrs. Palmer and two elderly ladies of Mrs. Jennings’s intimate acquaintance, w
 
 <span class="pagenum"><span id="Page_144"></span>[144]</span>
 
-## <span id="CHAPTER_XXVII"></span>CHAPTER XXVII
+## Chapter XXVII
 
 “If this open weather holds much longer,” said Mrs. Jennings, when they met at breakfast the following morning, “Sir John will not like leaving Barton next week; ’tis a sad thing for sportsmen to lose a day’s pleasure. Poor souls! I always pity them when they do; they seem to take it so much to heart.”
 
@@ -2078,7 +2049,7 @@ Elinor derived no comfortable feelings from this conversation, to lessen the une
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XXVIII"></span>CHAPTER XXVIII
+## Chapter XXVIII
 
 Nothing occurred during the next three or four days, to make Elinor regret what she had done, in applying to her mother; for Willoughby neither came nor wrote. They were engaged about the end of that time to attend Lady Middleton to a party, from which Mrs. Jennings was kept away by the indisposition of her youngest daughter; and for this party, Marianne, wholly dispirited, careless of her appearance, and seeming equally indifferent whether she went or staid, prepared, without one look of hope or one expression of pleasure. She sat by the drawing-room fire after tea, till the moment of Lady Middleton’s arrival, without once stirring from her seat, or altering her attitude, lost in her own thoughts, and insensible of her sister’s presence; and when at last they were told that<span class="pagenum"><span id="Page_151"></span>[151]</span> Lady Middleton waited for them at the door, she started as if she had forgotten that any one was expected.
 
@@ -2127,7 +2098,7 @@ As for Marianne, on the pangs which so unhappy a meeting must already have given
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XXIX"></span>CHAPTER XXIX
+## Chapter XXIX
 
 Before the housemaid had lit their fire the next day, or the sun gained any power over a cold, gloomy morning in January, Marianne, only half dressed, was kneeling against one of the window-seats for the sake of all the little light she could command from it, and writing as fast as a continual flow of tears would permit her. In this situation, Elinor, roused from sleep by her agitation and sobs, first perceived her; and after observing her for a few moments with silent anxiety, said, in a tone of the most considerate gentleness—
 
@@ -2293,7 +2264,7 @@ Elinor advised her to lie down again, and for a moment she did so; but no attitu
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XXX"></span>CHAPTER XXX
+## Chapter XXX
 
 Mrs. Jennings came immediately to their room on her return, and without waiting to have her request of admittance answered, opened the door and walked in with a look of real concern.
 
@@ -2394,7 +2365,7 @@ He made no answer; and soon afterwards, by the removal of the tea-things, and th
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XXXI"></span>CHAPTER XXXI
+## Chapter XXXI
 
 From a night of more sleep than she had expected, Marianne awoke the next morning to the same consciousness of misery in which she had closed her eyes.
 
@@ -2490,7 +2461,7 @@ Recollecting, soon afterwards, that he was probably dividing Elinor from her sis
 
 <span class="pagenum"><span id="Page_183"></span>[183]</span>
 
-## <span id="CHAPTER_XXXII"></span>CHAPTER XXXII
+## Chapter XXXII
 
 When the particulars of this conversation were repeated by Miss Dashwood to her sister, as they very soon were, the effect on her was not entirely such as the former had hoped to see. Not that Marianne appeared to distrust the truth of any part of it, for she listened to it all with the most steady and submissive attention, made neither objection nor remark, attempted no vindication of Willoughby, and seemed to show by her tears that she felt it to be impossible. But though this behaviour assured Elinor that the conviction of this guilt *was* carried home to her mind, though she saw with satisfaction the effect of it, in her no longer avoiding Colonel Brandon when he called, in her speaking to him, even voluntarily speaking, with a kind of compassionate respect, and though she saw her spirits less violently irritated than before, she did not see her less wretched. Her mind did become settled, but it was settled in a gloomy dejection. She felt the loss of Willoughby’s character yet more heavily than she had felt the loss of his heart; his seduction and desertion of Miss Williams, the misery of that poor girl, and the doubt of what his designs might *once* have been on herself, preyed altogether so much on her spirits, that she could not bring herself to speak of what she felt even to Elinor; and, brooding over her sorrows in silence, gave more pain to her sister than could have been communicated by the most open and most frequent confession of them.
 
@@ -2598,7 +2569,7 @@ Elinor began to find this impertinence too much for her temper; but she was save
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XXXIII"></span>CHAPTER XXXIII
+## Chapter XXXIII
 
 After some opposition, Marianne yielded to her sister’s entreaties, and consented to go out with her and Mrs. Jennings one morning for half an hour. She expressly conditioned, however, for paying no visits, and would do no more than accompany them to Gray’s in Sackville Street, where Elinor was carrying on a negotiation for the exchange of a few old-fashioned jewels of her mother.
 
@@ -2726,7 +2697,7 @@ They were lucky enough to find Lady Middleton at home, and Sir John came in befo
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XXXIV"></span>CHAPTER XXXIV
+## Chapter XXXIV
 
 Mrs. John Dashwood had so much confidence in her husband’s judgment, that she waited the very next day both on Mrs. Jennings and her daughter; and her confidence was rewarded by finding even the former, even the woman with whom her sisters were staying, by no means unworthy her notice; and as for Lady Middleton, she found her one of the most charming women in the world!
 
@@ -2823,7 +2794,7 @@ In a few minutes, however, Marianne was recovered enough to put an end to the bu
 
 <span class="pagenum"><span id="Page_209"></span>[209]</span>
 
-## <span id="CHAPTER_XXXV"></span>CHAPTER XXXV
+## Chapter XXXV
 
 Elinor’s curiosity to see Mrs. Ferrars was satisfied. She had found in her every thing that could tend to make a farther connection between the families undesirable. She had seen enough of her pride, her meanness, and her determined prejudice against herself, to comprehend all the difficulties that must have perplexed the engagement, and retarded the marriage, of Edward and herself, had he been otherwise free;—and she had seen almost enough to be thankful for her *own* sake, that one greater obstacle preserved her from suffering under any other of Mrs. Ferrars’s creation, preserved her from all dependence upon her caprice, or any solicitude for her good opinion. Or at least, if she did not bring herself quite to rejoice in Edward’s being fettered to Lucy, she determined, that had Lucy been more amiable, she *ought* to have rejoiced.
 
@@ -2932,7 +2903,7 @@ She then left the room; and Elinor dared not follow her to say more, for bound a
 
 <span class="pagenum"><span id="Page_216"></span>[216]</span>
 
-## <span id="CHAPTER_XXXVI"></span>CHAPTER XXXVI
+## Chapter XXXVI
 
 Within a few days after this meeting, the newspapers announced to the world, that the lady of Thomas Palmer, Esq. was safely delivered of a son and heir; a very interesting and satisfactory paragraph, at least to all those intimate connections who knew it before.
 
@@ -2992,7 +2963,7 @@ The Miss Steeles removed to Harley Street, and all that reached Elinor of their 
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XXXVII"></span>CHAPTER XXXVII
+## Chapter XXXVII
 
 Mrs. Palmer was so well at the end of a fortnight, that her mother felt it no longer necessary to give up the whole of her time to her; and, contenting herself with visiting her once or twice a day, returned from that period to her own home, and her own habits, in which she found the Miss Dashwoods very ready to resume their former share.
 
@@ -3143,7 +3114,7 @@ Marianne’s indignation burst forth as soon as he quitted the room; and as her 
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XXXVIII"></span>CHAPTER XXXVIII
+## Chapter XXXVIII
 
 Mrs. Jennings was very warm in her praise of Edward’s conduct, but only Elinor and Marianne understood its true merit. *They* only knew how little he had had to tempt him to be disobedient, and how small was the consolation, beyond the consciousness of doing right, that could remain to him in the loss of friends and fortune. Elinor gloried in his integrity; and Marianne forgave all his offences in compassion for his punishment. But though confidence between them was, by this public discovery, restored to its proper state, it was not a subject on which either of them were fond of dwelling when alone. Elinor avoided it upon principle, as tending to fix still more upon her thoughts, by the too warm,<span class="pagenum"><span id="Page_238"></span>[238]</span> too positive assurances of Marianne, that belief of Edward’s continued affection for herself which she rather wished to do away; and Marianne’s courage soon failed her, in trying to converse upon a topic which always left her more dissatisfied with herself than ever, by the comparison it necessarily produced between Elinor’s conduct and her own.
 
@@ -3239,7 +3210,7 @@ As soon as Elinor had finished it, she performed what she concluded to be its wr
 
 <span class="pagenum"><span id="Page_247"></span>[247]</span>
 
-## <span id="CHAPTER_XXXIX"></span>CHAPTER XXXIX
+## Chapter XXXIX
 
 The Miss Dashwoods had now been rather more than two months in town, and Marianne’s impatience to be gone increased every day. She sighed for the air, the liberty, the quiet of the country; and fancied that if any place could give her ease, Barton must do it. Elinor was hardly less anxious than herself for their removal, and only so much less bent on its being effected immediately, as that she was conscious of the difficulties of so long a journey, which Marianne could not be brought to acknowledge. She began, however, seriously to turn her thoughts towards its accomplishment, and had already mentioned their wishes to their kind hostess, who resisted them with all the eloquence of her good-will, when a plan was suggested, which, though detaining them from home yet a few weeks longer, appeared to Elinor altogether much more eligible than any other. The Palmers were to remove to Cleveland about the end of March, for the Easter holidays; and Mrs. Jennings, with both her friends, received a very warm invitation from Charlotte to go with them. This would not, in itself, have been sufficient for the delicacy of Miss Dashwood;—but it was enforced with so much real politeness by Mr. Palmer himself, as, joined to the very great amendment of his manners towards them since her sister had been known to be unhappy, induced her to accept it with pleasure.
 
@@ -3293,7 +3264,7 @@ Such was the sentence which, when misunderstood, so justly offended the delicate
 
 <span class="pagenum"><span id="Page_252"></span>[252]</span>
 
-## <span id="CHAPTER_XL"></span>CHAPTER XL
+## Chapter XL
 
 “Well, Miss Dashwood,” said Mrs. Jennings, sagaciously smiling, as soon as the gentleman had withdrawn, "I do not ask you what the Colonel has been saying to you; for though, upon my honour, I *tried* to keep out of hearing, I could not help catching enough to understand his business. And I assure you I never was better pleased in my life, and I wish you joy of it with all my heart."
 
@@ -3422,7 +3393,7 @@ Elinor was quite of her opinion, as to the probability of their not waiting for 
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XLI"></span>CHAPTER XLI
+## Chapter XLI
 
 Edward, having carried his thanks to Colonel Brandon, proceeded with his happiness to Lucy; and such was the excess of it by the time he reached Bartlett’s Buildings, that she was able to assure Mrs. Jennings, who called on her again the next day with her congratulations, that she had never seen him in such spirits before in her life.
 
@@ -3515,7 +3486,7 @@ He had just settled this point with great composure, when the entrance of Mrs. J
 
 <span class="pagenum"><span id="Page_267"></span>[267]</span>
 
-## <span id="CHAPTER_XLII"></span>CHAPTER XLII
+## Chapter XLII
 
 One other short call in Harley Street, in which Elinor received her brother’s congratulations on their travelling so far towards Barton without any expense, and on Colonel Brandon’s being to follow them to Cleveland in a day or two, completed the intercourse of the brother and sisters in town;—and a faint invitation from Fanny, to come to Norland whenever it should happen to be in their way, which of all things was the most unlikely to occur, with a more warm, though less public, assurance, from John to Elinor, of the promptitude with which he should come to see her at Delaford, was all that foretold any meeting in the country.
 
@@ -3571,7 +3542,7 @@ Two delightful twilight walks on the third and fourth evenings of her being ther
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XLIII"></span>CHAPTER XLIII
+## Chapter XLIII
 
 Marianne got up the next morning at her usual time; to every inquiry replied that she was better, and tried to prove herself so, by engaging in her accustomary employments. But a day spent in sitting shivering over the fire with a book in her hand, which she was unable to read, or in lying, weary and languid, on a sofa, did not speak much in favour of her amendment; and when, at last, she went early to bed, more and more indisposed, Colonel Brandon was only astonished at her sister’s composure, who, though attending and nursing her the whole day, against Marianne’s inclination, and forcing proper medicines on her at night, trusted, like Marianne, to the certainty and efficacy of sleep, and felt no real alarm.
 
@@ -3648,7 +3619,7 @@ The bustle in the vestibule, as she passed along an inner lobby, assured her tha
 
 <span class="pagenum"><span id="Page_283"></span>[283]</span>
 
-## <span id="CHAPTER_XLIV"></span>CHAPTER XLIV
+## Chapter XLIV
 
 Elinor, starting back with a look of horror at the sight of him, obeyed the first impulse of her heart in turning instantly to quit the room, and her hand was already on the lock, when its action was suspended by his hastily advancing, and saying, in a voice rather of command than supplication—
 
@@ -3846,7 +3817,7 @@ And with these words, he almost ran out of the room.
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XLV"></span>CHAPTER XLV
+## Chapter XLV
 
 Elinor, for some time after he left her, for some time even after the sound of his carriage had died away, remained too much oppressed by a crowd of ideas, widely differing in themselves, but of which sadness was the general result, to think even of her sister.
 
@@ -3904,7 +3875,7 @@ Here they were interrupted by the entrance of a third person, and Elinor withdre
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XLVI"></span>CHAPTER XLVI
+## Chapter XLVI
 
 Marianne’s illness, though weakening in its kind, had not been long enough to make her recovery slow; and with youth, natural strength, and her mother’s presence in aid, it proceeded so smoothly as to enable her to remove, within four days after the arrival of the latter, into Mrs. Palmer’s dressing-room. When there, at her own particular request, for she was impatient to pour forth her thanks to him for fetching her mother, Colonel Brandon was invited to visit her.
 
@@ -3988,7 +3959,7 @@ Elinor, dreading her being tired, led her towards home; and till they reached th
 
 <span class="pagenum"><span id="Page_313"></span>[313]</span>
 
-## <span id="CHAPTER_XLVII"></span>CHAPTER XLVII
+## Chapter XLVII
 
 Mrs. Dashwood did not hear unmoved the vindication of her former favourite. She rejoiced in his being cleared from some part of his imputed guilt;—she was sorry for him;—she wished him happy. But the feelings of the past could not be recalled. Nothing could restore him with a faith unbroken—a character unblemished, to Marianne. Nothing could do away the knowledge of what the latter had suffered through his means, nor remove the guilt of his conduct towards Eliza. Nothing could replace him, therefore, in her former esteem, nor injure the interests of Colonel Brandon.
 
@@ -4096,7 +4067,7 @@ When the dessert and the wine were arranged, and Mrs. Dashwood and Elinor were l
 
 <span class="pagenum"><span id="Page_320"></span>[320]</span>
 
-## <span id="CHAPTER_XLVIII"></span>CHAPTER XLVIII
+## Chapter XLVIII
 
 Elinor now found the difference between the expectation of an unpleasant event, however certain the mind may be told to consider it, and certainty itself. She now found, that in spite of herself, she had always admitted a hope, while Edward remained single, that something would occur to prevent his marrying Lucy; that some resolution of his own, some mediation of friends, or some more eligible opportunity of establishment for the lady, would arise to assist the happiness of all. But he was now married; and she condemned her heart for the lurking flattery, which so much heightened the pain of the intelligence.
 
@@ -4162,7 +4133,7 @@ Elinor could sit it no longer. She almost ran out of the room, and as soon as th
 
 ------------------------------------------------------------------------
 
-## <span id="CHAPTER_XLIX"></span>CHAPTER XLIX
+## Chapter XLIX
 
 Unaccountable, however, as the circumstances of his release might appear to the whole family, it was certain that Edward was free; and to what purpose that freedom would be employed was easily pre-determined by all;—for after experiencing the blessings of *one* imprudent engagement, contracted without his mother’s consent, as he had already done for more than four years, nothing less could be expected of him in the failure of *that*, than the immediate contraction of another.
 
@@ -4270,7 +4241,7 @@ After a visit on Colonel Brandon’s side of only three or four days, the two ge
 
 <span class="pagenum"><span id="Page_335"></span>[335]</span>
 
-## <span id="CHAPTER_L"></span>CHAPTER L
+## Chapter L
 
 After a proper resistance on the part of Mrs. Ferrars, just so violent and so steady as to preserve her from that reproach which she always seemed fearful of incurring, the reproach of being too amiable, Edward was admitted to her presence, and pronounced to be again her son.
 

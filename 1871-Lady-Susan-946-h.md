@@ -1,14 +1,6 @@
 # LADY SUSAN
 
-\
-
-## by Jane Austen
-
-\
-\
-
-------------------------------------------------------------------------
-
+✍ Jane Austen
 
 ## I
 
@@ -889,7 +881,7 @@ C. VERNON <span id="link2H_CONC"></span>
 
 </div>
 
-## CONCLUSION
+## Conclusion
 
 This correspondence, by a meeting between some of the parties, and a separation between the others, could not, to the great detriment of the Post Office revenue, be continued any longer. Very little assistance to the State could be derived from the epistolary intercourse of Mrs. Vernon and her niece; for the former soon perceived, by the style of Frederica’s letters, that they were written under her mother’s inspection! and therefore, deferring all particular enquiry till she could make it personally in London, ceased writing minutely or often. Having learnt enough, in the meanwhile, from her open-hearted brother, of what had passed between him and Lady Susan to sink the latter lower than ever in her opinion, she was proportionably more anxious to get Frederica removed from such a mother, and placed under her own care; and, though with little hope of success, was resolved to leave nothing unattempted that might offer a chance of obtaining her sister-in-law’s consent to it. Her anxiety on the subject made her press for an early visit to London; and Mr. Vernon, who, as it must already have appeared, lived only to do whatever he was desired, soon found some accommodating business to call him thither. With a heart full of the matter, Mrs. Vernon waited on Lady Susan shortly after her arrival in town, and was met with such an easy and cheerful affection, as made her almost turn from her with horror. No remembrance of Reginald, no consciousness of guilt, gave one look of embarrassment; she was in excellent spirits, and seemed eager to show at once by ever possible attention to her brother and sister her sense of their kindness, and her pleasure in their society. Frederica was no more altered than Lady Susan; the same restrained manners, the same timid look in the presence of her mother as heretofore, assured her aunt of her situation being uncomfortable, and confirmed her in the plan of altering it. No unkindness, however, on the part of Lady Susan appeared. Persecution on the subject of Sir James was entirely at an end; his name merely mentioned to say that he was not in London; and indeed, in all her conversation, she was solicitous only for the welfare and improvement of her daughter, acknowledging, in terms of grateful delight, that Frederica was now growing every day more and more what a parent could desire. Mrs. Vernon, surprized and incredulous, knew not what to suspect, and, without any change in her own views, only feared greater difficulty in accomplishing them. The first hope of anything better was derived from Lady Susan’s asking her whether she thought Frederica looked quite as well as she had done at Churchhill, as she must confess herself to have sometimes an anxious doubt of London’s perfectly agreeing with her. Mrs. Vernon, encouraging the doubt, directly proposed her niece’s returning with them into the country. Lady Susan was unable to express her sense of such kindness, yet knew not, from a variety of reasons, how to part with her daughter; and as, though her own plans were not yet wholly fixed, she trusted it would ere long be in her power to take Frederica into the country herself, concluded by declining entirely to profit by such unexampled attention. Mrs. Vernon persevered, however, in the offer of it, and though Lady Susan continued to resist, her resistance in the course of a few days seemed somewhat less formidable. The lucky alarm of an influenza decided what might not have been decided quite so soon. Lady Susan’s maternal fears were then too much awakened for her to think of anything but Frederica’s removal from the risk of infection; above all disorders in the world she most dreaded the influenza for her daughter’s constitution!
 

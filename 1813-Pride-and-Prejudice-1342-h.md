@@ -1,13 +1,7 @@
-# PRIDE AND PREJUDICE
+# Pride and Prejudice
 
-\
+✍ Jane Austen
 
-## By Jane Austen
-
-\
-\
-
-------------------------------------------------------------------------
 
 ## Chapter 1
 

@@ -1,90 +1,33 @@
-# LOVE AND FREINDSHIP AND OTHER EARLY WORKS
+# Love and Freindship and Other Early Works: A Collection of Juvenile Writings
 
-## (Love And Friendship And Other Early Works)
-
-### A Collection of Juvenile Writings
-
-\
-
-## By Jane Austen
-
-\
-\
-
-<div class="mynote">
+✍ Jane Austen
 
 Transcriber’s Note: A few very small changes have been made to this version: Italics have been converted to capitals. The British ‘pound’ symbol has been converted to ‘L’; but in general the author’s erratic spelling, punctuation and capitalisations have been retained.
 
-\
 
-</div>
-
-\
-\
-
-------------------------------------------------------------------------
+## Love and Freindship
 
 
-# LOVE AND FREINDSHIP
+☞ To Madame la Comtesse de Feuillide this novel is inscribed by her obliged humble servant.
+— The author
 
-\
+❧ “Deceived in Freindship and Betrayed in Love.”
 
-``` {space="preserve"}
-            TO MADAME LA COMTESSE DE FEUILLIDE THIS NOVEL
-            IS INSCRIBED BY HER
-            OBLIGED HUMBLE SERVANT
 
-            THE AUTHOR.
-          
-```
 
-``` {space="preserve"}
-            “Deceived in Freindship and Betrayed in Love.”
-           
-```
-
-\
-\
-
-------------------------------------------------------------------------
-
-\
-\
- <span id="link2H_4_0002"></span>
-
-## LETTER the FIRST From ISABEL to LAURA
+### LETTER the FIRST From ISABEL to LAURA
 
 How often, in answer to my repeated intreaties that you would give my Daughter a regular detail of the Misfortunes and Adventures of your Life, have you said “No, my freind never will I comply with your request till I may be no longer in Danger of again experiencing such dreadful ones.”
 
 Surely that time is now at hand. You are this day 55. If a woman may ever be said to be in safety from the determined Perseverance of disagreeable Lovers and the cruel Persecutions of obstinate Fathers, surely it must be at such a time of Life. Isabel
 
-<span id="link2H_4_0003"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER 2nd LAURA to ISABEL
+### LETTER 2nd LAURA to ISABEL
 
 Altho’ I cannot agree with you in supposing that I shall never again be exposed to Misfortunes as unmerited as those I have already experienced, yet to avoid the imputation of Obstinacy or ill-nature, I will gratify the curiosity of your daughter; and may the fortitude with which I have suffered the many afflictions of my past Life, prove to her a useful lesson for the support of those which may befall her in her own. Laura
 
-<span id="link2H_4_0004"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER 3rd LAURA to MARIANNE
+### LETTER 3rd LAURA to MARIANNE
 
 As the Daughter of my most intimate freind I think you entitled to that knowledge of my unhappy story, which your Mother has so often solicited me to give you.
 
@@ -96,18 +39,8 @@ In my Mind, every Virtue that could adorn it was centered; it was the Rendez-vou
 
 A sensibility too tremblingly alive to every affliction of my Freinds, my Acquaintance and particularly to every affliction of my own, was my only fault, if a fault it could be called. Alas! how altered now! Tho’ indeed my own Misfortunes do not make less impression on me than they ever did, yet now I never feel for those of an other. My accomplishments too, begin to fade—I can neither sing so well nor Dance so gracefully as I once did—and I have entirely forgot the MINUET DELA COUR. Adeiu. Laura.
 
-<span id="link2H_4_0005"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER 4th Laura to MARIANNE
+### LETTER 4th Laura to MARIANNE
 
 Our neighbourhood was small, for it consisted only of your Mother. She may probably have already told you that being left by her Parents in indigent Circumstances she had retired into Wales on eoconomical motives. There it was our freindship first commenced. Isobel was then one and twenty. Tho’ pleasing both in her Person and Manners (between ourselves) she never possessed the hundredth part of my Beauty or Accomplishments. Isabel had seen the World. She had passed 2 Years at one of the first Boarding-schools in London; had spent a fortnight in Bath and had supped one night in Southampton.
 
@@ -117,18 +50,8 @@ Our neighbourhood was small, for it consisted only of your Mother. She may proba
 
 Ah! little did I then think I was ordained so soon to quit that humble Cottage for the Deceitfull Pleasures of the World. Adeiu Laura.
 
-<span id="link2H_4_0006"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER 5th LAURA to MARIANNE
+### LETTER 5th LAURA to MARIANNE
 
 One Evening in December as my Father, my Mother and myself, were arranged in social converse round our Fireside, we were on a sudden greatly astonished, by hearing a violent knocking on the outward door of our rustic Cot.
 
@@ -150,18 +73,8 @@ Mary, without waiting for any further commands immediately left the room and qui
 
 My natural sensibility had already been greatly affected by the sufferings of the unfortunate stranger and no sooner did I first behold him, than I felt that on him the happiness or Misery of my future Life must depend. Adeiu Laura.
 
-<span id="link2H_4_0007"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER 6th LAURA to MARIANNE
+### LETTER 6th LAURA to MARIANNE
 
 The noble Youth informed us that his name was Lindsay—for particular reasons however I shall conceal it under that of Talbot. He told us that he was the son of an English Baronet, that his Mother had been for many years no more and that he had a Sister of the middle size. “My Father (he continued) is a mean and mercenary wretch—it is only to such particular freinds as this Dear Party that I would thus betray his failings. Your Virtues my amiable Polydore (addressing himself to my father) yours Dear Claudia and yours my Charming Laura call on me to repose in you, my confidence.” We bowed. “My Father seduced by the false glare of Fortune and the Deluding Pomp of Title, insisted on my giving my hand to Lady Dorothea. No never exclaimed I. Lady Dorothea is lovely and Engaging; I prefer no woman to her; but know Sir, that I scorn to marry her in compliance with your Wishes. No! Never shall it be said that I obliged my Father.”
 
@@ -175,18 +88,8 @@ We all admired the noble Manliness of his reply. He continued.
 
 “This instant, Dear and Amiable Edward.” (replied I.). We were immediately united by my Father, who tho’ he had never taken orders had been bred to the Church. Adeiu Laura
 
-<span id="link2H_4_0008"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER 7th LAURA to MARIANNE
+### LETTER 7th LAURA to MARIANNE
 
 We remained but a few days after our Marriage, in the Vale of Uske. After taking an affecting Farewell of my Father, my Mother and my Isabel, I accompanied Edward to his Aunt’s in Middlesex. Philippa received us both with every expression of affectionate Love. My arrival was indeed a most agreable surprise to her as she had not only been totally ignorant of my Marriage with her Nephew, but had never even had the slightest idea of there being such a person in the World.
 
@@ -220,18 +123,8 @@ I soon perceived that tho’ Lovely and Elegant in her Person and tho’ Easy an
 
 She staid but half an hour and neither in the Course of her Visit, confided to me any of her secret thoughts, nor requested me to confide in her, any of Mine. You will easily imagine therefore my Dear Marianne that I could not feel any ardent affection or very sincere Attachment for Lady Dorothea. Adeiu Laura.
 
-<span id="link2H_4_0009"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER 8th LAURA to MARIANNE, in continuation
+### LETTER 8th LAURA to MARIANNE, in continuation
 
 Lady Dorothea had not left us long before another visitor as unexpected a one as her Ladyship, was announced. It was Sir Edward, who informed by Augusta of her Brother’s marriage, came doubtless to reproach him for having dared to unite himself to me without his Knowledge. But Edward foreseeing his design, approached him with heroic fortitude as soon as he entered the Room, and addressed him in the following Manner.
 
@@ -247,18 +140,8 @@ Never did I see such an affecting Scene as was the meeting of Edward and Augustu
 
 “My Life! my Soul!” (exclaimed the former) “My adorable angel!” (replied the latter) as they flew into each other’s arms. It was too pathetic for the feelings of Sophia and myself—We fainted alternately on a sofa. Adeiu Laura.
 
-<span id="link2H_4_0010"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER the 9th From the same to the same
+### LETTER the 9th From the same to the same
 
 Towards the close of the day we received the following Letter from Philippa.
 
@@ -272,52 +155,22 @@ They had been married but a few months when our visit to them commenced during w
 
 By our arrival their Expenses were considerably encreased tho’ their means for supplying them were then nearly exhausted. But they, Exalted Creatures! scorned to reflect a moment on their pecuniary Distresses and would have blushed at the idea of paying their Debts.—Alas! what was their Reward for such disinterested Behaviour! The beautifull Augustus was arrested and we were all undone. Such perfidious Treachery in the merciless perpetrators of the Deed will shock your gentle nature Dearest Marianne as much as it then affected the Delicate sensibility of Edward, Sophia, your Laura, and of Augustus himself. To compleat such unparalelled Barbarity we were informed that an Execution in the House would shortly take place. Ah! what could we do but what we did! We sighed and fainted on the sofa. Adeiu Laura.
 
-<span id="link2H_4_0011"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER 10th LAURA in continuation
+### LETTER 10th LAURA in continuation
 
 When we were somewhat recovered from the overpowering Effusions of our grief, Edward desired that we would consider what was the most prudent step to be taken in our unhappy situation while he repaired to his imprisoned freind to lament over his misfortunes. We promised that we would, and he set forwards on his journey to Town. During his absence we faithfully complied with his Desire and after the most mature Deliberation, at length agreed that the best thing we could do was to leave the House; of which we every moment expected the officers of Justice to take possession. We waited therefore with the greatest impatience, for the return of Edward in order to impart to him the result of our Deliberations. But no Edward appeared. In vain did we count the tedious moments of his absence—in vain did we weep—in vain even did we sigh—no Edward returned—. This was too cruel, too unexpected a Blow to our Gentle Sensibility—we could not support it—we could only faint. At length collecting all the Resolution I was Mistress of, I arose and after packing up some necessary apparel for Sophia and myself, I dragged her to a Carriage I had ordered and we instantly set out for London. As the Habitation of Augustus was within twelve miles of Town, it was not long e’er we arrived there, and no sooner had we entered Holboun than letting down one of the Front Glasses I enquired of every decent-looking Person that we passed “If they had seen my Edward?”
 
 But as we drove too rapidly to allow them to answer my repeated Enquiries, I gained little, or indeed, no information concerning him. “Where am I to drive?” said the Postilion. “To Newgate Gentle Youth (replied I), to see Augustus.” “Oh! no, no, (exclaimed Sophia) I cannot go to Newgate; I shall not be able to support the sight of my Augustus in so cruel a confinement—my feelings are sufficiently shocked by the RECITAL, of his Distress, but to behold it will overpower my Sensibility.” As I perfectly agreed with her in the Justice of her Sentiments the Postilion was instantly directed to return into the Country. You may perhaps have been somewhat surprised my Dearest Marianne, that in the Distress I then endured, destitute of any support, and unprovided with any Habitation, I should never once have remembered my Father and Mother or my paternal Cottage in the Vale of Uske. To account for this seeming forgetfullness I must inform you of a trifling circumstance concerning them which I have as yet never mentioned. The death of my Parents a few weeks after my Departure, is the circumstance I allude to. By their decease I became the lawfull Inheritress of their House and Fortune. But alas! the House had never been their own and their Fortune had only been an Annuity on their own Lives. Such is the Depravity of the World! To your Mother I should have returned with Pleasure, should have been happy to have introduced to her, my charming Sophia and should with Chearfullness have passed the remainder of my Life in their dear Society in the Vale of Uske, had not one obstacle to the execution of so agreable a scheme, intervened; which was the Marriage and Removal of your Mother to a distant part of Ireland. Adeiu Laura.
 
-<span id="link2H_4_0012"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER 11th LAURA in continuation
+### LETTER 11th LAURA in continuation
 
 “I have a Relation in Scotland (said Sophia to me as we left London) who I am certain would not hesitate in receiving me.” “Shall I order the Boy to drive there?” said I—but instantly recollecting myself, exclaimed, “Alas I fear it will be too long a Journey for the Horses.” Unwilling however to act only from my own inadequate Knowledge of the Strength and Abilities of Horses, I consulted the Postilion, who was entirely of my Opinion concerning the Affair. We therefore determined to change Horses at the next Town and to travel Post the remainder of the Journey—. When we arrived at the last Inn we were to stop at, which was but a few miles from the House of Sophia’s Relation, unwilling to intrude our Society on him unexpected and unthought of, we wrote a very elegant and well penned Note to him containing an account of our Destitute and melancholy Situation, and of our intention to spend some months with him in Scotland. As soon as we had dispatched this Letter, we immediately prepared to follow it in person and were stepping into the Carriage for that Purpose when our attention was attracted by the Entrance of a coroneted Coach and 4 into the Inn-yard. A Gentleman considerably advanced in years descended from it. At his first Appearance my Sensibility was wonderfully affected and e’er I had gazed at him a 2d time, an instinctive sympathy whispered to my Heart, that he was my Grandfather. Convinced that I could not be mistaken in my conjecture I instantly sprang from the Carriage I had just entered, and following the Venerable Stranger into the Room he had been shewn to, I threw myself on my knees before him and besought him to acknowledge me as his Grand Child. He started, and having attentively examined my features, raised me from the Ground and throwing his Grand-fatherly arms around my Neck, exclaimed, “Acknowledge thee! Yes dear resemblance of my Laurina and Laurina’s Daughter, sweet image of my Claudia and my Claudia’s Mother, I do acknowledge thee as the Daughter of the one and the Grandaughter of the other.” While he was thus tenderly embracing me, Sophia astonished at my precipitate Departure, entered the Room in search of me. No sooner had she caught the eye of the venerable Peer, than he exclaimed with every mark of Astonishment—“Another Grandaughter! Yes, yes, I see you are the Daughter of my Laurina’s eldest Girl; your resemblance to the beauteous Matilda sufficiently proclaims it. “Oh!” replied Sophia, “when I first beheld you the instinct of Nature whispered me that we were in some degree related—But whether Grandfathers, or Grandmothers, I could not pretend to determine.” He folded her in his arms, and whilst they were tenderly embracing, the Door of the Apartment opened and a most beautifull young Man appeared. On perceiving him Lord St. Clair started and retreating back a few paces, with uplifted Hands, said, “Another Grand-child! What an unexpected Happiness is this! to discover in the space of 3 minutes, as many of my Descendants! This I am certain is Philander the son of my Laurina’s 3d girl the amiable Bertha; there wants now but the presence of Gustavus to compleat the Union of my Laurina’s Grand-Children.”
 
 “And here he is; (said a Gracefull Youth who that instant entered the room) here is the Gustavus you desire to see. I am the son of Agatha your Laurina’s 4th and youngest Daughter,” “I see you are indeed; replied Lord St. Clair—But tell me (continued he looking fearfully towards the Door) tell me, have I any other Grand-children in the House.” “None my Lord.” “Then I will provide for you all without farther delay—Here are 4 Banknotes of 50L each—Take them and remember I have done the Duty of a Grandfather.” He instantly left the Room and immediately afterwards the House. Adeiu, Laura.
 
-<span id="link2H_4_0013"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER the 12th LAURA in continuation
+### LETTER the 12th LAURA in continuation
 
 You may imagine how greatly we were surprised by the sudden departure of Lord St Clair. “Ignoble Grand-sire!” exclaimed Sophia. “Unworthy Grandfather!” said I, and instantly fainted in each other’s arms. How long we remained in this situation I know not; but when we recovered we found ourselves alone, without either Gustavus, Philander, or the Banknotes. As we were deploring our unhappy fate, the Door of the Apartment opened and “Macdonald” was announced. He was Sophia’s cousin. The haste with which he came to our releif so soon after the receipt of our Note, spoke so greatly in his favour that I hesitated not to pronounce him at first sight, a tender and simpathetic Freind. Alas! he little deserved the name—for though he told us that he was much concerned at our Misfortunes, yet by his own account it appeared that the perusal of them, had neither drawn from him a single sigh, nor induced him to bestow one curse on our vindictive stars—. He told Sophia that his Daughter depended on her returning with him to Macdonald-Hall, and that as his Cousin’s freind he should be happy to see me there also. To Macdonald-Hall, therefore we went, and were received with great kindness by Janetta the Daughter of Macdonald, and the Mistress of the Mansion. Janetta was then only fifteen; naturally well disposed, endowed with a susceptible Heart, and a simpathetic Disposition, she might, had these amiable qualities been properly encouraged, have been an ornament to human Nature; but unfortunately her Father possessed not a soul sufficiently exalted to admire so promising a Disposition, and had endeavoured by every means on his power to prevent it encreasing with her Years. He had actually so far extinguished the natural noble Sensibility of her Heart, as to prevail on her to accept an offer from a young Man of his Recommendation. They were to be married in a few months, and Graham, was in the House when we arrived. WE soon saw through his character. He was just such a Man as one might have expected to be the choice of Macdonald. They said he was Sensible, well-informed, and Agreable; we did not pretend to Judge of such trifles, but as we were convinced he had no soul, that he had never read the sorrows of Werter, and that his Hair bore not the least resemblance to auburn, we were certain that Janetta could feel no affection for him, or at least that she ought to feel none. The very circumstance of his being her father’s choice too, was so much in his disfavour, that had he been deserving her, in every other respect yet THAT of itself ought to have been a sufficient reason in the Eyes of Janetta for rejecting him. These considerations we were determined to represent to her in their proper light and doubted not of meeting with the desired success from one naturally so well disposed; whose errors in the affair had only arisen from a want of proper confidence in her own opinion, and a suitable contempt of her father’s. We found her indeed all that our warmest wishes could have hoped for; we had no difficulty to convince her that it was impossible she could love Graham, or that it was her Duty to disobey her Father; the only thing at which she rather seemed to hesitate was our assertion that she must be attached to some other Person. For some time, she persevered in declaring that she knew no other young man for whom she had the the smallest Affection; but upon explaining the impossibility of such a thing she said that she beleived she DID LIKE Captain M’Kenrie better than any one she knew besides. This confession satisfied us and after having enumerated the good Qualities of M’Kenrie and assured her that she was violently in love with him, we desired to know whether he had ever in any wise declared his affection to her.
 
@@ -329,18 +182,8 @@ You may imagine how greatly we were surprised by the sudden departure of Lord St
 
 The amiable M’Kenrie, whose modesty as he afterwards assured us had been the only reason of his having so long concealed the violence of his affection for Janetta, on receiving this Billet flew on the wings of Love to Macdonald-Hall, and so powerfully pleaded his Attachment to her who inspired it, that after a few more private interveiws, Sophia and I experienced the satisfaction of seeing them depart for Gretna-Green, which they chose for the celebration of their Nuptials, in preference to any other place although it was at a considerable distance from Macdonald-Hall. Adeiu Laura.
 
-<span id="link2H_4_0014"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER the 13th LAURA in continuation
+### LETTER the 13th LAURA in continuation
 
 They had been gone nearly a couple of Hours, before either Macdonald or Graham had entertained any suspicion of the affair. And they might not even then have suspected it, but for the following little Accident. Sophia happening one day to open a private Drawer in Macdonald’s Library with one of her own keys, discovered that it was the Place where he kept his Papers of consequence and amongst them some bank notes of considerable amount. This discovery she imparted to me; and having agreed together that it would be a proper treatment of so vile a Wretch as Macdonald to deprive him of money, perhaps dishonestly gained, it was determined that the next time we should either of us happen to go that way, we would take one or more of the Bank notes from the drawer. This well meant Plan we had often successfully put in Execution; but alas! on the very day of Janetta’s Escape, as Sophia was majestically removing the 5th Bank-note from the Drawer to her own purse, she was suddenly most impertinently interrupted in her employment by the entrance of Macdonald himself, in a most abrupt and precipitate Manner. Sophia (who though naturally all winning sweetness could when occasions demanded it call forth the Dignity of her sex) instantly put on a most forbidding look, and darting an angry frown on the undaunted culprit, demanded in a haughty tone of voice “Wherefore her retirement was thus insolently broken in on?” The unblushing Macdonald, without even endeavouring to exculpate himself from the crime he was charged with, meanly endeavoured to reproach Sophia with ignobly defrauding him of his money… The dignity of Sophia was wounded; “Wretch (exclaimed she, hastily replacing the Bank-note in the Drawer) how darest thou to accuse me of an Act, of which the bare idea makes me blush?” The base wretch was still unconvinced and continued to upbraid the justly-offended Sophia in such opprobious Language, that at length he so greatly provoked the gentle sweetness of her Nature, as to induce her to revenge herself on him by informing him of Janetta’s Elopement, and of the active Part we had both taken in the affair. At this period of their Quarrel I entered the Library and was as you may imagine equally offended as Sophia at the ill-grounded accusations of the malevolent and contemptible Macdonald. “Base Miscreant! (cried I) how canst thou thus undauntedly endeavour to sully the spotless reputation of such bright Excellence? Why dost thou not suspect MY innocence as soon?” “Be satisfied Madam (replied he) I DO suspect it, and therefore must desire that you will both leave this House in less than half an hour.”
 
@@ -378,18 +221,8 @@ I was overjoyed to find him yet sensible.
 
 “Talk not to me of Phaetons (said I, raving in a frantic, incoherent manner)—Give me a violin—. I’ll play to him and sooth him in his melancholy Hours—Beware ye gentle Nymphs of Cupid’s Thunderbolts, avoid the piercing shafts of Jupiter—Look at that grove of Firs—I see a Leg of Mutton—They told me Edward was not Dead; but they deceived me—they took him for a cucumber—” Thus I continued wildly exclaiming on my Edward’s Death—. For two Hours did I rave thus madly and should not then have left off, as I was not in the least fatigued, had not Sophia who was just recovered from her swoon, intreated me to consider that Night was now approaching and that the Damps began to fall. “And whither shall we go (said I) to shelter us from either?” “To that white Cottage.” (replied she pointing to a neat Building which rose up amidst the grove of Elms and which I had not before observed—) I agreed and we instantly walked to it—we knocked at the door—it was opened by an old woman; on being requested to afford us a Night’s Lodging, she informed us that her House was but small, that she had only two Bedrooms, but that However we should be wellcome to one of them. We were satisfied and followed the good woman into the House where we were greatly cheered by the sight of a comfortable fire—. She was a widow and had only one Daughter, who was then just seventeen—One of the best of ages; but alas! she was very plain and her name was Bridget….. Nothing therfore could be expected from her—she could not be supposed to possess either exalted Ideas, Delicate Feelings or refined Sensibilities—. She was nothing more than a mere good-tempered, civil and obliging young woman; as such we could scarcely dislike here—she was only an Object of Contempt—. Adeiu Laura.
 
-<span id="link2H_4_0015"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER the 14th LAURA in continuation
+### LETTER the 14th LAURA in continuation
 
 Arm yourself my amiable young Freind with all the philosophy you are Mistress of; summon up all the fortitude you possess, for alas! in the perusal of the following Pages your sensibility will be most severely tried. Ah! what were the misfortunes I had before experienced and which I have already related to you, to the one I am now going to inform you of. The Death of my Father and my Mother and my Husband though almost more than my gentle Nature could support, were trifles in comparison to the misfortune I am now proceeding to relate. The morning after our arrival at the Cottage, Sophia complained of a violent pain in her delicate limbs, accompanied with a disagreable Head-ake She attributed it to a cold caught by her continued faintings in the open air as the Dew was falling the Evening before. This I feared was but too probably the case; since how could it be otherwise accounted for that I should have escaped the same indisposition, but by supposing that the bodily Exertions I had undergone in my repeated fits of frenzy had so effectually circulated and warmed my Blood as to make me proof against the chilling Damps of Night, whereas, Sophia lying totally inactive on the ground must have been exposed to all their severity. I was most seriously alarmed by her illness which trifling as it may appear to you, a certain instinctive sensibility whispered me, would in the End be fatal to her.
 
@@ -413,18 +246,8 @@ Pity and surprise were strongly depictured in your Mother’s countenance, durin
 
 She told me that having a considerable taste for the Beauties of Nature, her curiosity to behold the delightful scenes it exhibited in that part of the World had been so much raised by Gilpin’s Tour to the Highlands, that she had prevailed on her Father to undertake a Tour to Scotland and had persuaded Lady Dorothea to accompany them. That they had arrived at Edinburgh a few Days before and from thence had made daily Excursions into the Country around in the Stage Coach they were then in, from one of which Excursions they were at that time returning. My next enquiries were concerning Philippa and her Husband, the latter of whom I learned having spent all her fortune, had recourse for subsistence to the talent in which, he had always most excelled, namely, Driving, and that having sold every thing which belonged to them except their Coach, had converted it into a Stage and in order to be removed from any of his former Acquaintance, had driven it to Edinburgh from whence he went to Sterling every other Day. That Philippa still retaining her affection for her ungratefull Husband, had followed him to Scotland and generally accompanied him in his little Excursions to Sterling. “It has only been to throw a little money into their Pockets (continued Augusta) that my Father has always travelled in their Coach to veiw the beauties of the Country since our arrival in Scotland—for it would certainly have been much more agreable to us, to visit the Highlands in a Postchaise than merely to travel from Edinburgh to Sterling and from Sterling to Edinburgh every other Day in a crowded and uncomfortable Stage.” I perfectly agreed with her in her sentiments on the affair, and secretly blamed Sir Edward for thus sacrificing his Daughter’s Pleasure for the sake of a ridiculous old woman whose folly in marrying so young a man ought to be punished. His Behaviour however was entirely of a peice with his general Character; for what could be expected from a man who possessed not the smallest atom of Sensibility, who scarcely knew the meaning of simpathy, and who actually snored—. Adeiu Laura.
 
-<span id="link2H_4_0016"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER the 15th LAURA in continuation.
+### LETTER the 15th LAURA in continuation.
 
 When we arrived at the town where we were to Breakfast, I was determined to speak with Philander and Gustavus, and to that purpose as soon as I left the Carriage, I went to the Basket and tenderly enquired after their Health, expressing my fears of the uneasiness of their situation. At first they seemed rather confused at my appearance dreading no doubt that I might call them to account for the money which our Grandfather had left me and which they had unjustly deprived me of, but finding that I mentioned nothing of the Matter, they desired me to step into the Basket as we might there converse with greater ease. Accordingly I entered and whilst the rest of the party were devouring green tea and buttered toast, we feasted ourselves in a more refined and sentimental Manner by a confidential Conversation. I informed them of every thing which had befallen me during the course of my life, and at my request they related to me every incident of theirs.
 
@@ -450,20 +273,10 @@ Finis
 
 June 13th 1790.
 
-------------------------------------------------------------------------
 
-<span id="link2H_4_0017"></span>
 
-<div style="height: 4em;">
 
-\
-\
-\
-\
-
-</div>
-
-## AN UNFINISHED NOVEL IN LETTERS
+## An unfinished novel in letters
 
 To HENRY THOMAS AUSTEN Esqre.
 
@@ -479,50 +292,18 @@ H. T. Austen
 
 L105. 0. 0.
 
-------------------------------------------------------------------------
 
-<span id="link2H_4_0018"></span>
 
-<div style="height: 4em;">
+### Lesley Castle
 
-\
-\
-\
-\
-
-</div>
-
-## LESLEY CASTLE
-
-<span id="link2H_4_0019"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER the FIRST is from Miss MARGARET LESLEY to Miss CHARLOTTE
+### LETTER the FIRST is from Miss MARGARET LESLEY to Miss CHARLOTTE
 
 LUTTERELL. Lesley Castle Janry 3rd—1792.
 
 My Brother has just left us. “Matilda (said he at parting) you and Margaret will I am certain take all the care of my dear little one, that she might have received from an indulgent, and affectionate and amiable Mother.” Tears rolled down his cheeks as he spoke these words—the remembrance of her, who had so wantonly disgraced the Maternal character and so openly violated the conjugal Duties, prevented his adding anything farther; he embraced his sweet Child and after saluting Matilda and Me hastily broke from us and seating himself in his Chaise, pursued the road to Aberdeen. Never was there a better young Man! Ah! how little did he deserve the misfortunes he has experienced in the Marriage state. So good a Husband to so bad a Wife! for you know my dear Charlotte that the Worthless Louisa left him, her Child and reputation a few weeks ago in company with Danvers and dishonour. Never was there a sweeter face, a finer form, or a less amiable Heart than Louisa owned! Her child already possesses the personal Charms of her unhappy Mother! May she inherit from her Father all his mental ones! Lesley is at present but five and twenty, and has already given himself up to melancholy and Despair; what a difference between him and his Father! Sir George is 57 and still remains the Beau, the flighty stripling, the gay Lad, and sprightly Youngster, that his Son was really about five years back, and that HE has affected to appear ever since my remembrance. While our father is fluttering about the streets of London, gay, dissipated, and Thoughtless at the age of 57, Matilda and I continue secluded from Mankind in our old and Mouldering Castle, which is situated two miles from Perth on a bold projecting Rock, and commands an extensive veiw of the Town and its delightful Environs. But tho’ retired from almost all the World, (for we visit no one but the M’Leods, The M’Kenzies, the M’Phersons, the M’Cartneys, the M’Donalds, The M’kinnons, the M’lellans, the M’kays, the Macbeths and the Macduffs) we are neither dull nor unhappy; on the contrary there never were two more lively, more agreable or more witty girls, than we are; not an hour in the Day hangs heavy on our Hands. We read, we work, we walk, and when fatigued with these Employments releive our spirits, either by a lively song, a graceful Dance, or by some smart bon-mot, and witty repartee. We are handsome my dear Charlotte, very handsome and the greatest of our Perfections is, that we are entirely insensible of them ourselves. But why do I thus dwell on myself! Let me rather repeat the praise of our dear little Neice the innocent Louisa, who is at present sweetly smiling in a gentle Nap, as she reposes on the sofa. The dear Creature is just turned of two years old; as handsome as tho’ 2 and 20, as sensible as tho’ 2 and 30, and as prudent as tho’ 2 and 40. To convince you of this, I must inform you that she has a very fine complexion and very pretty features, that she already knows the two first letters in the Alphabet, and that she never tears her frocks—. If I have not now convinced you of her Beauty, Sense and Prudence, I have nothing more to urge in support of my assertion, and you will therefore have no way of deciding the Affair but by coming to Lesley-Castle, and by a personal acquaintance with Louisa, determine for yourself. Ah! my dear Freind, how happy should I be to see you within these venerable Walls! It is now four years since my removal from School has separated me from you; that two such tender Hearts, so closely linked together by the ties of simpathy and Freindship, should be so widely removed from each other, is vastly moving. I live in Perthshire, You in Sussex. We might meet in London, were my Father disposed to carry me there, and were your Mother to be there at the same time. We might meet at Bath, at Tunbridge, or anywhere else indeed, could we but be at the same place together. We have only to hope that such a period may arrive. My Father does not return to us till Autumn; my Brother will leave Scotland in a few Days; he is impatient to travel. Mistaken Youth! He vainly flatters himself that change of Air will heal the Wounds of a broken Heart! You will join with me I am certain my dear Charlotte, in prayers for the recovery of the unhappy Lesley’s peace of Mind, which must ever be essential to that of your sincere freind M. Lesley.
 
-<span id="link2H_4_0020"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER the SECOND From Miss C. LUTTERELL to Miss M. LESLEY in answer.
+### LETTER the SECOND From Miss C. LUTTERELL to Miss M. LESLEY in answer.
 
 Glenford Febry 12
 
@@ -534,35 +315,15 @@ The enclosed LETTER
 
 My dear CHARLOTTE You could not have applied for information concerning the report of Sir George Lesleys Marriage, to any one better able to give it you than I am. Sir George is certainly married; I was myself present at the Ceremony, which you will not be surprised at when I subscribe myself your Affectionate Susan Lesley
 
-<span id="link2H_4_0021"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER the THIRD From Miss MARGARET LESLEY to Miss C. LUTTERELL Lesley
+### LETTER the THIRD From Miss MARGARET LESLEY to Miss C. LUTTERELL Lesley
 
 Castle February the 16th
 
 I have made my own reflections on the letter you enclosed to me, my Dear Charlotte and I will now tell you what those reflections were. I reflected that if by this second Marriage Sir George should have a second family, our fortunes must be considerably diminushed—that if his Wife should be of an extravagant turn, she would encourage him to persevere in that gay and Dissipated way of Life to which little encouragement would be necessary, and which has I fear already proved but too detrimental to his health and fortune—that she would now become Mistress of those Jewels which once adorned our Mother, and which Sir George had always promised us—that if they did not come into Perthshire I should not be able to gratify my curiosity of beholding my Mother-in-law and that if they did, Matilda would no longer sit at the head of her Father’s table—. These my dear Charlotte were the melancholy reflections which crowded into my imagination after perusing Susan’s letter to you, and which instantly occurred to Matilda when she had perused it likewise. The same ideas, the same fears, immediately occupied her Mind, and I know not which reflection distressed her most, whether the probable Diminution of our Fortunes, or her own Consequence. We both wish very much to know whether Lady Lesley is handsome and what is your opinion of her; as you honour her with the appellation of your freind, we flatter ourselves that she must be amiable. My Brother is already in Paris. He intends to quit it in a few Days, and to begin his route to Italy. He writes in a most chearfull manner, says that the air of France has greatly recovered both his Health and Spirits; that he has now entirely ceased to think of Louisa with any degree either of Pity or Affection, that he even feels himself obliged to her for her Elopement, as he thinks it very good fun to be single again. By this, you may perceive that he has entirely regained that chearful Gaiety, and sprightly Wit, for which he was once so remarkable. When he first became acquainted with Louisa which was little more than three years ago, he was one of the most lively, the most agreable young Men of the age—. I beleive you never yet heard the particulars of his first acquaintance with her. It commenced at our cousin Colonel Drummond’s; at whose house in Cumberland he spent the Christmas, in which he attained the age of two and twenty. Louisa Burton was the Daughter of a distant Relation of Mrs. Drummond, who dieing a few Months before in extreme poverty, left his only Child then about eighteen to the protection of any of his Relations who would protect her. Mrs. Drummond was the only one who found herself so disposed—Louisa was therefore removed from a miserable Cottage in Yorkshire to an elegant Mansion in Cumberland, and from every pecuniary Distress that Poverty could inflict, to every elegant Enjoyment that Money could purchase—. Louisa was naturally ill-tempered and Cunning; but she had been taught to disguise her real Disposition, under the appearance of insinuating Sweetness, by a father who but too well knew, that to be married, would be the only chance she would have of not being starved, and who flattered himself that with such an extroidinary share of personal beauty, joined to a gentleness of Manners, and an engaging address, she might stand a good chance of pleasing some young Man who might afford to marry a girl without a Shilling. Louisa perfectly entered into her father’s schemes and was determined to forward them with all her care and attention. By dint of Perseverance and Application, she had at length so thoroughly disguised her natural disposition under the mask of Innocence, and Softness, as to impose upon every one who had not by a long and constant intimacy with her discovered her real Character. Such was Louisa when the hapless Lesley first beheld her at Drummond-house. His heart which (to use your favourite comparison) was as delicate as sweet and as tender as a Whipt-syllabub, could not resist her attractions. In a very few Days, he was falling in love, shortly after actually fell, and before he had known her a Month, he had married her. My Father was at first highly displeased at so hasty and imprudent a connection; but when he found that they did not mind it, he soon became perfectly reconciled to the match. The Estate near Aberdeen which my brother possesses by the bounty of his great Uncle independant of Sir George, was entirely sufficient to support him and my Sister in Elegance and Ease. For the first twelvemonth, no one could be happier than Lesley, and no one more amiable to appearance than Louisa, and so plausibly did she act and so cautiously behave that tho’ Matilda and I often spent several weeks together with them, yet we neither of us had any suspicion of her real Disposition. After the birth of Louisa however, which one would have thought would have strengthened her regard for Lesley, the mask she had so long supported was by degrees thrown aside, and as probably she then thought herself secure in the affection of her Husband (which did indeed appear if possible augmented by the birth of his Child) she seemed to take no pains to prevent that affection from ever diminushing. Our visits therefore to Dunbeath, were now less frequent and by far less agreable than they used to be. Our absence was however never either mentioned or lamented by Louisa who in the society of young Danvers with whom she became acquainted at Aberdeen (he was at one of the Universities there,) felt infinitely happier than in that of Matilda and your freind, tho’ there certainly never were pleasanter girls than we are. You know the sad end of all Lesleys connubial happiness; I will not repeat it—. Adeiu my dear Charlotte; although I have not yet mentioned anything of the matter, I hope you will do me the justice to beleive that I THINK and FEEL, a great deal for your Sisters affliction. I do not doubt but that the healthy air of the Bristol downs will intirely remove it, by erasing from her Mind the remembrance of Henry. I am my dear Charlotte yrs ever M. L.
 
-<span id="link2H_4_0022"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER the FOURTH From Miss C. LUTTERELL to Miss M. LESLEY Bristol
+### LETTER the FOURTH From Miss C. LUTTERELL to Miss M. LESLEY Bristol
 
 February 27th
 
@@ -574,35 +335,15 @@ You ask me whether your new Mother in law is handsome and amiable—I will now g
 
 Eloisa’s indisposition has brought us to Bristol at so unfashionable a season of the year, that we have actually seen but one genteel family since we came. Mr and Mrs Marlowe are very agreable people; the ill health of their little boy occasioned their arrival here; you may imagine that being the only family with whom we can converse, we are of course on a footing of intimacy with them; we see them indeed almost every day, and dined with them yesterday. We spent a very pleasant Day, and had a very good Dinner, tho’ to be sure the Veal was terribly underdone, and the Curry had no seasoning. I could not help wishing all dinner-time that I had been at the dressing it—. A brother of Mrs Marlowe, Mr Cleveland is with them at present; he is a good-looking young Man, and seems to have a good deal to say for himself. I tell Eloisa that she should set her cap at him, but she does not at all seem to relish the proposal. I should like to see the girl married and Cleveland has a very good estate. Perhaps you may wonder that I do not consider myself as well as my Sister in my matrimonial Projects; but to tell you the truth I never wish to act a more principal part at a Wedding than the superintending and directing the Dinner, and therefore while I can get any of my acquaintance to marry for me, I shall never think of doing it myself, as I very much suspect that I should not have so much time for dressing my own Wedding-dinner, as for dressing that of my freinds. Yours sincerely C. L.
 
-<span id="link2H_4_0023"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER the FIFTH Miss MARGARET LESLEY to Miss CHARLOTTE LUTTERELL
+### LETTER the FIFTH Miss MARGARET LESLEY to Miss CHARLOTTE LUTTERELL
 
 Lesley-Castle March 18th
 
 On the same day that I received your last kind letter, Matilda received one from Sir George which was dated from Edinburgh, and informed us that he should do himself the pleasure of introducing Lady Lesley to us on the following evening. This as you may suppose considerably surprised us, particularly as your account of her Ladyship had given us reason to imagine there was little chance of her visiting Scotland at a time that London must be so gay. As it was our business however to be delighted at such a mark of condescension as a visit from Sir George and Lady Lesley, we prepared to return them an answer expressive of the happiness we enjoyed in expectation of such a Blessing, when luckily recollecting that as they were to reach the Castle the next Evening, it would be impossible for my father to receive it before he left Edinburgh, we contented ourselves with leaving them to suppose that we were as happy as we ought to be. At nine in the Evening on the following day, they came, accompanied by one of Lady Lesleys brothers. Her Ladyship perfectly answers the description you sent me of her, except that I do not think her so pretty as you seem to consider her. She has not a bad face, but there is something so extremely unmajestic in her little diminutive figure, as to render her in comparison with the elegant height of Matilda and Myself, an insignificant Dwarf. Her curiosity to see us (which must have been great to bring her more than four hundred miles) being now perfectly gratified, she already begins to mention their return to town, and has desired us to accompany her. We cannot refuse her request since it is seconded by the commands of our Father, and thirded by the entreaties of Mr. Fitzgerald who is certainly one of the most pleasing young Men, I ever beheld. It is not yet determined when we are to go, but when ever we do we shall certainly take our little Louisa with us. Adeiu my dear Charlotte; Matilda unites in best wishes to you, and Eloisa, with yours ever M. L.
 
-<span id="link2H_4_0024"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER the SIXTH LADY LESLEY to Miss CHARLOTTE LUTTERELL Lesley-Castle
+### LETTER the SIXTH LADY LESLEY to Miss CHARLOTTE LUTTERELL Lesley-Castle
 
 March 20th
 
@@ -668,18 +409,8 @@ We arrived here my sweet Freind about a fortnight ago, and I already heartily re
 
 This was too much my dear Charlotte, for I am certain that he had the impudence by that look, of pretending to suspect the reality of mine. But you I am sure will vindicate my character whenever you may hear it so cruelly aspersed, for you can witness how often I have protested against wearing Rouge, and how much I always told you I disliked it. And I assure you that my opinions are still the same.—. Well, not bearing to be so suspected by my Brother, I left the room immediately, and have been ever since in my own Dressing-room writing to you. What a long letter have I made of it! But you must not expect to receive such from me when I get to Town; for it is only at Lesley castle, that one has time to write even to a Charlotte Lutterell.—. I was so much vexed by William’s glance, that I could not summon Patience enough, to stay and give him that advice respecting his attachment to Matilda which had first induced me from pure Love to him to begin the conversation; and I am now so thoroughly convinced by it, of his violent passion for her, that I am certain he would never hear reason on the subject, and I shall there fore give myself no more trouble either about him or his favourite. Adeiu my dear girl—Yrs affectionately Susan L.
 
-<span id="link2H_4_0025"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER the SEVENTH From Miss C. LUTTERELL to Miss M. LESLEY Bristol the
+### LETTER the SEVENTH From Miss C. LUTTERELL to Miss M. LESLEY Bristol the
 
 27th of March
 
@@ -689,35 +420,15 @@ I executed my Plan with great Punctuality. I can not say success, for alas! my s
 
 I suppose there never were two Young people who had a greater affection for each other than Henry and Eloisa; no, the Love of your Brother for Miss Burton could not be so strong tho’ it might be more violent. You may imagine therefore how provoked my Sister must have been to have him play her such a trick. Poor girl! she still laments his Death with undiminished constancy, notwithstanding he has been dead more than six weeks; but some People mind such things more than others. The ill state of Health into which his loss has thrown her makes her so weak, and so unable to support the least exertion, that she has been in tears all this Morning merely from having taken leave of Mrs. Marlowe who with her Husband, Brother and Child are to leave Bristol this morning. I am sorry to have them go because they are the only family with whom we have here any acquaintance, but I never thought of crying; to be sure Eloisa and Mrs Marlowe have always been more together than with me, and have therefore contracted a kind of affection for each other, which does not make Tears so inexcusable in them as they would be in me. The Marlowes are going to Town; Cliveland accompanies them; as neither Eloisa nor I could catch him I hope you or Matilda may have better Luck. I know not when we shall leave Bristol, Eloisa’s spirits are so low that she is very averse to moving, and yet is certainly by no means mended by her residence here. A week or two will I hope determine our Measures—in the mean time believe me and etc—and etc—Charlotte Lutterell.
 
-<span id="link2H_4_0026"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER the EIGHTH Miss LUTTERELL to Mrs MARLOWE Bristol April 4th
+### LETTER the EIGHTH Miss LUTTERELL to Mrs MARLOWE Bristol April 4th
 
 I feel myself greatly obliged to you my dear Emma for such a mark of your affection as I flatter myself was conveyed in the proposal you made me of our Corresponding; I assure you that it will be a great releif to me to write to you and as long as my Health and Spirits will allow me, you will find me a very constant correspondent; I will not say an entertaining one, for you know my situation suffciently not to be ignorant that in me Mirth would be improper and I know my own Heart too well not to be sensible that it would be unnatural. You must not expect news for we see no one with whom we are in the least acquainted, or in whose proceedings we have any Interest. You must not expect scandal for by the same rule we are equally debarred either from hearing or inventing it.—You must expect from me nothing but the melancholy effusions of a broken Heart which is ever reverting to the Happiness it once enjoyed and which ill supports its present wretchedness. The Possibility of being able to write, to speak, to you of my lost Henry will be a luxury to me, and your goodness will not I know refuse to read what it will so much releive my Heart to write. I once thought that to have what is in general called a Freind (I mean one of my own sex to whom I might speak with less reserve than to any other person) independant of my sister would never be an object of my wishes, but how much was I mistaken! Charlotte is too much engrossed by two confidential correspondents of that sort, to supply the place of one to me, and I hope you will not think me girlishly romantic, when I say that to have some kind and compassionate Freind who might listen to my sorrows without endeavouring to console me was what I had for some time wished for, when our acquaintance with you, the intimacy which followed it and the particular affectionate attention you paid me almost from the first, caused me to entertain the flattering Idea of those attentions being improved on a closer acquaintance into a Freindship which, if you were what my wishes formed you would be the greatest Happiness I could be capable of enjoying. To find that such Hopes are realised is a satisfaction indeed, a satisfaction which is now almost the only one I can ever experience.—I feel myself so languid that I am sure were you with me you would oblige me to leave off writing, and I cannot give you a greater proof of my affection for you than by acting, as I know you would wish me to do, whether Absent or Present. I am my dear Emmas sincere freind E. L.
 
-<span id="link2H_4_0027"></span>
 
-<div style="height: 4em;">
+### LETTER the NINTH Mrs MARLOWE to Miss LUTTERELL
 
-\
-\
-\
-\
-
-</div>
-
-## LETTER the NINTH Mrs MARLOWE to Miss LUTTERELL Grosvenor Street, April
-
-10th
+Grosvenor Street, April 10th
 
 Need I say my dear Eloisa how wellcome your letter was to me I cannot give a greater proof of the pleasure I received from it, or of the Desire I feel that our Correspondence may be regular and frequent than by setting you so good an example as I now do in answering it before the end of the week—. But do not imagine that I claim any merit in being so punctual; on the contrary I assure you, that it is a far greater Gratification to me to write to you, than to spend the Evening either at a Concert or a Ball. Mr Marlowe is so desirous of my appearing at some of the Public places every evening that I do not like to refuse him, but at the same time so much wish to remain at Home, that independant of the Pleasure I experience in devoting any portion of my Time to my Dear Eloisa, yet the Liberty I claim from having a letter to write of spending an Evening at home with my little Boy, you know me well enough to be sensible, will of itself be a sufficient Inducement (if one is necessary) to my maintaining with Pleasure a Correspondence with you. As to the subject of your letters to me, whether grave or merry, if they concern you they must be equally interesting to me; not but that I think the melancholy Indulgence of your own sorrows by repeating them and dwelling on them to me, will only encourage and increase them, and that it will be more prudent in you to avoid so sad a subject; but yet knowing as I do what a soothing and melancholy Pleasure it must afford you, I cannot prevail on myself to deny you so great an Indulgence, and will only insist on your not expecting me to encourage you in it, by my own letters; on the contrary I intend to fill them with such lively Wit and enlivening Humour as shall even provoke a smile in the sweet but sorrowfull countenance of my Eloisa.
 
@@ -727,18 +438,7 @@ Mrs Lutterell will be so good as to accept my compliments, Charlotte, my Love, a
 
 I am afraid this letter will be but a poor specimen of my Powers in the witty way; and your opinion of them will not be greatly increased when I assure you that I have been as entertaining as I possibly could.
 
-<span id="link2H_4_0028"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER the TENTH From Miss MARGARET LESLEY to Miss CHARLOTTE LUTTERELL
+### LETTER the TENTH From Miss MARGARET LESLEY to Miss CHARLOTTE LUTTERELL
 
 Portman Square April 13th
 
@@ -746,80 +446,62 @@ MY DEAR CHARLOTTE We left Lesley-Castle on the 28th of last Month, and arrived s
 
 I am now going to intrust you my dear Charlotte with a secret which has long disturbed the tranquility of my days, and which is of a kind to require the most inviolable Secrecy from you. Last Monday se’night Matilda and I accompanied Lady Lesley to a Rout at the Honourable Mrs Kickabout’s; we were escorted by Mr Fitzgerald who is a very amiable young Man in the main, tho’ perhaps a little singular in his Taste—He is in love with Matilda—. We had scarcely paid our Compliments to the Lady of the House and curtseyed to half a score different people when my Attention was attracted by the appearance of a Young Man the most lovely of his Sex, who at that moment entered the Room with another Gentleman and Lady. From the first moment I beheld him, I was certain that on him depended the future Happiness of my Life. Imagine my surprise when he was introduced to me by the name of Cleveland—I instantly recognised him as the Brother of Mrs Marlowe, and the acquaintance of my Charlotte at Bristol. Mr and Mrs M. were the gentleman and Lady who accompanied him. (You do not think Mrs Marlowe handsome?) The elegant address of Mr Cleveland, his polished Manners and Delightful Bow, at once confirmed my attachment. He did not speak; but I can imagine everything he would have said, had he opened his Mouth. I can picture to myself the cultivated Understanding, the Noble sentiments, and elegant Language which would have shone so conspicuous in the conversation of Mr Cleveland. The approach of Sir James Gower (one of my too numerous admirers) prevented the Discovery of any such Powers, by putting an end to a Conversation we had never commenced, and by attracting my attention to himself. But oh! how inferior are the accomplishments of Sir James to those of his so greatly envied Rival! Sir James is one of the most frequent of our Visitors, and is almost always of our Parties. We have since often met Mr and Mrs Marlowe but no Cleveland—he is always engaged some where else. Mrs Marlowe fatigues me to Death every time I see her by her tiresome Conversations about you and Eloisa. She is so stupid! I live in the hope of seeing her irrisistable Brother to night, as we are going to Lady Flambeaus, who is I know intimate with the Marlowes. Our party will be Lady Lesley, Matilda, Fitzgerald, Sir James Gower, and myself. We see little of Sir George, who is almost always at the gaming-table. Ah! my poor Fortune where art thou by this time? We see more of Lady L. who always makes her appearance (highly rouged) at Dinner-time. Alas! what Delightful Jewels will she be decked in this evening at Lady Flambeau’s! Yet I wonder how she can herself delight in wearing them; surely she must be sensible of the ridiculous impropriety of loading her little diminutive figure with such superfluous ornaments; is it possible that she can not know how greatly superior an elegant simplicity is to the most studied apparel? Would she but Present them to Matilda and me, how greatly should we be obliged to her, How becoming would Diamonds be on our fine majestic figures! And how surprising it is that such an Idea should never have occurred to HER. I am sure if I have reflected in this manner once, I have fifty times. Whenever I see Lady Lesley dressed in them such reflections immediately come across me. My own Mother’s Jewels too! But I will say no more on so melancholy a subject—let me entertain you with something more pleasing—Matilda had a letter this morning from Lesley, by which we have the pleasure of finding that he is at Naples has turned Roman-Catholic, obtained one of the Pope’s Bulls for annulling his 1st Marriage and has since actually married a Neapolitan Lady of great Rank and Fortune. He tells us moreover that much the same sort of affair has befallen his first wife the worthless Louisa who is likewise at Naples had turned Roman-catholic, and is soon to be married to a Neapolitan Nobleman of great and Distinguished merit. He says, that they are at present very good Freinds, have quite forgiven all past errors and intend in future to be very good Neighbours. He invites Matilda and me to pay him a visit to Italy and to bring him his little Louisa whom both her Mother, Step-mother, and himself are equally desirous of beholding. As to our accepting his invitation, it is at Present very uncertain; Lady Lesley advises us to go without loss of time; Fitzgerald offers to escort us there, but Matilda has some doubts of the Propriety of such a scheme—she owns it would be very agreable. I am certain she likes the Fellow. My Father desires us not to be in a hurry, as perhaps if we wait a few months both he and Lady Lesley will do themselves the pleasure of attending us. Lady Lesley says no, that nothing will ever tempt her to forego the Amusements of Brighthelmstone for a Journey to Italy merely to see our Brother. “No (says the disagreable Woman) I have once in my life been fool enough to travel I dont know how many hundred Miles to see two of the Family, and I found it did not answer, so Deuce take me, if ever I am so foolish again.” So says her Ladyship, but Sir George still Perseveres in saying that perhaps in a month or two, they may accompany us. Adeiu my Dear Charlotte Yrs faithful Margaret Lesley.
 
-------------------------------------------------------------------------
 
-<span id="link2H_4_0029"></span>
+## The history of England: from the reign of Henry the 4th to the death of Charles the 1st
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## THE HISTORY OF ENGLAND
-
-### FROM THE REIGN OF HENRY THE 4TH TO THE DEATH OF CHARLES THE 1ST
-
-BY A PARTIAL, PREJUDICED, AND IGNORANT HISTORIAN.
-
-------------------------------------------------------------------------
+By a partial, prejudiced, and ignorant historian.
 
 To Miss Austen, eldest daughter of the Rev. George Austen, this work is inscribed with all due respect by THE AUTHOR.
 
 N.B. There will be very few Dates in this History.
 
-THE HISTORY OF ENGLAND
-
-HENRY the 4th
+### Henry the 4th
 
 Henry the 4th ascended the throne of England much to his own satisfaction in the year 1399, after having prevailed on his cousin and predecessor Richard the 2nd, to resign it to him, and to retire for the rest of his life to Pomfret Castle, where he happened to be murdered. It is to be supposed that Henry was married, since he had certainly four sons, but it is not in my power to inform the Reader who was his wife. Be this as it may, he did not live for ever, but falling ill, his son the Prince of Wales came and took away the crown; whereupon the King made a long speech, for which I must refer the Reader to Shakespear’s Plays, and the Prince made a still longer. Things being thus settled between them the King died, and was succeeded by his son Henry who had previously beat Sir William Gascoigne.
 
-HENRY the 5th
+### Henry the 5th
 
 This Prince after he succeeded to the throne grew quite reformed and amiable, forsaking all his dissipated companions, and never thrashing Sir William again. During his reign, Lord Cobham was burnt alive, but I forget what for. His Majesty then turned his thoughts to France, where he went and fought the famous Battle of Agincourt. He afterwards married the King’s daughter Catherine, a very agreable woman by Shakespear’s account. In spite of all this however he died, and was succeeded by his son Henry.
 
-HENRY the 6th
+### Henry the 6th
 
 I cannot say much for this Monarch’s sense. Nor would I if I could, for he was a Lancastrian. I suppose you know all about the Wars between him and the Duke of York who was of the right side; if you do not, you had better read some other History, for I shall not be very diffuse in this, meaning by it only to vent my spleen AGAINST, and shew my Hatred TO all those people whose parties or principles do not suit with mine, and not to give information. This King married Margaret of Anjou, a Woman whose distresses and misfortunes were so great as almost to make me who hate her, pity her. It was in this reign that Joan of Arc lived and made such a ROW among the English. They should not have burnt her—but they did. There were several Battles between the Yorkists and Lancastrians, in which the former (as they ought) usually conquered. At length they were entirely overcome; The King was murdered—The Queen was sent home—and Edward the 4th ascended the Throne.
 
-EDWARD the 4th
+### Edward the 4th
 
 This Monarch was famous only for his Beauty and his Courage, of which the Picture we have here given of him, and his undaunted Behaviour in marrying one Woman while he was engaged to another, are sufficient proofs. His Wife was Elizabeth Woodville, a Widow who, poor Woman! was afterwards confined in a Convent by that Monster of Iniquity and Avarice Henry the 7th. One of Edward’s Mistresses was Jane Shore, who has had a play written about her, but it is a tragedy and therefore not worth reading. Having performed all these noble actions, his Majesty died, and was succeeded by his son.
 
-EDWARD the 5th
+### Edward the 5th
 
 This unfortunate Prince lived so little a while that nobody had him to draw his picture. He was murdered by his Uncle’s Contrivance, whose name was Richard the 3rd.
 
-RICHARD the 3rd
+### Richard the 3rd
 
 The Character of this Prince has been in general very severely treated by Historians, but as he was a YORK, I am rather inclined to suppose him a very respectable Man. It has indeed been confidently asserted that he killed his two Nephews and his Wife, but it has also been declared that he did not kill his two Nephews, which I am inclined to beleive true; and if this is the case, it may also be affirmed that he did not kill his Wife, for if Perkin Warbeck was really the Duke of York, why might not Lambert Simnel be the Widow of Richard. Whether innocent or guilty, he did not reign long in peace, for Henry Tudor E. of Richmond as great a villain as ever lived, made a great fuss about getting the Crown and having killed the King at the battle of Bosworth, he succeeded to it.
 
-HENRY the 7th
+### Henry the 7th
 
 This Monarch soon after his accession married the Princess Elizabeth of York, by which alliance he plainly proved that he thought his own right inferior to hers, tho’ he pretended to the contrary. By this Marriage he had two sons and two daughters, the elder of which Daughters was married to the King of Scotland and had the happiness of being grandmother to one of the first Characters in the World. But of HER, I shall have occasion to speak more at large in future. The youngest, Mary, married first the King of France and secondly the D. of Suffolk, by whom she had one daughter, afterwards the Mother of Lady Jane Grey, who tho’ inferior to her lovely Cousin the Queen of Scots, was yet an amiable young woman and famous for reading Greek while other people were hunting. It was in the reign of Henry the 7th that Perkin Warbeck and Lambert Simnel before mentioned made their appearance, the former of whom was set in the stocks, took shelter in Beaulieu Abbey, and was beheaded with the Earl of Warwick, and the latter was taken into the Kings kitchen. His Majesty died and was succeeded by his son Henry whose only merit was his not being quite so bad as his daughter Elizabeth.
 
-HENRY the 8th
+### Henry the 8th
 
 It would be an affront to my Readers were I to suppose that they were not as well acquainted with the particulars of this King’s reign as I am myself. It will therefore be saving THEM the task of reading again what they have read before, and MYSELF the trouble of writing what I do not perfectly recollect, by giving only a slight sketch of the principal Events which marked his reign. Among these may be ranked Cardinal Wolsey’s telling the father Abbott of Leicester Abbey that “he was come to lay his bones among them,” the reformation in Religion and the King’s riding through the streets of London with Anna Bullen. It is however but Justice, and my Duty to declare that this amiable Woman was entirely innocent of the Crimes with which she was accused, and of which her Beauty, her Elegance, and her Sprightliness were sufficient proofs, not to mention her solemn Protestations of Innocence, the weakness of the Charges against her, and the King’s Character; all of which add some confirmation, tho’ perhaps but slight ones when in comparison with those before alledged in her favour. Tho’ I do not profess giving many dates, yet as I think it proper to give some and shall of course make choice of those which it is most necessary for the Reader to know, I think it right to inform him that her letter to the King was dated on the 6th of May. The Crimes and Cruelties of this Prince, were too numerous to be mentioned, (as this history I trust has fully shown;) and nothing can be said in his vindication, but that his abolishing Religious Houses and leaving them to the ruinous depredations of time has been of infinite use to the landscape of England in general, which probably was a principal motive for his doing it, since otherwise why should a Man who was of no Religion himself be at so much trouble to abolish one which had for ages been established in the Kingdom. His Majesty’s 5th Wife was the Duke of Norfolk’s Neice who, tho’ universally acquitted of the crimes for which she was beheaded, has been by many people supposed to have led an abandoned life before her Marriage—of this however I have many doubts, since she was a relation of that noble Duke of Norfolk who was so warm in the Queen of Scotland’s cause, and who at last fell a victim to it. The Kings last wife contrived to survive him, but with difficulty effected it. He was succeeded by his only son Edward.
 
-EDWARD the 6th
+### Edward the 6th
 
 As this prince was only nine years old at the time of his Father’s death, he was considered by many people as too young to govern, and the late King happening to be of the same opinion, his mother’s Brother the Duke of Somerset was chosen Protector of the realm during his minority. This Man was on the whole of a very amiable Character, and is somewhat of a favourite with me, tho’ I would by no means pretend to affirm that he was equal to those first of Men Robert Earl of Essex, Delamere, or Gilpin. He was beheaded, of which he might with reason have been proud, had he known that such was the death of Mary Queen of Scotland; but as it was impossible that he should be conscious of what had never happened, it does not appear that he felt particularly delighted with the manner of it. After his decease the Duke of Northumberland had the care of the King and the Kingdom, and performed his trust of both so well that the King died and the Kingdom was left to his daughter in law the Lady Jane Grey, who has been already mentioned as reading Greek. Whether she really understood that language or whether such a study proceeded only from an excess of vanity for which I beleive she was always rather remarkable, is uncertain. Whatever might be the cause, she preserved the same appearance of knowledge, and contempt of what was generally esteemed pleasure, during the whole of her life, for she declared herself displeased with being appointed Queen, and while conducting to the scaffold, she wrote a sentence in Latin and another in Greek on seeing the dead Body of her Husband accidentally passing that way.
 
-MARY
+### Mary
 
 This woman had the good luck of being advanced to the throne of England, in spite of the superior pretensions, Merit, and Beauty of her Cousins Mary Queen of Scotland and Jane Grey. Nor can I pity the Kingdom for the misfortunes they experienced during her Reign, since they fully deserved them, for having allowed her to succeed her Brother—which was a double peice of folly, since they might have foreseen that as she died without children, she would be succeeded by that disgrace to humanity, that pest of society, Elizabeth. Many were the people who fell martyrs to the protestant Religion during her reign; I suppose not fewer than a dozen. She married Philip King of Spain who in her sister’s reign was famous for building Armadas. She died without issue, and then the dreadful moment came in which the destroyer of all comfort, the deceitful Betrayer of trust reposed in her, and the Murderess of her Cousin succeeded to the Throne.——
 
-ELIZABETH
+### Elizabeth
 
 It was the peculiar misfortune of this Woman to have bad Ministers—-Since wicked as she herself was, she could not have committed such extensive mischeif, had not these vile and abandoned Men connived at, and encouraged her in her Crimes. I know that it has by many people been asserted and beleived that Lord Burleigh, Sir Francis Walsingham, and the rest of those who filled the cheif offices of State were deserving, experienced, and able Ministers. But oh! how blinded such writers and such Readers must be to true Merit, to Merit despised, neglected and defamed, if they can persist in such opinions when they reflect that these men, these boasted men were such scandals to their Country and their sex as to allow and assist their Queen in confining for the space of nineteen years, a WOMAN who if the claims of Relationship and Merit were of no avail, yet as a Queen and as one who condescended to place confidence in her, had every reason to expect assistance and protection; and at length in allowing Elizabeth to bring this amiable Woman to an untimely, unmerited, and scandalous Death. Can any one if he reflects but for a moment on this blot, this everlasting blot upon their understanding and their Character, allow any praise to Lord Burleigh or Sir Francis Walsingham? Oh! what must this bewitching Princess whose only freind was then the Duke of Norfolk, and whose only ones now Mr Whitaker, Mrs Lefroy, Mrs Knight and myself, who was abandoned by her son, confined by her Cousin, abused, reproached and vilified by all, what must not her most noble mind have suffered when informed that Elizabeth had given orders for her Death! Yet she bore it with a most unshaken fortitude, firm in her mind; constant in her Religion; and prepared herself to meet the cruel fate to which she was doomed, with a magnanimity that would alone proceed from conscious Innocence. And yet could you Reader have beleived it possible that some hardened and zealous Protestants have even abused her for that steadfastness in the Catholic Religion which reflected on her so much credit? But this is a striking proof of THEIR narrow souls and prejudiced Judgements who accuse her. She was executed in the Great Hall at Fortheringay Castle (sacred Place!) on Wednesday the 8th of February 1586—to the everlasting Reproach of Elizabeth, her Ministers, and of England in general. It may not be unnecessary before I entirely conclude my account of this ill-fated Queen, to observe that she had been accused of several crimes during the time of her reigning in Scotland, of which I now most seriously do assure my Reader that she was entirely innocent; having never been guilty of anything more than Imprudencies into which she was betrayed by the openness of her Heart, her Youth, and her Education. Having I trust by this assurance entirely done away every Suspicion and every doubt which might have arisen in the Reader’s mind, from what other Historians have written of her, I shall proceed to mention the remaining Events that marked Elizabeth’s reign. It was about this time that Sir Francis Drake the first English Navigator who sailed round the World, lived, to be the ornament of his Country and his profession. Yet great as he was, and justly celebrated as a sailor, I cannot help foreseeing that he will be equalled in this or the next Century by one who tho’ now but young, already promises to answer all the ardent and sanguine expectations of his Relations and Freinds, amongst whom I may class the amiable Lady to whom this work is dedicated, and my no less amiable self.
 
 Though of a different profession, and shining in a different sphere of Life, yet equally conspicuous in the Character of an Earl, as Drake was in that of a Sailor, was Robert Devereux Lord Essex. This unfortunate young Man was not unlike in character to that equally unfortunate one FREDERIC DELAMERE. The simile may be carried still farther, and Elizabeth the torment of Essex may be compared to the Emmeline of Delamere. It would be endless to recount the misfortunes of this noble and gallant Earl. It is sufficient to say that he was beheaded on the 25th of Feb, after having been Lord Lieutenant of Ireland, after having clapped his hand on his sword, and after performing many other services to his Country. Elizabeth did not long survive his loss, and died so miserable that were it not an injury to the memory of Mary I should pity her.
 
-JAMES the 1st
+### James the 1st
 
 Though this King had some faults, among which and as the most principal, was his allowing his Mother’s death, yet considered on the whole I cannot help liking him. He married Anne of Denmark, and had several Children; fortunately for him his eldest son Prince Henry died before his father or he might have experienced the evils which befell his unfortunate Brother.
 
@@ -831,88 +513,29 @@ SHARADE My first is what my second was to King James the 1st, and you tread on m
 
 The principal favourites of his Majesty were Car, who was afterwards created Earl of Somerset and whose name perhaps may have some share in the above mentioned Sharade, and George Villiers afterwards Duke of Buckingham. On his Majesty’s death he was succeeded by his son Charles.
 
-CHARLES the 1st
+### Charles the 1st
 
 This amiable Monarch seems born to have suffered misfortunes equal to those of his lovely Grandmother; misfortunes which he could not deserve since he was her descendant. Never certainly were there before so many detestable Characters at one time in England as in this Period of its History; never were amiable men so scarce. The number of them throughout the whole Kingdom amounting only to FIVE, besides the inhabitants of Oxford who were always loyal to their King and faithful to his interests. The names of this noble five who never forgot the duty of the subject, or swerved from their attachment to his Majesty, were as follows—The King himself, ever stedfast in his own support—Archbishop Laud, Earl of Strafford, Viscount Faulkland and Duke of Ormond, who were scarcely less strenuous or zealous in the cause. While the VILLIANS of the time would make too long a list to be written or read; I shall therefore content myself with mentioning the leaders of the Gang. Cromwell, Fairfax, Hampden, and Pym may be considered as the original Causers of all the disturbances, Distresses, and Civil Wars in which England for many years was embroiled. In this reign as well as in that of Elizabeth, I am obliged in spite of my attachment to the Scotch, to consider them as equally guilty with the generality of the English, since they dared to think differently from their Sovereign, to forget the Adoration which as STUARTS it was their Duty to pay them, to rebel against, dethrone and imprison the unfortunate Mary; to oppose, to deceive, and to sell the no less unfortunate Charles. The Events of this Monarch’s reign are too numerous for my pen, and indeed the recital of any Events (except what I make myself) is uninteresting to me; my principal reason for undertaking the History of England being to Prove the innocence of the Queen of Scotland, which I flatter myself with having effectually done, and to abuse Elizabeth, tho’ I am rather fearful of having fallen short in the latter part of my scheme.—As therefore it is not my intention to give any particular account of the distresses into which this King was involved through the misconduct and Cruelty of his Parliament, I shall satisfy myself with vindicating him from the Reproach of Arbitrary and tyrannical Government with which he has often been charged. This, I feel, is not difficult to be done, for with one argument I am certain of satisfying every sensible and well disposed person whose opinions have been properly guided by a good Education—and this Argument is that he was a STUART.
 
 Finis Saturday Nov: 26th 1791.
 
-------------------------------------------------------------------------
 
-<span id="link2H_4_0030"></span>
+## A collection of letters
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## A COLLECTION OF LETTERS
-
-<span id="link2H_4_0031"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## To Miss COOPER
+To Miss Cooper
 
 COUSIN Conscious of the Charming Character which in every Country, and every Clime in Christendom is Cried, Concerning you, with Caution and Care I Commend to your Charitable Criticism this Clever Collection of Curious Comments, which have been Carefully Culled, Collected and Classed by your Comical Cousin
 
-The Author.
+— The Author
 
-------------------------------------------------------------------------
-
-<span id="link2H_4_0032"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## A COLLECTION OF LETTERS
-
-<span id="link2H_4_0033"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER the FIRST From a MOTHER to her FREIND.
+### LETTER the FIRST From a MOTHER to her FREIND
 
 My Children begin now to claim all my attention in different Manner from that in which they have been used to receive it, as they are now arrived at that age when it is necessary for them in some measure to become conversant with the World, My Augusta is 17 and her sister scarcely a twelvemonth younger. I flatter myself that their education has been such as will not disgrace their appearance in the World, and that THEY will not disgrace their Education I have every reason to beleive. Indeed they are sweet Girls—. Sensible yet unaffected—Accomplished yet Easy—. Lively yet Gentle—. As their progress in every thing they have learnt has been always the same, I am willing to forget the difference of age, and to introduce them together into Public. This very Evening is fixed on as their first ENTREE into Life, as we are to drink tea with Mrs Cope and her Daughter. I am glad that we are to meet no one, for my Girls sake, as it would be awkward for them to enter too wide a Circle on the very first day. But we shall proceed by degrees.—Tomorrow Mr Stanly’s family will drink tea with us, and perhaps the Miss Phillips’s will meet them. On Tuesday we shall pay Morning Visits—On Wednesday we are to dine at Westbrook. On Thursday we have Company at home. On Friday we are to be at a Private Concert at Sir John Wynna’s—and on Saturday we expect Miss Dawson to call in the Morning—which will complete my Daughters Introduction into Life. How they will bear so much dissipation I cannot imagine; of their spirits I have no fear, I only dread their health.
 
 This mighty affair is now happily over, and my Girls are OUT. As the moment approached for our departure, you can have no idea how the sweet Creatures trembled with fear and expectation. Before the Carriage drove to the door, I called them into my dressing-room, and as soon as they were seated thus addressed them. “My dear Girls the moment is now arrived when I am to reap the rewards of all my Anxieties and Labours towards you during your Education. You are this Evening to enter a World in which you will meet with many wonderfull Things; Yet let me warn you against suffering yourselves to be meanly swayed by the Follies and Vices of others, for beleive me my beloved Children that if you do—I shall be very sorry for it.” They both assured me that they would ever remember my advice with Gratitude, and follow it with attention; That they were prepared to find a World full of things to amaze and to shock them: but that they trusted their behaviour would never give me reason to repent the Watchful Care with which I had presided over their infancy and formed their Minds—” “With such expectations and such intentions (cried I) I can have nothing to fear from you—and can chearfully conduct you to Mrs Cope’s without a fear of your being seduced by her Example, or contaminated by her Follies. Come, then my Children (added I) the Carriage is driving to the door, and I will not a moment delay the happiness you are so impatient to enjoy.” When we arrived at Warleigh, poor Augusta could scarcely breathe, while Margaret was all Life and Rapture. “The long-expected Moment is now arrived (said she) and we shall soon be in the World.”—In a few Moments we were in Mrs Cope’s parlour, where with her daughter she sate ready to receive us. I observed with delight the impression my Children made on them—. They were indeed two sweet, elegant-looking Girls, and tho’ somewhat abashed from the peculiarity of their situation, yet there was an ease in their Manners and address which could not fail of pleasing—. Imagine my dear Madam how delighted I must have been in beholding as I did, how attentively they observed every object they saw, how disgusted with some Things, how enchanted with others, how astonished at all! On the whole however they returned in raptures with the World, its Inhabitants, and Manners. Yrs Ever—A. F.
 
-<span id="link2H_4_0034"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER the SECOND From a YOUNG LADY crossed in Love to her freind
+### LETTER the SECOND From a YOUNG LADY crossed in Love to her freind
 
 Why should this last disappointment hang so heavily on my spirits? Why should I feel it more, why should it wound me deeper than those I have experienced before? Can it be that I have a greater affection for Willoughby than I had for his amiable predecessors? Or is it that our feelings become more acute from being often wounded? I must suppose my dear Belle that this is the Case, since I am not conscious of being more sincerely attached to Willoughby than I was to Neville, Fitzowen, or either of the Crawfords, for all of whom I once felt the most lasting affection that ever warmed a Woman’s heart. Tell me then dear Belle why I still sigh when I think of the faithless Edward, or why I weep when I behold his Bride, for too surely this is the case—. My Freinds are all alarmed for me; They fear my declining health; they lament my want of spirits; they dread the effects of both. In hopes of releiving my melancholy, by directing my thoughts to other objects, they have invited several of their freinds to spend the Christmas with us. Lady Bridget Darkwood and her sister-in-law, Miss Jane are expected on Friday; and Colonel Seaton’s family will be with us next week. This is all most kindly meant by my Uncle and Cousins; but what can the presence of a dozen indefferent people do to me, but weary and distress me—. I will not finish my Letter till some of our Visitors are arrived.
 
@@ -946,20 +569,8 @@ Friday Evening Lady Bridget came this morning, and with her, her sweet sister Mi
 
 “Poor Girl!” said Miss Jane.
 
-<span id="link2H_4_0035"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER the THIRD From a YOUNG LADY in distressed Circumstances to her
-
-freind
+### LETTER the THIRD From a YOUNG LADY in distressed Circumstances to her freind
 
 A few days ago I was at a private Ball given by Mr Ashburnham. As my Mother never goes out she entrusted me to the care of Lady Greville who did me the honour of calling for me in her way and of allowing me to sit forwards, which is a favour about which I am very indifferent especially as I know it is considered as confering a great obligation on me “So Miss Maria (said her Ladyship as she saw me advancing to the door of the Carriage) you seem very smart to night—MY poor Girls will appear quite to disadvantage by YOU—I only hope your Mother may not have distressed herself to set YOU off. Have you got a new Gown on?”
 
@@ -989,18 +600,8 @@ The next day while we were at dinner Lady Greville’s Coach stopped at the door
 
 “Why I think Miss Maria you are not quite so smart as you were last night—But I did not come to examine your dress, but to tell you that you may dine with us the day after tomorrow—Not tomorrow, remember, do not come tomorrow, for we expect Lord and Lady Clermont and Sir Thomas Stanley’s family—There will be no occasion for your being very fine for I shant send the Carriage—If it rains you may take an umbrella—” I could hardly help laughing at hearing her give me leave to keep myself dry—“And pray remember to be in time, for I shant wait—I hate my Victuals over-done—But you need not come before the time—How does your Mother do? She is at dinner is not she?” “Yes Ma’am we were in the middle of dinner when your Ladyship came.” “I am afraid you find it very cold Maria.” said Ellen. “Yes, it is an horrible East wind—said her Mother—I assure you I can hardly bear the window down—But you are used to be blown about by the wind Miss Maria and that is what has made your Complexion so rudely and coarse. You young Ladies who cannot often ride in a Carriage never mind what weather you trudge in, or how the wind shews your legs. I would not have my Girls stand out of doors as you do in such a day as this. But some sort of people have no feelings either of cold or Delicacy—Well, remember that we shall expect you on Thursday at 5 o’clock—You must tell your Maid to come for you at night—There will be no Moon—and you will have an horrid walk home—My compts to Your Mother—I am afraid your dinner will be cold—Drive on—” And away she went, leaving me in a great passion with her as she always does. Maria Williams.
 
-<span id="link2H_4_0036"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER the FOURTH From a YOUNG LADY rather impertinent to her freind
+### LETTER the FOURTH From a YOUNG LADY rather impertinent to her freind
 
 We dined yesterday with Mr Evelyn where we were introduced to a very agreable looking Girl his Cousin. I was extremely pleased with her appearance, for added to the charms of an engaging face, her manner and voice had something peculiarly interesting in them. So much so, that they inspired me with a great curiosity to know the history of her Life, who were her Parents, where she came from, and what had befallen her, for it was then only known that she was a relation of Mr Evelyn, and that her name was Grenville. In the evening a favourable opportunity offered to me of attempting at least to know what I wished to know, for every one played at Cards but Mrs Evelyn, My Mother, Dr Drayton, Miss Grenville and myself, and as the two former were engaged in a whispering Conversation, and the Doctor fell asleep, we were of necessity obliged to entertain each other. This was what I wished and being determined not to remain in ignorance for want of asking, I began the Conversation in the following Manner.
 
@@ -1034,18 +635,8 @@ I bowed, but felt a good deal mortified by such a repulse; still however I had n
 
 “They are neither of them alive Ma’am.” This was an answer I did not expect—I was quite silenced, and never felt so awkward in my Life—-.
 
-<span id="link2H_4_0037"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## LETTER the FIFTH From a YOUNG LADY very much in love to her Freind
+### LETTER the FIFTH From a YOUNG LADY very much in love to her Freind
 
 My Uncle gets more stingy, my Aunt more particular, and I more in love every day. What shall we all be at this rate by the end of the year! I had this morning the happiness of receiving the following Letter from my dear Musgrove.
 
@@ -1147,43 +738,20 @@ What a noble Creature he is! Oh! Matilda what a fortunate one I am, who am to be
 
 Finis.
 
-------------------------------------------------------------------------
+***
 
-SCRAPS
-
-To Miss FANNY CATHERINE AUSTEN
+### Scraps: To Miss FANNY CATHERINE AUSTEN
 
 MY Dear Neice As I am prevented by the great distance between Rowling and Steventon from superintending your Education myself, the care of which will probably on that account devolve on your Father and Mother, I think it is my particular Duty to Prevent your feeling as much as possible the want of my personal instructions, by addressing to you on paper my Opinions and Admonitions on the conduct of Young Women, which you will find expressed in the following pages.—I am my dear Neice Your affectionate Aunt The Author.
 
-<span id="link2H_4_0038"></span>
 
-<div style="height: 4em;">
 
-\
-\
-\
-\
 
-</div>
-
-## THE FEMALE PHILOSOPHER
-
-### A LETTER
+## The female philosopher: a letter
 
 My Dear Louisa Your friend Mr Millar called upon us yesterday in his way to Bath, whither he is going for his health; two of his daughters were with him, but the eldest and the three Boys are with their Mother in Sussex. Though you have often told me that Miss Millar was remarkably handsome, you never mentioned anything of her Sisters’ beauty; yet they are certainly extremely pretty. I’ll give you their description.—Julia is eighteen; with a countenance in which Modesty, Sense and Dignity are happily blended, she has a form which at once presents you with Grace, Elegance and Symmetry. Charlotte who is just sixteen is shorter than her Sister, and though her figure cannot boast the easy dignity of Julia’s, yet it has a pleasing plumpness which is in a different way as estimable. She is fair and her face is expressive sometimes of softness the most bewitching, and at others of Vivacity the most striking. She appears to have infinite Wit and a good humour unalterable; her conversation during the half hour they set with us, was replete with humourous sallies, Bonmots and repartees; while the sensible, the amiable Julia uttered sentiments of Morality worthy of a heart like her own. Mr Millar appeared to answer the character I had always received of him. My Father met him with that look of Love, that social Shake, and cordial kiss which marked his gladness at beholding an old and valued freind from whom thro’ various circumstances he had been separated nearly twenty years. Mr Millar observed (and very justly too) that many events had befallen each during that interval of time, which gave occasion to the lovely Julia for making most sensible reflections on the many changes in their situation which so long a period had occasioned, on the advantages of some, and the disadvantages of others. From this subject she made a short digression to the instability of human pleasures and the uncertainty of their duration, which led her to observe that all earthly Joys must be imperfect. She was proceeding to illustrate this doctrine by examples from the Lives of great Men when the Carriage came to the Door and the amiable Moralist with her Father and Sister was obliged to depart; but not without a promise of spending five or six months with us on their return. We of course mentioned you, and I assure you that ample Justice was done to your Merits by all. “Louisa Clarke (said I) is in general a very pleasant Girl, yet sometimes her good humour is clouded by Peevishness, Envy and Spite. She neither wants Understanding or is without some pretensions to Beauty, but these are so very trifling, that the value she sets on her personal charms, and the adoration she expects them to be offered are at once a striking example of her vanity, her pride, and her folly.” So said I, and to my opinion everyone added weight by the concurrence of their own. Your affectionate Arabella Smythe.
 
-<span id="link2H_4_0039"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## THE FIRST ACT OF A COMEDY
+## The first act of a comedy
 
 CHARACTERS Popgun Maria Charles Pistolletta Postilion Hostess Chorus of ploughboys Cook and and Strephon Chloe
 
@@ -1235,50 +803,21 @@ Post:) Eighteen pence. Streph:) Alas, my freind, I have but a bad guinea with wh
 
 Post:) Sir, I accept your offer.
 
-END OF THE FIRST ACT. <span id="link2H_4_0040"></span>
+END OF THE FIRST ACT.
 
-<div style="height: 4em;">
 
-\
-\
-\
-\
 
-</div>
-
-## A LETTER from a YOUNG LADY, whose feelings being too strong for
-
-her Judgement led her into the commission of Errors which her Heart disapproved.
+## A LETTER from a YOUNG LADY, whose feelings being too strong for her Judgement led her into the commission of Errors which her Heart disapproved
 
 Many have been the cares and vicissitudes of my past life, my beloved Ellinor, and the only consolation I feel for their bitterness is that on a close examination of my conduct, I am convinced that I have strictly deserved them. I murdered my father at a very early period of my Life, I have since murdered my Mother, and I am now going to murder my Sister. I have changed my religion so often that at present I have not an idea of any left. I have been a perjured witness in every public tryal for these last twelve years; and I have forged my own Will. In short there is scarcely a crime that I have not committed—But I am now going to reform. Colonel Martin of the Horse guards has paid his Addresses to me, and we are to be married in a few days. As there is something singular in our Courtship, I will give you an account of it. Colonel Martin is the second son of the late Sir John Martin who died immensely rich, but bequeathing only one hundred thousand pound apeice to his three younger Children, left the bulk of his fortune, about eight Million to the present Sir Thomas. Upon his small pittance the Colonel lived tolerably contented for nearly four months when he took it into his head to determine on getting the whole of his eldest Brother’s Estate. A new will was forged and the Colonel produced it in Court—but nobody would swear to it’s being the right will except himself, and he had sworn so much that Nobody beleived him. At that moment I happened to be passing by the door of the Court, and was beckoned in by the Judge who told the Colonel that I was a Lady ready to witness anything for the cause of Justice, and advised him to apply to me. In short the Affair was soon adjusted. The Colonel and I swore to its’ being the right will, and Sir Thomas has been obliged to resign all his illgotten wealth. The Colonel in gratitude waited on me the next day with an offer of his hand—. I am now going to murder my Sister. Yours Ever, Anna Parker.
 
-<span id="link2H_4_0041"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## A TOUR THROUGH WALES—in a LETTER from a YOUNG LADY—
 
 My Dear Clara I have been so long on the ramble that I have not till now had it in my power to thank you for your Letter—. We left our dear home on last Monday month; and proceeded on our tour through Wales, which is a principality contiguous to England and gives the title to the Prince of Wales. We travelled on horseback by preference. My Mother rode upon our little poney and Fanny and I walked by her side or rather ran, for my Mother is so fond of riding fast that she galloped all the way. You may be sure that we were in a fine perspiration when we came to our place of resting. Fanny has taken a great many Drawings of the Country, which are very beautiful, tho’ perhaps not such exact resemblances as might be wished, from their being taken as she ran along. It would astonish you to see all the Shoes we wore out in our Tour. We determined to take a good Stock with us and therefore each took a pair of our own besides those we set off in. However we were obliged to have them both capped and heelpeiced at Carmarthen, and at last when they were quite gone, Mama was so kind as to lend us a pair of blue Sattin Slippers, of which we each took one and hopped home from Hereford delightfully—-I am your ever affectionate Elizabeth Johnson.
 
-<span id="link2H_4_0042"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
-
-## A TALE.
+## A tale
 
 A Gentleman whose family name I shall conceal, bought a small Cottage in Pembrokeshire about two years ago. This daring Action was suggested to him by his elder Brother who promised to furnish two rooms and a Closet for him, provided he would take a small house near the borders of an extensive Forest, and about three Miles from the Sea. Wilhelminus gladly accepted the offer and continued for some time searching after such a retreat when he was one morning agreably releived from his suspence by reading this advertisement in a Newspaper.
 
