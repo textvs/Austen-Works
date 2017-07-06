@@ -233,59 +233,81 @@ Finis.
 
 My Dear Louisa Your friend Mr Millar called upon us yesterday in his way to Bath, whither he is going for his health; two of his daughters were with him, but the eldest and the three Boys are with their Mother in Sussex. Though you have often told me that Miss Millar was remarkably handsome, you never mentioned anything of her Sisters’ beauty; yet they are certainly extremely pretty. I’ll give you their description.—Julia is eighteen; with a countenance in which Modesty, Sense and Dignity are happily blended, she has a form which at once presents you with Grace, Elegance and Symmetry. Charlotte who is just sixteen is shorter than her Sister, and though her figure cannot boast the easy dignity of Julia’s, yet it has a pleasing plumpness which is in a different way as estimable. She is fair and her face is expressive sometimes of softness the most bewitching, and at others of Vivacity the most striking. She appears to have infinite Wit and a good humour unalterable; her conversation during the half hour they set with us, was replete with humourous sallies, Bonmots and repartees; while the sensible, the amiable Julia uttered sentiments of Morality worthy of a heart like her own. Mr Millar appeared to answer the character I had always received of him. My Father met him with that look of Love, that social Shake, and cordial kiss which marked his gladness at beholding an old and valued freind from whom thro’ various circumstances he had been separated nearly twenty years. Mr Millar observed (and very justly too) that many events had befallen each during that interval of time, which gave occasion to the lovely Julia for making most sensible reflections on the many changes in their situation which so long a period had occasioned, on the advantages of some, and the disadvantages of others. From this subject she made a short digression to the instability of human pleasures and the uncertainty of their duration, which led her to observe that all earthly Joys must be imperfect. She was proceeding to illustrate this doctrine by examples from the Lives of great Men when the Carriage came to the Door and the amiable Moralist with her Father and Sister was obliged to depart; but not without a promise of spending five or six months with us on their return. We of course mentioned you, and I assure you that ample Justice was done to your Merits by all. “Louisa Clarke (said I) is in general a very pleasant Girl, yet sometimes her good humour is clouded by Peevishness, Envy and Spite. She neither wants Understanding or is without some pretensions to Beauty, but these are so very trifling, that the value she sets on her personal charms, and the adoration she expects them to be offered are at once a striking example of her vanity, her pride, and her folly.” So said I, and to my opinion everyone added weight by the concurrence of their own. Your affectionate Arabella Smythe.
 
-## The first act of a comedy
 
-*Characters* Popgun Maria Charles Pistolletta Postilion Hostess Chorus of ploughboys Cook and and Strephon Chloe
+## 🎭 The First Act of a Comedy
 
-*scene*—*an inn*
+### 👥 Characters
 
-*enter* Hostess, Charles, Maria, and Cook.
+- Popgun.
+- Maria.
+- Charles.
+- Pistolletta.
+- Postilion.
+- Hostess.
+- Chorus of ploughboys;
+- Cook and Strephon Chloe
 
-Hostess to Maria) If the gentry in the Lion should want beds, shew them number 9.
+Scene: an inn
 
-Maria) Yes Mistress.—*exit* Maria
+### First Act
 
-Hostess to Cook) If their Honours in the Moon ask for the bill of fare, give it them.
+Enter Hostess, Charles, Maria, and Cook.
 
-Cook) I wull, I wull. *exit* Cook.
+Hostess [to Maria]: If the gentry in the Lion should want beds, shew them number 9.
 
-Hostess to Charles) If their Ladyships in the Sun ring their Bell—answerit.
+Maria: Yes Mistress. [Exit Maria]
 
-Charles) Yes Madam. *exeunt* Severally.
+Hostess [to Cook]: If their Honours in the Moon ask for the bill of fare, give it them.
 
-*scene changes to the moon*, and discovers Popgun and Pistoletta.
+Cook: I wull, I wull. [Exit Cook.]
 
-Pistoletta) Pray papa how far is it to London?
+Hostess [to Charles]: If their Ladyships in the Sun ring their Bell—answerit.
 
-Popgun) My Girl, my Darling, my favourite of all my Children, who art the picture of thy poor Mother who died two months ago, with whom I am going to Town to marry to Strephon, and to whom I mean to bequeath my whole Estate, it wants seven Miles.
+Charles: Yes Madam. [Exeunt Severally.]
 
-*scene changes to the sun*—
+Scene changes to the moon, and discovers Popgun and Pistoletta.
 
-*enter* Chloe and a chorus of ploughboys.
+Pistoletta: Pray papa how far is it to London?
 
-Chloe) Where am I? At Hounslow.—Where go I? To London—. What to do? To be married—. Unto whom? Unto Strephon. Who is he? A Youth. Then I will sing a song.
+Popgun: My Girl, my Darling, my favourite of all my Children, who art the picture of thy poor Mother who died two months ago, with whom I am going to Town to marry to Strephon, and to whom I mean to bequeath my whole Estate, it wants seven Miles.
 
-*song* I go to Town And when I come down, I shall be married to Streephon \* [\*Note the two e’s] And that to me will be fun.
+Scene changes to the sun.
 
-Chorus) Be fun, be fun, be fun, And that to me will be fun.
+Enter Chloe and a chorus of ploughboys.
 
-*enter* Cook—Cook) Here is the bill of fare.
+Chloe: Where am I? At Hounslow.—Where go I? To London—. What to do? To be married—. Unto whom? Unto Strephon. Who is he? A Youth. Then I will sing a song. [song]
+> I go to Town And when I come down,
+> I shall be married to Streephon^[Note the two e’s.]
+> And that to me will be fun.
 
-Chloe reads) 2 Ducks, a leg of beef, a stinking partridge, and a tart.—I will have the leg of beef and the partridge. *exit* Cook. And now I will sing another song.
+Chorus: Be fun, be fun, be fun, And that to me will be fun.
 
-*song*—I am going to have my dinner, After which I shan’t be thinner, I wish I had here Strephon For he would carve the partridge if it should be a tough one.
+Enter Cook.
 
-Chorus) Tough one, tough one, tough one For he would carve the partridge if it Should be a tough one. *exit* Chloe and Chorus.—
+Cook: Here is the bill of fare.
 
-*scene changes to the inside of the lion*.
+Chloe [reads]: 2 Ducks, a leg of beef, a stinking partridge, and a tart.—I will have the leg of beef and the partridge. [Exit Cook.] And now I will sing another song. [song]
+> I am going to have my dinner,
+> After which I shan’t be thinner,
+> I wish I had here Strephon
+> For he would carve the partridge
+> if it should be a tough one.
 
-Enter Strephon and Postilion. Streph:) You drove me from Staines to this place, from whence I mean to go to Town to marry Chloe. How much is your due?
+Chorus: Tough one, tough one, tough one For he would carve the partridge if it Should be a tough one. [Exi* Chloe and Chorus.]
 
-Post:) Eighteen pence. Streph:) Alas, my freind, I have but a bad guinea with which I mean to support myself in Town. But I will pawn to you an undirected Letter that I received from Chloe.
+Scene changes to the inside of the lion.
 
-Post:) Sir, I accept your offer.
+Enter Strephon and Postilion.
 
-*end of the first act*.
+Streph: You drove me from Staines to this place, from whence I mean to go to Town to marry Chloe. How much is your due?
+
+Post: Eighteen pence.
+
+Streph: Alas, my freind, I have but a bad guinea with which I mean to support myself in Town. But I will pawn to you an undirected Letter that I received from Chloe.
+
+Post: Sir, I accept your offer.
+
+End of the first act.
 
 
 
