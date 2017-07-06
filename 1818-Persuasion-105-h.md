@@ -8,18 +8,7 @@
 
 ### (1818) {align="center"}
 
-  ----------------------------- ------------------------------ ------------------------------ -----------------------------
-  [CHAPTER I](#linkchap01)      [CHAPTER II](#linkchap02)      [CHAPTER III](#linkchap03)     [CHAPTER IV](#linkchap04)
-  [CHAPTER V](#linkchap05)      [CHAPTER VI](#linkchap06)      [CHAPTER VII](#linkchap07)     [CHAPTER VIII](#linkchap08)
-  [CHAPTER IX](#linkchap09)     [CHAPTER X](#linkchap10)       [CHAPTER XI](#linkchap11)      [CHAPTER XII](#linkchap12)
-  [CHAPTER XIII](#linkchap13)   [CHAPTER XIV](#linkchap14)     [CHAPTER XV](#linkchap15)      [CHAPTER XVI](#linkchap16)
-  [CHAPTER XVII](#linkchap17)   [CHAPTER XVIII](#linkchap18)   [CHAPTER XIX](#linkchap19)     [CHAPTER XX](#linkchap20)
-  [CHAPTER XXI](#linkchap21)    [CHAPTER XXII](#linkchap22)    [CHAPTER XXIII](#linkchap23)   [CHAPTER XXIV](#linkchap24)
-  ----------------------------- ------------------------------ ------------------------------ -----------------------------
 
-\
-\
-\
 
 ### Chapter 1 {align="center"}
 
