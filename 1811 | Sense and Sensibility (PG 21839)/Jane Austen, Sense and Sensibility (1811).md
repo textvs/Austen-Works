@@ -34,7 +34,7 @@ His son was sent for as soon as his danger was known, and to him Mr. Dashwood r
 
 Mr. John Dashwood had not the strong feelings of the rest of the family; but he was affected by a recommendation of such a nature at such a time, and he promised to do every thing in his power to make them comfortable. His father was rendered easy by such an assurance, and Mr. John Dashwood had then leisure to consider how much there might prudently be in his power to do for them.
 
-![His son’s son, a child of four years old](images/image_027.jpg)
+![His son’s son, a child of four years old](image_027.jpg)
 
 He was not an ill-disposed young man, unless to be rather cold hearted and rather selfish is to be ill-disposed: but he was, in general, well respected; for he conducted himself with propriety in the discharge of his ordinary duties. Had he married a more amiable woman, he might have been made still more respectable than he was: he might even have been made amiable himself; for he was very young when he married, and very fond of his wife. But Mrs. John Dashwood was a strong caricature of himself; more narrow-minded and selfish.
 
@@ -116,7 +116,7 @@ This argument was irresistible. It gave to his intentions whatever of decision w
 
 Mrs. Dashwood remained at Norland several months; not from any disinclination to move when the sight of every well known spot ceased to raise the violent emotion which it produced for a while; for when her spirits began to revive, and her mind became capable of some other exertion than that of heightening its affliction by melancholy remembrances, she was impatient to be gone, and indefatigable in her inquiries for a suitable dwelling in the neighbourhood of Norland; for to remove far from that beloved spot was impossible. But she could hear of no situation that at once answered her notions of comfort and ease, and suited the prudence of her eldest daughter, whose steadier judgment rejected several houses as too large for their income, which her mother would have approved.
 
-![“I cannot imagine how they will spend half of it.”](images/image_035.jpg)
+![“I cannot imagine how they will spend half of it.”](image_035.jpg)
 
 Mrs. Dashwood had been informed by her husband of the solemn promise on the part of his son in their favour, which gave comfort to his last earthly reflections. She doubted the sincerity of this assurance no more than he had doubted it himself, and she thought of it for her daughters’ sake with satisfaction, though as for herself she was persuaded that a much smaller provision than 7000L would support her in affluence. For their brother’s sake, too, for the sake of his own heart, she rejoiced; and she reproached herself for being unjust to his merit before, in believing him incapable of generosity. His attentive behaviour to herself and his sisters convinced her that their welfare was dear to him, and, for a long time, she firmly relied on the liberality of his intentions.
 
@@ -236,7 +236,7 @@ In such employments as these they were interrupted soon after breakfast the next
 
 Lady Middleton had sent a very civil message by him, denoting her intention of waiting on Mrs. Dashwood as soon as she could be assured that her visit would be no inconvenience; and as this message was answered by an invitation equally polite, her ladyship was introduced to them the next day.
 
-![So shy before company.](images/image_050.jpg)
+![So shy before company.](image_050.jpg)
 
 They were, of course, very anxious to see a person on whom so much of their comfort at Barton must depend; and the elegance of her appearance was favourable to their wishes. Lady Middleton was not more than six or seven and twenty; her face was handsome, her figure tall and striking, and her address graceful. Her manners had all the elegance which her husband’s wanted. But they would have been improved by some share of his frankness and warmth; and her visit was long enough to detract something from their first admiration, by showing that, though perfectly well-bred, she was reserved, cold, and had nothing to say for herself beyond the most common-place inquiry or remark.
 
@@ -390,7 +390,7 @@ In Mrs. Dashwood’s estimation he was as faultless as in Marianne’s; and Eli
 
 Marianne began now to perceive that the desperation which had seized her at sixteen and a half, of ever seeing a man who could satisfy her ideas of perfection, had been rash and unjustifiable. Willoughby was all that her fancy had delineated in that unhappy hour and in every brighter period, as capable of attaching her; and his behaviour declared his wishes to be in that respect as earnest, as his abilities were strong.
 
-![They sang together.](images/image_066.jpg)
+![They sang together.](image_066.jpg)
 
 Her mother too, in whose mind not one speculative thought of their marriage had been raised, by his prospect of riches, was led before the end of a week to hope and expect it; and secretly to congratulate herself on having gained two such sons-in-law as Edward and Willoughby.
 
@@ -498,7 +498,7 @@ Margaret’s sagacity was not always displayed in a way so satisfactory to her s
 
 This of course made every body laugh; and Elinor tried to laugh too. But the effort was painful. She was convinced that Margaret had fixed on a person whose name she could not bear with composure to become a standing joke with Mrs. Jennings.
 
-![He cut off a long lock of her hair.](images/image_076.jpg)
+![He cut off a long lock of her hair.](image_076.jpg)
 
 Marianne felt for her most sincerely; but she did more harm than good to the cause, by turning very red and saying in an angry manner to Margaret—
 
@@ -666,7 +666,7 @@ As soon as they left the dining-room, Elinor enquired of her about it; and great
 
 “Yes, Marianne, but I would not go while Mrs. Smith was there, and with no other companion than Mr. Willoughby.”
 
-![“I have found you out in spite of all your tricks.”](images/image_083.jpg)
+![“I have found you out in spite of all your tricks.”](image_083.jpg)
 
 “Mr. Willoughby however is the only person who can have a right to show that house; and as he went in an open carriage, it was impossible to have any other companion. I never spent a pleasanter morning in my life.”
 
@@ -748,7 +748,7 @@ On their return from the park they found Willoughby’s curricle and servant in 
 
 “Almost this moment.”
 
-![Apparently in violent affliction.](images/image_090.jpg)
+![Apparently in violent affliction.](image_090.jpg)
 
 “This is very unfortunate. But Mrs. Smith must be obliged, and her business will not detain you from us long I hope.”
 
@@ -870,7 +870,7 @@ Amongst the objects in the scene, they soon discovered an animated one; it was a
 
 She walked eagerly on as she spoke; and Elinor, to screen Marianne from particularity, as she felt almost certain of its not being Willoughby, quickened her pace and kept up with her. They were soon within thirty yards of the gentleman. Marianne looked again; her heart sunk within her; and abruptly turning round, she was hurrying back, when the voices of both her sisters were raised to detain her; a third, almost as well known as Willoughby’s, joined them in begging her to stop, and she turned round with surprise to see and welcome Edward Ferrars.
 
-![Begging her to stop.](images/image_100.jpg)
+![Begging her to stop.](image_100.jpg)
 
 He was the only person in the world who could at that moment be forgiven for not being Willoughby; the only one who could have gained a smile from her; but she dispersed her tears to smile on *him*, and in her sister’s happiness forgot for a time her own disappointment.
 
@@ -1060,7 +1060,7 @@ Mrs. Jennings enforced the necessity. “And who knows but you may raise a danc
 
 “A dance!” cried Marianne. “Impossible! Who is to dance?”
 
-![Came to take a survey of the guest.](images/image_111.jpg)
+![Came to take a survey of the guest.](image_111.jpg)
 
 “Who? why yourselves, and the Careys, and Whitakers to be sure. What! you thought nobody could dance because a certain person that shall be nameless is gone!”
 
@@ -1156,7 +1156,7 @@ Lady Middleton could no longer endure such a conversation, and therefore exerted
 
 He immediately went into the passage, opened the front door, and ushered her in himself. Mrs. Jennings asked her, as soon as she appeared, if she had not been to Allenham; and Mrs. Palmer laughed so heartily at the question, as to show she understood it. Mr. Palmer looked up on her entering the room, stared at her some minutes, and then returned to his newspaper. Mrs. Palmer’s eye was now caught by the drawings which hung round the room. She got up to examine them.
 
-![“I declare they are quite charming.”](images/image_119.jpg)
+![“I declare they are quite charming.”](image_119.jpg)
 
 “Oh! dear, how beautiful these are! Well! how delightful! Do but look, mama, how sweet! I declare they are quite charming; I could look at them for ever.” And then sitting down again, she very soon forgot that there were any such things in the room.
 
@@ -1320,7 +1320,7 @@ When their promised visit to the Park and consequent introduction to these young
 
 And soon afterwards, on the second boy’s violently pinching one of the same lady’s fingers, she fondly observed, “How playful William is!”
 
-![Mischievous tricks.](images/image_130.jpg)
+![Mischievous tricks.](image_130.jpg)
 
 “And here is my sweet little Annamaria,” she added, tenderly caressing a little girl of three years old, who had not made a noise for the last two minutes; “And she is always so gentle and quiet—Never was there such a quiet little thing!”
 
@@ -1382,7 +1382,7 @@ The Miss Steeles, as she expected, had now all the benefit of these jokes, and i
 
 “His name is Ferrars,” said he, in a very audible whisper; “but pray do not tell it, for it’s a great secret.”
 
-![Drinking to her best affections.](images/image_135.jpg)
+![Drinking to her best affections.](image_135.jpg)
 
 “Ferrars!” repeated Miss Steele; “Mr. Ferrars is the happy man, is he? What! your sister-in-law’s brother, Miss Dashwood? a very agreeable young man to be sure; I know him very well.”
 
@@ -1424,7 +1424,7 @@ What felt Elinor at that moment? Astonishment, that would have been as painful a
 
 “You may well be surprised,” continued Lucy; “for to be sure you could have had no idea of it before; for I dare say he never dropped the smallest hint of it to you or any of your family; because it was always meant to be a great secret, and I am sure has been faithfully kept so by me to this hour. Not a soul of all my relations know of it but Anne, and I never should have mentioned it to you, if I had not felt the greatest dependence in the world upon your secrecy; and I really thought my behaviour in asking so many questions about Mrs. Ferrars must seem so odd, that it ought to be explained. And I do not think Mr. Ferrars can be displeased, when he knows I have trusted you, because I know he has the highest opinion in the world of all your family, and looks upon yourself and the other Miss Dashwoods quite as his own sisters.”—She paused.
 
-![Amiably bashful.](images/image_139.jpg)
+![Amiably bashful.](image_139.jpg)
 
 Elinor for a few moments remained silent. Her astonishment at what she heard was at first too great for words; but at length forcing herself to speak, and to speak cautiously, she said, with calmness of manner, which tolerably well concealed her surprise and solicitude—“May I ask if your engagement is of long standing?”
 
@@ -1598,7 +1598,7 @@ Lucy looked at Elinor again, and was silent.
 
 “I can answer for it that Miss Dashwood’s is not,” said Mrs. Jennings, laughing heartily; “for he is one of the modestest, prettiest behaved young men I ever saw; but as for Lucy, she is such a sly little creature, there is no finding out who *she* likes.”
 
-![“I can answer for it,” said Mrs. Jennings.](images/image_153.jpg)
+![“I can answer for it,” said Mrs. Jennings.](image_153.jpg)
 
 “Oh,” cried Miss Steele, looking significantly round at them, “I dare say Lucy’s beau is quite as modest and pretty behaved as Miss Dashwood’s.”
 
@@ -1862,7 +1862,7 @@ They had not remained in this manner long, before Elinor perceived Willoughby, s
 
 This however was more than she could believe herself; and to be composed at such a moment was not only beyond the reach of Marianne, it was beyond her wish. She sat in an agony of impatience which affected every feature.
 
-![At that moment she first perceived him.](images/image_176.jpg)
+![At that moment she first perceived him.](image_176.jpg)
 
 At last he turned round again, and regarded them both; she started up, and pronouncing his name in a tone of affection, held out her hand to him. He approached, and addressing himself rather to Elinor than Marianne, as if wishing to avoid her eye, and determined not to observe her attitude, inquired in a hurried manner after Mrs. Dashwood, and asked how long they had been in town. Elinor was robbed of all presence of mind by such an address, and was unable to say a word. But the feelings of her sister were instantly expressed. Her face was crimsoned over, and she exclaimed, in a voice of the greatest emotion, “Good God! Willoughby, what is the meaning of this? Have you not received my letters? Will you not shake hands with me?”
 
@@ -2098,7 +2098,7 @@ Mrs. Jennings, though regretting that she had not been five minutes earlier, wa
 
 Colonel Brandon came in while the party were at tea, and by his manner of looking round the room for Marianne, Elinor immediately fancied that he neither expected nor wished to see her there, and, in short, that he was already aware of what occasioned her absence. Mrs. Jennings was not struck by the same thought; for soon after his entrance, she walked across the room to the tea-table where Elinor presided, and whispered, “The Colonel looks as grave as ever you see. He knows nothing of it; do tell him, my dear.”
 
-![“How fond he was of it!”](images/image_195.jpg)
+![“How fond he was of it!”](image_195.jpg)
 
 He shortly afterwards drew a chair close to her’s, and, with a look which perfectly assured her of his good information, inquired after her sister.
 
@@ -2238,7 +2238,7 @@ Mrs. Palmer, in her way, was equally angry. “She was determined to drop his a
 
 The rest of Mrs. Palmer’s sympathy was shown in procuring all the particulars in her power of the approaching marriage, and communicating them to Elinor. She could soon tell at what coachmaker’s the new carriage was building, by what painter Mr. Willoughby’s portrait was drawn, and at what warehouse Miss Grey’s clothes might be seen.
 
-![Offered him one of Folly’s puppies.](images/image_210.jpg)
+![Offered him one of Folly’s puppies.](image_210.jpg)
 
 The calm and polite unconcern of Lady Middleton on the occasion was a happy relief to Elinor’s spirits, oppressed as they often were by the clamorous kindness of the others. It was a great comfort to her to be sure of exciting no interest in *one* person at least among their circle of friends: a great comfort to know that there was *one* who would meet her without feeling any curiosity after particulars, or any anxiety for her sister’s health.
 
@@ -2288,7 +2288,7 @@ Elinor would not humour her by farther opposition.
 
 “Long a time, indeed!” interposed Mrs. Jennings. “Why, their visit is but just begun!”
 
-![A very smart beau.](images/image_214.jpg)
+![A very smart beau.](image_214.jpg)
 
 Lucy was silenced.
 
@@ -2318,7 +2318,7 @@ At last the affair was decided. The ivory, the gold, and the pearls, all receive
 
 Elinor lost no time in bringing her business forward, was on the point of concluding it, when another gentleman presented himself at her side. She turned her eyes towards his face, and found him with some surprise to be her brother.
 
-![Introduced to Mrs. Jennings.](images/image_217.jpg)
+![Introduced to Mrs. Jennings.](image_217.jpg)
 
 Their affection and pleasure in meeting was just enough to make a very creditable appearance in Mr. Gray’s shop. John Dashwood was really far from being sorry to see his sisters again; it rather gave them satisfaction; and his inquiries after their mother were respectful and attentive.
 
@@ -2334,7 +2334,7 @@ Elinor did feel a little ashamed of her brother; and was not sorry to be spared 
 
 Mr. Dashwood attended them down stairs, was introduced to Mrs. Jennings at the door of her carriage, and repeating his hope of being able to call on them the next day, took leave.
 
-![Mrs. Jennings assured him directly that she should not stand upon ceremony.](images/image_219.jpg)
+![Mrs. Jennings assured him directly that she should not stand upon ceremony.](image_219.jpg)
 
 His visit was duly paid. He came with a pretence at an apology from their sister-in-law, for not coming too; “but she was so much engaged with her mother, that really she had no leisure for going any where.” Mrs. Jennings, however, assured him directly, that she should not stand upon ceremony, for they were all cousins, or something like it, and she should certainly wait on Mrs. John Dashwood very soon, and bring her sisters to see her. His manners to *them*, though calm, were perfectly kind; to Mrs. Jennings, most attentively civil; and on Colonel Brandon’s coming in soon after himself, he eyed him with a curiosity which seemed to say, that he only wanted to know him to be rich, to be equally civil to *him.*
 
@@ -2486,7 +2486,7 @@ Marianne could not bear this. She was already greatly displeased with Mrs. Ferr
 
 And so saying, she took the screens out of her sister-in-law’s hands, to admire them herself as they ought to be admired.
 
-![Mrs. Ferrars.](images/image_231.jpg)
+![Mrs. Ferrars.](image_231.jpg)
 
 Mrs. Ferrars looked exceedingly angry, and drawing herself up more stiffly than ever, pronounced in retort this bitter philippic, “Miss Morton is Lord Morton’s daughter.”
 
@@ -2598,7 +2598,7 @@ Marianne looked at her steadily, and said, “You know, Elinor, that this is a k
 
 She then left the room; and Elinor dared not follow her to say more, for bound as she was by her promise of secrecy to Lucy, she could give no information that would convince Marianne; and painful as the consequences of her still continuing in an error might be, she was obliged to submit to it. All that she could hope, was that Edward would not often expose her or himself to the distress of hearing Marianne’s mistaken warmth, nor to the repetition of any other part of the pain that had attended their recent meeting—and this she had every reason to expect.
 
-![Drawing him a little aside.](images/image_239.jpg)
+![Drawing him a little aside.](image_239.jpg)
 
 ## Chapter XXXVI
 
@@ -2672,7 +2672,7 @@ About the third or fourth morning after their being thus resettled in Berkeley S
 
 “What! is Fanny ill?”
 
-![In a whisper.](images/image_249.jpg)
+![In a whisper.](image_249.jpg)
 
 “That is exactly what I said, my dear. ‘Lord!’ says I, ‘is Mrs. Dashwood ill?’ So then it all came out; and the long and the short of the matter, by all I can learn, seems to be this. Mr. Edward Ferrars, the very young man I used to joke with you about (but however, as it turns out, I am monstrous glad there was never any thing in it), Mr. Edward Ferrars, it seems, has been engaged above this twelvemonth to my cousin Lucy! There’s for you, my dear! And not a creature knowing a syllable of the matter, except Nancy! Could you have believed such a thing possible? There is no great wonder in their liking one another; but that matters should be brought so forward between them, and nobody suspect it! *That* is strange! I never happened to see them together, or I am sure I should have found it out directly. Well, and so this was kept a great secret, for fear of Mrs. Ferrars, and neither she nor your brother or sister suspected a word of the matter: till this very morning, poor Nancy, who, you know, is a well-meaning creature, but no conjurer, popt it all out. ‘Lord!’ thinks she to herself, ‘they are all so fond of Lucy, to be sure they will make no difficulty about it;’ and so, away she went to your sister, who was sitting all alone at her carpet-work, little suspecting what was to come—for she had just been saying to your brother, only five minutes before, that she thought to make a match between Edward and some Lord’s daughter or other, I forget who. So you may think what a blow it was to all her vanity and pride. She fell into violent hysterics immediately, with such screams as reached your brother’s ears, as he was sitting in his own dressing-room down stairs, thinking about writing a letter to his steward in the country. So up he flew directly, and a terrible scene took place, for Lucy was come to them by that time, little dreaming what was going on. Poor soul! I pity *her.* And I must say, I think she was used very hardly; for your sister scolded like any fury, and soon drove her into a fainting fit. Nancy, she fell upon her knees, and cried bitterly; and your brother, he walked about the room, and said he did not know what to do. Mrs. Dashwood declared they should not stay a minute longer in the house, and your brother was forced to go down upon *his* knees too, to persuade her to let them stay till they had packed up their clothes. *Then* she fell into hysterics again, and he was so frightened that he would send for Mr. Donavan, and Mr. Donavan found the house in all this uproar. The carriage was at the door ready to take my poor cousins away, and they were just stepping in as he came off; poor Lucy in such a condition, he says, she could hardly walk; and Nancy, she was almost as bad. I declare, I have no patience with your sister; and I hope, with all my heart, it will be a match in spite of her. Lord! what a taking poor Mr. Edward will be in when he hears of it! To have his love used so scornfully! for they say he is monstrous fond of her, as well he may. I should not wonder, if he was to be in the greatest passion!—and Mr. Donavan thinks just the same. He and I had a great deal of talk about it; and the best of all is, that he is gone back again to Harley Street, that he may be within call when Mrs. Ferrars is told of it, for she was sent for as soon as ever my cousins left the house, for your sister was sure *she* would be in hysterics too; and so she may, for what I care. I have no pity for either of them. I have no notion of people’s making such a to-do about money and greatness. There is no reason on earth why Mr. Edward and Lucy should not marry; for I am sure Mrs. Ferrars may afford to do very well by her son, and though Lucy has next to nothing herself, she knows better than any body how to make the most of every thing; I dare say, if Mrs. Ferrars would only allow him five hundred a-year, she would make as good an appearance with it as any body else would with eight. Lord! how snug they might live in such another cottage as yours—or a little bigger—with two maids, and two men; and I believe I could help them to a housemaid, for my Betty has a sister out of place, that would fit them exactly.”
 
@@ -2734,7 +2734,7 @@ The next morning brought a farther trial of it, in a visit from their brother, w
 
 They all looked their assent; it seemed too awful a moment for speech.
 
-![“You have heard, I suppose.”](images/image_256.jpg)
+![“You have heard, I suppose.”](image_256.jpg)
 
 “Your sister,” he continued, “has suffered dreadfully. Mrs. Ferrars too—in short it has been a scene of such complicated distress—but I will hope that the storm may be weathered without our being any of us quite overcome. Poor Fanny! she was in hysterics all yesterday. But I would not alarm you too much. Donavan says there is nothing materially to be apprehended; her constitution is a good one, and her resolution equal to any thing. She has borne it all, with the fortitude of an angel! She says she never shall think well of anybody again; and one cannot wonder at it, after being so deceived!—meeting with such ingratitude, where so much kindness had been shown, so much confidence had been placed! It was quite out of the benevolence of her heart, that she had asked these young women to her house; merely because she thought they deserved some attention, were harmless, well-behaved girls, and would be pleasant companions; for otherwise we both wished very much to have invited you and Marianne to be with us, while your kind friend there, was attending her daughter. And now to be so rewarded! ‘I wish, with all my heart,’ says poor Fanny in her affectionate way, ‘that we had asked your sisters instead of them.’”
 
@@ -2772,7 +2772,7 @@ Elinor’s heart thanked her for such kindness towards Edward, though she could 
 
 “If he would only have done as well by himself,” said John Dashwood, “as all his friends were disposed to do by him, he might now have been in his proper situation, and would have wanted for nothing. But as it is, it must be out of anybody’s power to assist him. And there is one thing more preparing against him, which must be worse than all—his mother has determined, with a very natural kind of spirit, to settle *that* estate upon Robert immediately, which might have been Edward’s, on proper conditions. I left her this morning with her lawyer, talking over the business.”
 
-![Talking over the business.](images/image_260.jpg)
+![Talking over the business.](image_260.jpg)
 
 “Well!” said Mrs. Jennings, “that is *her* revenge. Everybody has a way of their own. But I don’t think mine would be, to make one son independent, because another had plagued me.”
 
@@ -2816,7 +2816,7 @@ She had wandered away to a subject on which Elinor had nothing to say, and there
 
 “I never heard any thing of the kind hinted at before, I assure you,” said Elinor.
 
-![“She put in the feather last night.”](images/image_264.jpg)
+![“She put in the feather last night.”](image_264.jpg)
 
 “Oh, did not you? But it *was* said, I know, very well, and by more than one; for Miss Godby told Miss Sparks, that nobody in their senses could expect Mr. Ferrars to give up a woman like Miss Morton, with thirty thousand pounds to her fortune, for Lucy Steele that had nothing at all; and I had it from Miss Sparks myself. And besides that, my cousin Richard said himself, that when it came to the point he was afraid Mr. Ferrars would be off; and when Edward did not come near us for three days, I could not tell what to think myself; and I believe in my heart Lucy gave it up all for lost; for we came away from your brother’s Wednesday, and we saw nothing of him not all Thursday, Friday, and Saturday, and did not know what was become of him. Once Lucy thought to write to him, but then her spirits rose against that. However this morning he came just as we came home from church; and then it all came out, how he had been sent for Wednesday to Harley Street, and been talked to by his mother and all of them, and how he had declared before them all that he loved nobody but Lucy, and nobody but Lucy would he have. And how he had been so worried by what passed, that as soon as he had went away from his mother’s house, he had got upon his horse, and rid into the country, some where or other; and how he had stayed about at an inn all Thursday and Friday, on purpose to get the better of it. And after thinking it all over and over again, he said, it seemed to him as if, now he had no fortune, and no nothing at all, it would be quite unkind to keep her on to the engagement, because it must be for her loss, for he had nothing but two thousand pounds, and no hope of any thing else; and if he was to go into orders, as he had some thoughts, he could get nothing but a curacy, and how was they to live upon that?—He could not bear to think of her doing no better, and so he begged, if she had the least mind for it, to put an end to the matter directly, and leave him shift for himself. I heard him say all this as plain as could possibly be. And it was entirely for *her* sake, and upon *her* account, that he said a word about being off, and not upon his own. I will take my oath he never dropt a syllable of being tired of her, or of wishing to marry Miss Morton, or any thing like it. But, to be sure, Lucy would not give ear to such kind of talking; so she told him directly (with a great deal about sweet and love, you know, and all that—Oh, la! one can’t repeat such kind of things you know)—she told him directly, she had not the least mind in the world to be off, for she could live with him upon a trifle, and how little so ever he might have, she should be very glad to have it all, you know, or something of the kind. So then he was monstrous happy, and talked on some time about what they should do, and they agreed he should take orders directly, and they must wait to be married till he got a living. And just then I could not hear any more, for my cousin called from below to tell me Mrs. Richardson was come in her coach, and would take one of us to Kensington Gardens; so I was forced to go into the room and interrupt them, to ask Lucy if she would like to go, but she did not care to leave Edward; so I just run up stairs and put on a pair of silk stockings and came off with the Richardsons.”
 
@@ -2830,7 +2830,7 @@ She had wandered away to a subject on which Elinor had nothing to say, and there
 
 Elinor tried to talk of something else; but Miss Steele could not be kept beyond a couple of minutes, from what was uppermost in her mind.
 
-![Listening at the door.](images/image_267.jpg)
+![Listening at the door.](image_267.jpg)
 
 “Edward talks of going to Oxford soon,” said she; “but now he is lodging at No. —, Pall Mall. What an ill-natured woman his mother is, an’t she? And your brother and sister were not very kind! However, I shan’t say anything against them to *you*; and to be sure they did send us home in their own chariot, which was more than I looked for. And for my part, I was all in a fright for fear your sister should ask us for the huswifes she had gave us a day or two before; but, however, nothing was said about them, and I took care to keep mine out of sight. Edward have got some business at Oxford, he says; so he must go there for a time; and after *that*, as soon as he can light upon a Bishop, he will be ordained. I wonder what curacy he will get! Good gracious! (giggling as she spoke) I’d lay my life I know what my cousins will say, when they hear of it. They will tell me I should write to the Doctor, to get Edward the curacy of his new living. I know they will; but I am sure I would not do such a thing for all the world. ‘La!’ I shall say directly, ‘I wonder how you could think of such a thing? I write to the Doctor, indeed!’”
 
@@ -3016,7 +3016,7 @@ When Mrs. Jennings came home, though she returned from seeing people whom she h
 
 “Lord bless you, my dear! Sure you do not mean to persuade me that the Colonel only marries you for the sake of giving ten guineas to Mr. Ferrars!”
 
-![Both gained considerable amusement](images/image_282.jpg)
+![Both gained considerable amusement](image_282.jpg)
 
 The deception could not continue after this; and an explanation immediately took place, by which both gained considerable amusement for the moment, without any material loss of happiness to either, for Mrs. Jennings only exchanged one form of delight for another, and still without forfeiting her expectation of the first.
 
@@ -3094,7 +3094,7 @@ Elinor said no more, and John was also for a short time silent. His reflections 
 
 Elinor had heard enough, if not to gratify her vanity, and raise her self-importance, to agitate her nerves and fill her mind;—and she was therefore glad to be spared from the necessity of saying much in reply herself, and from the danger of hearing any thing more from her brother, by the entrance of Mr. Robert Ferrars. After a few moments’ chat, John Dashwood, recollecting that Fanny was yet uninformed of her sister’s being there, quitted the room in quest of her; and Elinor was left to improve her acquaintance with Robert, who, by the gay unconcern, the happy self-complacency of his manner while enjoying so unfair a division of his mother’s love and liberality, to the prejudice of his banished brother, earned only by his own dissipated course of life, and that brother’s integrity, was confirming her most unfavourable opinion of his head and heart.
 
-![“Of one thing I may assure you.”](images/image_288.jpg)
+![“Of one thing I may assure you.”](image_288.jpg)
 
 They had scarcely been two minutes by themselves, before he began to speak of Edward; for he, too, had heard of the living, and was very inquisitive on the subject. Elinor repeated the particulars of it, as she had given them to John; and their effect on Robert, though very different, was not less striking than it had been on *him.* He laughed most immoderately. The idea of Edward’s being a clergyman, and living in a small parsonage-house, diverted him beyond measure;—and when to that was added the fanciful imagery of Edward reading prayers in a white surplice, and publishing the banns of marriage between John Smith and Mary Brown, he could conceive nothing more ridiculous.
 
@@ -3128,7 +3128,7 @@ Marianne entered the house with a heart swelling with emotion from the conscious
 
 In such moments of precious, invaluable misery, she rejoiced in tears of agony to be at Cleveland; and as she returned by a different circuit to the house, feeling all the happy privilege of country liberty, of wandering from place to place in free and luxurious solitude, she resolved to spend almost every hour of every day while she remained with the Palmers, in the indulgence of such solitary rambles.
 
-![Showing her child to the housekeeper.](images/image_293.jpg)
+![Showing her child to the housekeeper.](image_293.jpg)
 
 She returned just in time to join the others as they quitted the house, on an excursion through its more immediate premises; and the rest of the morning was easily whiled away, in lounging round the kitchen garden, examining the bloom upon its walls, and listening to the gardener’s lamentations upon blights, in dawdling through the green-house, where the loss of her favourite plants, unwarily exposed, and nipped by the lingering frost, raised the laughter of Charlotte,—and in visiting her poultry-yard, where, in the disappointed hopes of her dairy-maid, by hens forsaking their nests, or being stolen by a fox, or in the rapid decrease of a promising young brood, she found fresh sources of merriment.
 
@@ -3138,7 +3138,7 @@ Their party was small, and the hours passed quietly away. Mrs. Palmer had her c
 
 Nothing was wanting on Mrs. Palmer’s side that constant and friendly good humour could do, to make them feel themselves welcome. The openness and heartiness of her manner more than atoned for that want of recollection and elegance which made her often deficient in the forms of politeness; her kindness, recommended by so pretty a face, was engaging; her folly, though evident was not disgusting, because it was not conceited; and Elinor could have forgiven every thing but her laugh.
 
-![The gardener’s lamentations.](images/image_295.jpg)
+![The gardener’s lamentations.](image_295.jpg)
 
 The two gentlemen arrived the next day to a very late dinner, affording a pleasant enlargement of the party, and a very welcome variety to their conversation, which a long morning of the same continued rain had reduced very low.
 
@@ -3212,7 +3212,7 @@ Never in her life had Elinor found it so difficult to be calm, as at that moment
 
 The bustle in the vestibule, as she passed along an inner lobby, assured her that they were already in the house. She rushed to the drawing-room,—she entered it,—and saw only Willoughby.
 
-![“Opened a window-shutter.”](images/image_306.jpg)
+![“Opened a window-shutter.”](image_306.jpg)
 
 ## Chapter XLIV
 
@@ -3240,7 +3240,7 @@ Elinor would not speak. He repeated the inquiry with yet greater eagerness.
 
 “For God’s sake tell me, is she out of danger, or is she not?”
 
-![“I entreat you to stay.”](images/image_308.jpg)
+![“I entreat you to stay.”](image_308.jpg)
 
 “We hope she is.”
 
@@ -3330,7 +3330,7 @@ Elinor’s heart, which had undergone many changes in the course of this extraor
 
 “Even so. You would be surprised to hear how often I watched you, how often I was on the point of falling in with you. I have entered many a shop to avoid your sight, as the carriage drove by. Lodging as I did in Bond Street, there was hardly a day in which I did not catch a glimpse of one or other of you; and nothing but the most constant watchfulness on my side, a most invariably prevailing desire to keep out of your sight, could have separated us so long. I avoided the Middletons as much as possible, as well as everybody else who was likely to prove an acquaintance in common. Not aware of their being in town, however, I blundered on Sir John, I believe, the first day of his coming, and the day after I had called at Mrs. Jennings’s. He asked me to a party, a dance at his house in the evening. Had he *not* told me as an inducement that you and your sister were to be there, I should have felt it too certain a thing, to trust myself near him. The next morning brought another short note from Marianne—still affectionate, open, artless, confiding—everything that could make *my* conduct most hateful. I could not answer it. I tried—but could not frame a sentence. But I thought of her, I believe, every moment of the day. If you *can* pity me, Miss Dashwood, pity my situation as it was *then.* With my head and heart full of your sister, I was forced to play the happy lover to another woman! Those three or four weeks were worse than all. Well, at last, as I need not tell you, you were forced on me; and what a sweet figure I cut! what an evening of agony it was! Marianne, beautiful as an angel on one side, calling me Willoughby in such a tone! Oh, God! holding out her hand to me, asking me for an explanation, with those bewitching eyes fixed in such speaking solicitude on my face! and Sophia, jealous as the devil on the other hand, looking all that was—Well, it does not signify; it is over now. Such an evening! I ran away from you all as soon as I could; but not before I had seen Marianne’s sweet face as white as death. *That* was the last, last look I ever had of her; the last manner in which she appeared to me. It was a horrid sight! yet when I thought of her to-day as really dying, it was a kind of comfort to me to imagine that I knew exactly how she would appear to those, who saw her last in this world. She was before me, constantly before me, as I travelled, in the same look and hue.”
 
-![“I have entered many a shop to avoid your sight.”](images/image_318.jpg)
+![“I have entered many a shop to avoid your sight.”](image_318.jpg)
 
 A short pause of mutual thoughtfulness succeeded. Willoughby first rousing himself, broke it thus:
 
@@ -3468,7 +3468,7 @@ The next morning produced no abatement in these happy symptoms. On the contrary,
 
 Elinor honoured her for a plan which originated so nobly as this; though smiling to see the same eager fancy which had been leading her to the extreme of languid indolence and selfish repining, now at work in introducing excess into a scheme of such rational employment and virtuous self-control. Her smile however changed to a sigh when she remembered that promise to Willoughby was yet unfulfilled, and feared she had that to communicate which might again unsettle the mind of Marianne, and ruin at least for a time this fair prospect of busy tranquillity. Willing therefore to delay the evil hour, she resolved to wait till her sister’s health were more secure, before she appointed it. But the resolution was made only to be broken.
 
-![“And see how the children go on.”](images/image_332.jpg)
+![“And see how the children go on.”](image_332.jpg)
 
 Marianne had been two or three days at home, before the weather was fine enough for an invalid like herself to venture out. But at last a soft, genial morning appeared; such as might tempt the daughter’s wishes and the mother’s confidence; and Marianne, leaning on Elinor’s arm, was authorised to walk as long as she could without fatigue, in the lane before the house.
 
@@ -3570,7 +3570,7 @@ Marianne gave a violent start, fixed her eyes upon Elinor, saw her turning pale,
 
 The servant, who saw only that Miss Marianne was taken ill, had sense enough to call one of the maids, who, with Mrs. Dashwood’s assistance, supported her into the other room. By that time, Marianne was rather better, and her mother leaving her to the care of Margaret and the maid, returned to Elinor, who, though still much disordered, had so far recovered the use of her reason and voice as to be just beginning an inquiry of Thomas, as to the source of his intelligence. Mrs. Dashwood immediately took all that trouble on herself; and Elinor had the benefit of the information without the exertion of seeking it.
 
-![“I suppose you know, ma’am, that Mr. Ferrars is married.”](images/image_341.jpg)
+![“I suppose you know, ma’am, that Mr. Ferrars is married.”](image_341.jpg)
 
 “Who told you that Mr. Ferrars was married, Thomas?”
 
@@ -3638,7 +3638,7 @@ Not a syllable passed aloud. They all waited in silence for the appearance of th
 
 His countenance, as he entered the room, was not too happy, even for Elinor. His complexion was white with agitation, and he looked as if fearful of his reception, and conscious that he merited no kind one. Mrs. Dashwood, however, conforming, as she trusted, to the wishes of that daughter, by whom she then meant in the warmth of her heart to be guided in every thing, met with a look of forced complacency, gave him her hand, and wished him joy.
 
-![It was Edward.](images/image_346.jpg)
+![It was Edward.](image_346.jpg)
 
 He coloured, and stammered out an unintelligible reply. Elinor’s lips had moved with her mother’s, and, when the moment of action was over, she wished that she had shaken hands with him too. But it was then too late, and with a countenance meaning to be open, she sat down again and talked of the weather.
 
@@ -3792,7 +3792,7 @@ They were visited on their first settling by almost all their relations and frie
 
 But though Mrs. Ferrars *did* come to see them, and always treated them with the make-believe of decent affection, they were never insulted by her real favour and preference. *That* was due to the folly of Robert, and the cunning of his wife; and it was earned by them before many months had passed away. The selfish sagacity of the latter, which had at first drawn Robert into the scrape, was the principal instrument of his deliverance from it; for her respectful humility, assiduous attentions, and endless flatteries, as soon as the smallest opening was given for their exercise, reconciled Mrs. Ferrars to his choice, and re-established him completely in her favour.
 
-![“Everything in such respectable condition”](images/image_362.jpg)
+![“Everything in such respectable condition”](image_362.jpg)
 
 The whole of Lucy’s behaviour in the affair, and the prosperity which crowned it, therefore, may be held forth as a most encouraging instance of what an earnest, an unceasing attention to self-interest, however its progress may be apparently obstructed, will do in securing every advantage of fortune, with no other sacrifice than that of time and conscience. When Robert first sought her acquaintance, and privately visited her in Bartlett’s Buildings, it was only with the view imputed to him by his brother. He merely meant to persuade her to give up the engagement; and as there could be nothing to overcome but the affection of both, he naturally expected that one or two interviews would settle the matter. In that point, however, and that only, he erred; for though Lucy soon gave him hopes that his eloquence would convince her in *time*, another visit, another conversation, was always wanted to produce this conviction. Some doubts always lingered in her mind when they parted, which could only be removed by another half hour’s discourse with himself. His attendance was by this means secured, and the rest followed in course. Instead of talking of Edward, they came gradually to talk only of Robert,—a subject on which he had always more to say than on any other, and in which she soon betrayed an interest even equal to his own; and in short, it became speedily evident to both, that he had entirely supplanted his brother. He was proud of his conquest, proud of tricking Edward, and very proud of marrying privately without his mother’s consent. What immediately followed is known. They passed some months in great happiness at Dawlish; for she had many relations and old acquaintances to cut—and he drew several plans for magnificent cottages; and from thence returning to town, procured the forgiveness of Mrs. Ferrars, by the simple expedient of asking it, which, at Lucy’s instigation, was adopted. The forgiveness, at first, indeed, as was reasonable, comprehended only Robert; and Lucy, who had owed his mother no duty and therefore could have transgressed none, still remained some weeks longer unpardoned. But perseverance in humility of conduct and messages, in self-condemnation for Robert’s offence, and gratitude for the unkindness she was treated with, procured her in time the haughty notice which overcame her by its graciousness, and led soon afterwards, by rapid degrees, to the highest state of affection and influence. Lucy became as necessary to Mrs. Ferrars, as either Robert or Fanny; and while Edward was never cordially forgiven for having once intended to marry her, and Elinor, though superior to her in fortune and birth, was spoken of as an intruder, *she* was in every thing considered, and always openly acknowledged, to be a favourite child. They settled in town, received very liberal assistance from Mrs. Ferrars, were on the best terms imaginable with the Dashwoods; and setting aside the jealousies and ill-will continually subsisting between Fanny and Lucy, in which their husbands of course took a part, as well as the frequent domestic disagreements between Robert and Lucy themselves, nothing could exceed the harmony in which they all lived together.
 
