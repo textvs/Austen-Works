@@ -2,8 +2,6 @@
 
 ✍ Jane Austen
 
-
-
 ## Chapter 1
 
 Sir Walter Elliot, of Kellynch Hall, in Somersetshire, was a man who, for his own amusement, never took up any book but the Baronetage; there he found occupation for an idle hour, and consolation in a distressed one; there his faculties were roused into admiration and respect, by contemplating the limited remnant of the earliest patents; there any unwelcome sensations, arising from domestic affairs changed naturally into pity and contempt as he turned over the almost endless creations of the last century; and there, if every other leaf were powerless, he could read his own history with an interest which never failed. This was the page at which the favourite volume always opened:
@@ -52,7 +50,6 @@ There was only a small part of his estate that Sir Walter could dispose of; but 
 
 Their two confidential friends, Mr Shepherd, who lived in the neighbouring market town, and Lady Russell, were called to advise them; and both father and daughter seemed to expect that something should be struck out by one or the other to remove their embarrassments and reduce their expenditure, without involving the loss of any indulgence of taste or pride.
 
-
 ## Chapter 2
 
 Mr Shepherd, a civil, cautious lawyer, who, whatever might be his hold or his views on Sir Walter, would rather have the disagreeable prompted by anybody else, excused himself from offering the slightest hint, and only begged leave to recommend an implicit reference to the excellent judgement of Lady Russell, from whose known good sense he fully expected to have just such resolute measures advised as he meant to see finally adopted.
@@ -88,7 +85,6 @@ How quick come the reasons for approving what we like! Lady Russell had another 
 Lady Russell, indeed, had scarcely any influence with Elizabeth, and seemed to love her, rather because she would love her, than because Elizabeth deserved it. She had never received from her more than outward attention, nothing beyond the observances of complaisance; had never succeeded in any point which she wanted to carry, against previous inclination. She had been repeatedly very earnest in trying to get Anne included in the visit to London, sensibly open to all the injustice and all the discredit of the selfish arrangements which shut her out, and on many lesser occasions had endeavoured to give Elizabeth the advantage of her own better judgement and experience; but always in vain: Elizabeth would go her own way; and never had she pursued it in more decided opposition to Lady Russell than in this selection of Mrs Clay; turning from the society of so deserving a sister, to bestow her affection and confidence on one who ought to have been nothing to her but the object of distant civility.
 
 From situation, Mrs Clay was, in Lady Russell’s estimate, a very unequal, and in her character she believed a very dangerous companion; and a removal that would leave Mrs Clay behind, and bring a choice of more suitable intimates within Miss Elliot’s reach, was therefore an object of first-rate importance.
-
 
 ## Chapter 3
 
@@ -168,7 +164,6 @@ Nothing could be done without a reference to Elizabeth: but her inclination was 
 
 Mr Shepherd was completely empowered to act; and no sooner had such an end been reached, than Anne, who had been a most attentive listener to the whole, left the room, to seek the comfort of cool air for her flushed cheeks; and as she walked along a favourite grove, said, with a gentle sigh, “A few months more, and he, perhaps, may be walking here.”
 
-
 ## Chapter 4
 
 He was not Mr Wentworth, the former curate of Monkford, however suspicious appearances may be, but a Captain Frederick Wentworth, his brother, who being made commander in consequence of the action off St Domingo, and not immediately employed, had come into Somersetshire, in the summer of 1806; and having no parent living, found a home for half a year at Monkford. He was, at that time, a remarkably fine young man, with a great deal of intelligence, spirit, and brilliancy; and Anne an extremely pretty girl, with gentleness, modesty, taste, and feeling. Half the sum of attraction, on either side, might have been enough, for he had nothing to do, and she had hardly anybody to love; but the encounter of such lavish recommendations could not fail. They were gradually acquainted, and when acquainted, rapidly and deeply in love. It would be difficult to say which had seen highest perfection in the other, or which had been the happiest: she, in receiving his declarations and proposals, or he in having them accepted.
@@ -194,7 +189,6 @@ With all these circumstances, recollections and feelings, she could not hear tha
 The sister, Mrs Croft, had then been out of England, accompanying her husband on a foreign station, and her own sister, Mary, had been at school while it all occurred; and never admitted by the pride of some, and the delicacy of others, to the smallest knowledge of it afterwards.
 
 With these supports, she hoped that the acquaintance between herself and the Crofts, which, with Lady Russell, still resident in Kellynch, and Mary fixed only three miles off, must be anticipated, need not involve any particular awkwardness.
-
 
 ## Chapter 5
 
@@ -290,7 +284,6 @@ The Musgroves, like their houses, were in a state of alteration, perhaps of impr
 
 They were received with great cordiality. Nothing seemed amiss on the side of the Great House family, which was generally, as Anne very well knew, the least to blame. The half hour was chatted away pleasantly enough; and she was not at all surprised, at the end of it, to have their walking party joined by both the Miss Musgroves, at Mary’s particular invitation.
 
-
 ## Chapter 6
 
 Anne had not wanted this visit to Uppercross, to learn that a removal from one set of people to another, though at a distance of only three miles, will often include a total change of conversation, opinion, and idea. She had never been staying there before, without being struck by it, or without wishing that other Elliots could have her advantage in seeing how unknown, or unconsidered there, were the affairs which at Kellynch Hall were treated as of such general publicity and pervading interest; yet, with all this experience, she believed she must now submit to feel that another lesson, in the art of knowing our own nothingness beyond our own circle, was become necessary for her; for certainly, coming as she did, with a heart full of the subject which had been completely occupying both houses in Kellynch for many weeks, she had expected rather more curiosity and sympathy than she found in the separate but very similar remark of Mr and Mrs Musgrove: “So, Miss Anne, Sir Walter and your sister are gone; and what part of Bath do you think they will settle in?” and this, without much waiting for an answer; or in the young ladies’ addition of, “I hope we shall be in Bath in the winter; but remember, papa, if we do go, we must be in a good situation: none of your Queen Squares for us!” or in the anxious supplement from Mary, of—“Upon my word, I shall be pretty well off, when you are all gone away to be happy at Bath!”
@@ -360,7 +353,6 @@ She had gone to her letters, and found it all as she supposed; and the re-perusa
 To hear them talking so much of Captain Wentworth, repeating his name so often, puzzling over past years, and at last ascertaining that it might, that it probably would, turn out to be the very same Captain Wentworth whom they recollected meeting, once or twice, after their coming back from Clifton—a very fine young man—but they could not say whether it was seven or eight years ago, was a new sort of trial to Anne’s nerves. She found, however, that it was one to which she must inure herself. Since he actually was expected in the country, she must teach herself to be insensible on such points. And not only did it appear that he was expected, and speedily, but the Musgroves, in their warm gratitude for the kindness he had shewn poor Dick, and very high respect for his character, stamped as it was by poor Dick’s having been six months under his care, and mentioning him in strong, though not perfectly well-spelt praise, as “a fine dashing felow, only two perticular about the schoolmaster,” were bent on introducing themselves, and seeking his acquaintance, as soon as they could hear of his arrival.
 
 The resolution of doing so helped to form the comfort of their evening.
-
 
 ## Chapter 7
 
@@ -445,7 +437,6 @@ It was now his object to marry. He was rich, and being turned on shore, fully in
 He said it, she knew, to be contradicted. His bright proud eye spoke the conviction that he was nice; and Anne Elliot was not out of his thoughts, when he more seriously described the woman he should wish to meet with. “A strong mind, with sweetness of manner,” made the first and the last of the description.
 
 “That is the woman I want,” said he. “Something a little inferior I shall of course put up with, but it must not be much. If I am a fool, I shall be a fool indeed, for I have thought on the subject more than most men.”
-
 
 ## Chapter 8
 
@@ -567,7 +558,6 @@ These were some of the thoughts which occupied Anne, while her fingers were mech
 
 Anne did not wish for more of such looks and speeches. His cold politeness, his ceremonious grace, were worse than anything.
 
-
 ## Chapter 9
 
 Captain Wentworth was come to Kellynch as to a home, to stay as long as he liked, being as thoroughly the object of the Admiral’s fraternal kindness as of his wife’s. He had intended, on first arriving, to proceed very soon into Shropshire, and visit the brother settled in that country, but the attractions of Uppercross induced him to put this off. There was so much of friendliness, and of flattery, and of everything most bewitching in his reception there; the old were so hospitable, the young so agreeable, that he could not but resolve to remain where he was, and take all the charms and perfections of Edward’s wife upon credit a little longer.
@@ -637,7 +627,6 @@ But not a bit did Walter stir.
 In another moment, however, she found herself in the state of being released from him; some one was taking him from her, though he had bent down her head so much, that his little sturdy hands were unfastened from around her neck, and he was resolutely borne away, before she knew that Captain Wentworth had done it.
 
 Her sensations on the discovery made her perfectly speechless. She could not even thank him. She could only hang over little Charles, with most disordered feelings. His kindness in stepping forward to her relief, the manner, the silence in which it had passed, the little particulars of the circumstance, with the conviction soon forced on her by the noise he was studiously making with the child, that he meant to avoid hearing her thanks, and rather sought to testify that her conversation was the last of his wants, produced such a confusion of varying, but very painful agitation, as she could not recover from, till enabled by the entrance of Mary and the Miss Musgroves to make over her little patient to their cares, and leave the room. She could not stay. It might have been an opportunity of watching the loves and jealousies of the four—they were now altogether; but she could stay for none of it. It was evident that Charles Hayter was not well inclined towards Captain Wentworth. She had a strong impression of his having said, in a vext tone of voice, after Captain Wentworth’s interference, “You ought to have minded me, Walter; I told you not to teaze your aunt;” and could comprehend his regretting that Captain Wentworth should do what he ought to have done himself. But neither Charles Hayter’s feelings, nor anybody’s feelings, could interest her, till she had a little better arranged her own. She was ashamed of herself, quite ashamed of being so nervous, so overcome by such a trifle; but so it was, and it required a long application of solitude and reflection to recover her.
-
 
 ## Chapter 10
 
@@ -737,7 +726,6 @@ Her answers to the kindness and the remarks of her companions were at first unco
 
 But by coolly giving the reins a better direction herself they happily passed the danger; and by once afterwards judiciously putting out her hand they neither fell into a rut, nor ran foul of a dung-cart; and Anne, with some amusement at their style of driving, which she imagined no bad representation of the general guidance of their affairs, found herself safely deposited by them at the Cottage.
 
-
 ## Chapter 11
 
 The time now approached for Lady Russell’s return: the day was even fixed; and Anne, being engaged to join her as soon as she was resettled, was looking forward to an early removal to Kellynch, and beginning to think how her own comfort was likely to be affected by it.
@@ -791,7 +779,6 @@ His looks shewing him not pained, but pleased with this allusion to his situatio
 Captain Benwick listened attentively, and seemed grateful for the interest implied; and though with a shake of the head, and sighs which declared his little faith in the efficacy of any books on grief like his, noted down the names of those she recommended, and promised to procure and read them.
 
 When the evening was over, Anne could not but be amused at the idea of her coming to Lyme to preach patience and resignation to a young man whom she had never seen before; nor could she help fearing, on more serious reflection, that, like many other great moralists and preachers, she had been eloquent on a point in which her own conduct would ill bear examination.
-
 
 ## Chapter 12
 
@@ -948,9 +935,7 @@ She did: he was satisfied, and said no more. But the remembrance of the appeal r
 When the distressing communication at Uppercross was over, and he had seen the father and mother quite as composed as could be hoped, and the daughter all the better for being with them, he announced his intention of returning in the same carriage to Lyme; and when the horses were baited, he was off.
 
 \
-
-### (End of volume one.)
-
+ \#\#\# (End of volume one.)
 
 ## Chapter 13
 
@@ -1017,7 +1002,6 @@ Anne, amused in spite of herself, was rather distressed for an answer, and the A
 Lady Russell and Mrs Croft were very well pleased with each other: but the acquaintance which this visit began was fated not to proceed far at present; for when it was returned, the Crofts announced themselves to be going away for a few weeks, to visit their connexions in the north of the county, and probably might not be at home again before Lady Russell would be removing to Bath.
 
 So ended all danger to Anne of meeting Captain Wentworth at Kellynch Hall, or of seeing him in company with her friend. Everything was safe enough, and she smiled over the many anxious feelings she had wasted on the subject.
-
 
 ## Chapter 14
 
@@ -1095,7 +1079,6 @@ Anne was not animated to an equal pitch by the circumstance, but she felt that s
 
 She was put down in Camden Place; and Lady Russell then drove to her own lodgings, in Rivers Street.
 
-
 ## Chapter 15
 
 Sir Walter had taken a very good house in Camden Place, a lofty dignified situation, such as becomes a man of consequence; and both he and Elizabeth were settled there, much to their satisfaction.
@@ -1134,7 +1117,7 @@ Anne was considering whether she should venture to suggest that a gown, or a cap
 
 It was the same, the very same man, with no difference but of dress. Anne drew a little back, while the others received his compliments, and her sister his apologies for calling at so unusual an hour, but “he could not be so near without wishing to know that neither she nor her friend had taken cold the day before,” &c. &c; which was all as politely done, and as politely taken, as possible, but her part must follow then. Sir Walter talked of his youngest daughter; “Mr Elliot must give him leave to present him to his youngest daughter” (there was no occasion for remembering Mary); and Anne, smiling and blushing, very becomingly shewed to Mr Elliot the pretty features which he had by no means forgotten, and instantly saw, with amusement at his little start of surprise, that he had not been at all aware of who she was. He looked completely astonished, but not more astonished than pleased; his eyes brightened! and with the most perfect alacrity he welcomed the relationship, alluded to the past, and entreated to be received as an acquaintance already. He was quite as good-looking as he had appeared at Lyme, his countenance improved by speaking, and his manners were so exactly what they ought to be, so polished, so easy, so particularly agreeable, that she could compare them in excellence to only one person’s manners. They were not the same, but they were, perhaps, equally good.
 
-He sat down with them, and improved their conversation very much. There could be no doubt of his being a sensible man. Ten minutes were enough to certify that. His tone, his expressions, his choice of subject, his knowing where to stop; it was all the operation of a sensible, discerning mind. As soon as he could, he began to talk to her of Lyme, wanting to compare opinions respecting the place, but especially wanting to speak of the circumstance of their happening to be guests in the same inn at the same time; to give his own route, understand something of hers, and regret that he should have lost such an opportunity of paying his respects to her. She gave him a short account of her party and business at Lyme. His regret increased as he listened. He had spent his whole solitary evening in the room adjoining theirs; had heard voices, mirth continually; thought they must be a most delightful set of people, longed to be with them, but certainly without the smallest suspicion of his possessing the shadow of a right to introduce himself. If he had but asked who the party were! The name of Musgrove would have told him enough. "Well, it would serve to cure him of an absurd practice of never asking a question at an inn, which he had adopted, when quite a young man, on the principal of its being very ungenteel to be curious.
+He sat down with them, and improved their conversation very much. There could be no doubt of his being a sensible man. Ten minutes were enough to certify that. His tone, his expressions, his choice of subject, his knowing where to stop; it was all the operation of a sensible, discerning mind. As soon as he could, he began to talk to her of Lyme, wanting to compare opinions respecting the place, but especially wanting to speak of the circumstance of their happening to be guests in the same inn at the same time; to give his own route, understand something of hers, and regret that he should have lost such an opportunity of paying his respects to her. She gave him a short account of her party and business at Lyme. His regret increased as he listened. He had spent his whole solitary evening in the room adjoining theirs; had heard voices, mirth continually; thought they must be a most delightful set of people, longed to be with them, but certainly without the smallest suspicion of his possessing the shadow of a right to introduce himself. If he had but asked who the party were! The name of Musgrove would have told him enough. “Well, it would serve to cure him of an absurd practice of never asking a question at an inn, which he had adopted, when quite a young man, on the principal of its being very ungenteel to be curious.
 
 “The notions of a young man of one or two and twenty,” said he, “as to what is necessary in manners to make him quite the thing, are more absurd, I believe, than those of any other set of beings in the world. The folly of the means they often employ is only to be equalled by the folly of what they have in view.”
 
@@ -1145,7 +1128,6 @@ His enquiries, however, produced at length an account of the scene she had been 
 He staid an hour with them. The elegant little clock on the mantel-piece had struck “eleven with its silver sounds,” and the watchman was beginning to be heard at a distance telling the same tale, before Mr Elliot or any of them seemed to feel that he had been there long.
 
 Anne could not have supposed it possible that her first evening in Camden Place could have passed so well!
-
 
 ## Chapter 16
 
@@ -1192,7 +1174,6 @@ Lady Russell confessed she had expected something better; but yet “it was an a
 “I love your indignation,” said he; “it is very natural. But here you are in Bath, and the object is to be established here with all the credit and dignity which ought to belong to Sir Walter Elliot. You talk of being proud; I am called proud, I know, and I shall not wish to believe myself otherwise; for our pride, if investigated, would have the same object, I have no doubt, though the kind may seem a little different. In one point, I am sure, my dear cousin,” (he continued, speaking lower, though there was no one else in the room) “in one point, I am sure, we must feel alike. We must feel that every addition to your father’s society, among his equals or superiors, may be of use in diverting his thoughts from those who are beneath him.”
 
 He looked, as he spoke, to the seat which Mrs Clay had been lately occupying: a sufficient explanation of what he particularly meant; and though Anne could not believe in their having the same sort of pride, she was pleased with him for not liking Mrs Clay; and her conscience admitted that his wishing to promote her father’s getting great acquaintance was more than excusable in the view of defeating her.
-
 
 ## Chapter 17
 
@@ -1256,7 +1237,6 @@ Mr Elliot was too generally agreeable. Various as were the tempers in her father
 
 Lady Russell saw either less or more than her young friend, for she saw nothing to excite distrust. She could not imagine a man more exactly what he ought to be than Mr Elliot; nor did she ever enjoy a sweeter feeling than the hope of seeing him receive the hand of her beloved Anne in Kellynch church, in the course of the following autumn.
 
-
 ## Chapter 18
 
 It was the beginning of February; and Anne, having been a month in Bath, was growing very eager for news from Uppercross and Lyme. She wanted to hear much more than Mary had communicated. It was three weeks since she had heard at all. She only knew that Henrietta was at home again; and that Louisa, though considered to be recovering fast, was still in Lyme; and she was thinking of them all very intently one evening, when a thicker letter than usual from Mary was delivered to her; and, to quicken the pleasure and surprise, with Admiral and Mrs Croft’s compliments.
@@ -1272,26 +1252,20 @@ The Crofts must be in Bath! A circumstance to interest her. They were people who
 Anne could listen no longer; she could not even have told how the poor Admiral’s complexion escaped; her letter engrossed her. It had been begun several days back.
 
 \
+ “February 1st.\
+”My dear Anne,—I make no apology for my silence, because I know how little people think of letters in such a place as Bath. You must be a great deal too happy to care for Uppercross, which, as you well know, affords little to write about. We have had a very dull Christmas; Mr and Mrs Musgrove have not had one dinner party all the holidays. I do not reckon the Hayters as anybody. The holidays, however, are over at last: I believe no children ever had such long ones. I am sure I had not. The house was cleared yesterday, except of the little Harvilles; but you will be surprised to hear they have never gone home. Mrs Harville must be an odd mother to part with them so long. I do not understand it. They are not at all nice children, in my opinion; but Mrs Musgrove seems to like them quite as well, if not better, than her grandchildren. What dreadful weather we have had! It may not be felt in Bath, with your nice pavements; but in the country it is of some consequence. I have not had a creature call on me since the second week in January, except Charles Hayter, who had been calling much oftener than was welcome. Between ourselves, I think it a great pity Henrietta did not remain at Lyme as long as Louisa; it would have kept her a little out of his way. The carriage is gone to-day, to bring Louisa and the Harvilles to-morrow. We are not asked to dine with them, however, till the day after, Mrs Musgrove is so afraid of her being fatigued by the journey, which is not very likely, considering the care that will be taken of her; and it would be much more convenient to me to dine there to-morrow. I am glad you find Mr Elliot so agreeable, and wish I could be acquainted with him too; but I have my usual luck: I am always out of the way when any thing desirable is going on; always the last of my family to be noticed. What an immense time Mrs Clay has been staying with Elizabeth! Does she never mean to go away? But perhaps if she were to leave the room vacant, we might not be invited. Let me know what you think of this. I do not expect my children to be asked, you know. I can leave them at the Great House very well, for a month or six weeks. I have this moment heard that the Crofts are going to Bath almost immediately; they think the Admiral gouty. Charles heard it quite by chance; they have not had the civility to give me any notice, or of offering to take anything. I do not think they improve at all as neighbours. We see nothing of them, and this is really an instance of gross inattention. Charles joins me in love, and everything proper. Yours affectionately,
 
-"February 1st.\
-
-"My dear Anne,—I make no apology for my silence, because I know how little people think of letters in such a place as Bath. You must be a great deal too happy to care for Uppercross, which, as you well know, affords little to write about. We have had a very dull Christmas; Mr and Mrs Musgrove have not had one dinner party all the holidays. I do not reckon the Hayters as anybody. The holidays, however, are over at last: I believe no children ever had such long ones. I am sure I had not. The house was cleared yesterday, except of the little Harvilles; but you will be surprised to hear they have never gone home. Mrs Harville must be an odd mother to part with them so long. I do not understand it. They are not at all nice children, in my opinion; but Mrs Musgrove seems to like them quite as well, if not better, than her grandchildren. What dreadful weather we have had! It may not be felt in Bath, with your nice pavements; but in the country it is of some consequence. I have not had a creature call on me since the second week in January, except Charles Hayter, who had been calling much oftener than was welcome. Between ourselves, I think it a great pity Henrietta did not remain at Lyme as long as Louisa; it would have kept her a little out of his way. The carriage is gone to-day, to bring Louisa and the Harvilles to-morrow. We are not asked to dine with them, however, till the day after, Mrs Musgrove is so afraid of her being fatigued by the journey, which is not very likely, considering the care that will be taken of her; and it would be much more convenient to me to dine there to-morrow. I am glad you find Mr Elliot so agreeable, and wish I could be acquainted with him too; but I have my usual luck: I am always out of the way when any thing desirable is going on; always the last of my family to be noticed. What an immense time Mrs Clay has been staying with Elizabeth! Does she never mean to go away? But perhaps if she were to leave the room vacant, we might not be invited. Let me know what you think of this. I do not expect my children to be asked, you know. I can leave them at the Great House very well, for a month or six weeks. I have this moment heard that the Crofts are going to Bath almost immediately; they think the Admiral gouty. Charles heard it quite by chance; they have not had the civility to give me any notice, or of offering to take anything. I do not think they improve at all as neighbours. We see nothing of them, and this is really an instance of gross inattention. Charles joins me in love, and everything proper. Yours affectionately,
-
-"Mary M—-.\
-
-“I am sorry to say that I am very far from well; and Jemima has just told me that the butcher says there is a bad sore-throat very much about. I dare say I shall catch it; and my sore-throats, you know, are always worse than anybody’s.”
+“Mary M—-.\
+ “I am sorry to say that I am very far from well; and Jemima has just told me that the butcher says there is a bad sore-throat very much about. I dare say I shall catch it; and my sore-throats, you know, are always worse than anybody’s.”
 
 \
-
-So ended the first part, which had been afterwards put into an envelope, containing nearly as much more.
-
-\
-
-“I kept my letter open, that I might send you word how Louisa bore her journey, and now I am extremely glad I did, having a great deal to add. In the first place, I had a note from Mrs Croft yesterday, offering to convey anything to you; a very kind, friendly note indeed, addressed to me, just as it ought; I shall therefore be able to make my letter as long as I like. The Admiral does not seem very ill, and I sincerely hope Bath will do him all the good he wants. I shall be truly glad to have them back again. Our neighbourhood cannot spare such a pleasant family. But now for Louisa. I have something to communicate that will astonish you not a little. She and the Harvilles came on Tuesday very safely, and in the evening we went to ask her how she did, when we were rather surprised not to find Captain Benwick of the party, for he had been invited as well as the Harvilles; and what do you think was the reason? Neither more nor less than his being in love with Louisa, and not choosing to venture to Uppercross till he had had an answer from Mr Musgrove; for it was all settled between him and her before she came away, and he had written to her father by Captain Harville. True, upon my honour! Are not you astonished? I shall be surprised at least if you ever received a hint of it, for I never did. Mrs Musgrove protests solemnly that she knew nothing of the matter. We are all very well pleased, however, for though it is not equal to her marrying Captain Wentworth, it is infinitely better than Charles Hayter; and Mr Musgrove has written his consent, and Captain Benwick is expected to-day. Mrs Harville says her husband feels a good deal on his poor sister’s account; but, however, Louisa is a great favourite with both. Indeed, Mrs Harville and I quite agree that we love her the better for having nursed her. Charles wonders what Captain Wentworth will say; but if you remember, I never thought him attached to Louisa; I never could see anything of it. And this is the end, you see, of Captain Benwick’s being supposed to be an admirer of yours. How Charles could take such a thing into his head was always incomprehensible to me. I hope he will be more agreeable now. Certainly not a great match for Louisa Musgrove, but a million times better than marrying among the Hayters.”
+ So ended the first part, which had been afterwards put into an envelope, containing nearly as much more.
 
 \
+ “I kept my letter open, that I might send you word how Louisa bore her journey, and now I am extremely glad I did, having a great deal to add. In the first place, I had a note from Mrs Croft yesterday, offering to convey anything to you; a very kind, friendly note indeed, addressed to me, just as it ought; I shall therefore be able to make my letter as long as I like. The Admiral does not seem very ill, and I sincerely hope Bath will do him all the good he wants. I shall be truly glad to have them back again. Our neighbourhood cannot spare such a pleasant family. But now for Louisa. I have something to communicate that will astonish you not a little. She and the Harvilles came on Tuesday very safely, and in the evening we went to ask her how she did, when we were rather surprised not to find Captain Benwick of the party, for he had been invited as well as the Harvilles; and what do you think was the reason? Neither more nor less than his being in love with Louisa, and not choosing to venture to Uppercross till he had had an answer from Mr Musgrove; for it was all settled between him and her before she came away, and he had written to her father by Captain Harville. True, upon my honour! Are not you astonished? I shall be surprised at least if you ever received a hint of it, for I never did. Mrs Musgrove protests solemnly that she knew nothing of the matter. We are all very well pleased, however, for though it is not equal to her marrying Captain Wentworth, it is infinitely better than Charles Hayter; and Mr Musgrove has written his consent, and Captain Benwick is expected to-day. Mrs Harville says her husband feels a good deal on his poor sister’s account; but, however, Louisa is a great favourite with both. Indeed, Mrs Harville and I quite agree that we love her the better for having nursed her. Charles wonders what Captain Wentworth will say; but if you remember, I never thought him attached to Louisa; I never could see anything of it. And this is the end, you see, of Captain Benwick’s being supposed to be an admirer of yours. How Charles could take such a thing into his head was always incomprehensible to me. I hope he will be more agreeable now. Certainly not a great match for Louisa Musgrove, but a million times better than marrying among the Hayters.”
 
-Mary need not have feared her sister’s being in any degree prepared for the news. She had never in her life been more astonished. Captain Benwick and Louisa Musgrove! It was almost too wonderful for belief, and it was with the greatest effort that she could remain in the room, preserve an air of calmness, and answer the common questions of the moment. Happily for her, they were not many. Sir Walter wanted to know whether the Crofts travelled with four horses, and whether they were likely to be situated in such a part of Bath as it might suit Miss Elliot and himself to visit in; but had little curiosity beyond.
+\
+ Mary need not have feared her sister’s being in any degree prepared for the news. She had never in her life been more astonished. Captain Benwick and Louisa Musgrove! It was almost too wonderful for belief, and it was with the greatest effort that she could remain in the room, preserve an air of calmness, and answer the common questions of the moment. Happily for her, they were not many. Sir Walter wanted to know whether the Crofts travelled with four horses, and whether they were likely to be situated in such a part of Bath as it might suit Miss Elliot and himself to visit in; but had little curiosity beyond.
 
 “How is Mary?” said Elizabeth; and without waiting for an answer, “And pray what brings the Crofts to Bath?”
 
@@ -1328,8 +1302,7 @@ Anne was too much engaged with Lady Russell to be often walking herself; but it 
 “None, I thank you, unless you will give me the pleasure of your company the little way our road lies together. I am going home.”
 
 \
-
-“That I will, with all my heart, and farther, too. Yes, yes we will have a snug walk together, and I have something to tell you as we go along. There, take my arm; that’s right; I do not feel comfortable if I have not a woman there. Lord! what a boat it is!” taking a last look at the picture, as they began to be in motion.
+ “That I will, with all my heart, and farther, too. Yes, yes we will have a snug walk together, and I have something to tell you as we go along. There, take my arm; that’s right; I do not feel comfortable if I have not a woman there. Lord! what a boat it is!” taking a last look at the picture, as they began to be in motion.
 
 “Did you say that you had something to tell me, sir?”
 
@@ -1374,7 +1347,6 @@ Anne looked down to hide her smile.
 Anne did not receive the perfect conviction which the Admiral meant to convey, but it would have been useless to press the enquiry farther. She therefore satisfied herself with common-place remarks or quiet attention, and the Admiral had it all his own way.
 
 “Poor Frederick!” said he at last. “Now he must begin all over again with somebody else. I think we must get him to Bath. Sophy must write, and beg him to come to Bath. Here are pretty girls enough, I am sure. It would be of no use to go to Uppercross again, for that other Miss Musgrove, I find, is bespoke by her cousin, the young parson. Do not you think, Miss Elliot, we had better try to get him to Bath?”
-
 
 ## Chapter 19
 
@@ -1449,7 +1421,6 @@ She had once partly promised Mrs Smith to spend the evening with her; but in a s
 Anne named them all. Mrs Smith made no reply; but when she was leaving her said, and with an expression half serious, half arch, “Well, I heartily wish your concert may answer; and do not fail me to-morrow if you can come; for I begin to have a foreboding that I may not have many more visits from you.”
 
 Anne was startled and confused; but after standing in a moment’s suspense, was obliged, and not sorry to be obliged, to hurry away.
-
 
 ## Chapter 20
 
@@ -1554,7 +1525,6 @@ A few minutes, though as few as possible, were inevitably consumed; and when her
 “No!” he replied impressively, “there is nothing worth my staying for;” and he was gone directly.
 
 Jealousy of Mr Elliot! It was the only intelligible motive. Captain Wentworth jealous of her affection! Could she have believed it a week ago; three hours ago! For a moment the gratification was exquisite. But, alas! there were very different thoughts to succeed. How was such jealousy to be quieted? How was the truth to reach him? How, in all the peculiar disadvantages of their respective situations, would he ever learn of her real sentiments? It was misery to think of Mr Elliot’s attentions. Their evil was incalculable.
-
 
 ## Chapter 21
 
@@ -1698,7 +1668,7 @@ Anne, seeing her friend to be earnestly bent on it, did as she was desired. The 
 
 This was the letter, directed to “Charles Smith, Esq. Tunbridge Wells,” and dated from London, as far back as July, 1803:—
 
-"Dear Smith,—I have received yours. Your kindness almost overpowers me. I wish nature had made such hearts as yours more common, but I have lived three-and-twenty years in the world, and have seen none like it. At present, believe me, I have no need of your services, being in cash again. Give me joy: I have got rid of Sir Walter and Miss. They are gone back to Kellynch, and almost made me swear to visit them this summer; but my first visit to Kellynch will be with a surveyor, to tell me how to bring it with best advantage to the hammer. The baronet, nevertheless, is not unlikely to marry again; he is quite fool enough. If he does, however, they will leave me in peace, which may be a decent equivalent for the reversion. He is worse than last year.
+“Dear Smith,—I have received yours. Your kindness almost overpowers me. I wish nature had made such hearts as yours more common, but I have lived three-and-twenty years in the world, and have seen none like it. At present, believe me, I have no need of your services, being in cash again. Give me joy: I have got rid of Sir Walter and Miss. They are gone back to Kellynch, and almost made me swear to visit them this summer; but my first visit to Kellynch will be with a surveyor, to tell me how to bring it with best advantage to the hammer. The baronet, nevertheless, is not unlikely to marry again; he is quite fool enough. If he does, however, they will leave me in peace, which may be a decent equivalent for the reversion. He is worse than last year.
 
 “I wish I had any name but Elliot. I am sick of it. The name of Walter I can drop, thank God! and I desire you will never insult me with my second W. again, meaning, for the rest of my life, to be only yours truly,—Wm. Elliot.”
 
@@ -1762,14 +1732,12 @@ Anne could just acknowledge within herself such a possibility of having been ind
 
 It was very desirable that Lady Russell should be no longer deceived; and one of the concluding arrangements of this important conference, which carried them through the greater part of the morning, was, that Anne had full liberty to communicate to her friend everything relative to Mrs Smith, in which his conduct was involved.
 
-
 ## Chapter 22
 
 Anne went home to think over all that she had heard. In one point, her feelings were relieved by this knowledge of Mr Elliot. There was no longer anything of tenderness due to him. He stood as opposed to Captain Wentworth, in all his own unwelcome obtrusiveness; and the evil of his attentions last night, the irremediable mischief he might have done, was considered with sensations unqualified, unperplexed. Pity for him was all over. But this was the only point of relief. In every other respect, in looking around her, or penetrating forward, she saw more to distrust and to apprehend. She was concerned for the disappointment and pain Lady Russell would be feeling; for the mortifications which must be hanging over her father and sister, and had all the distress of foreseeing many evils, without knowing how to avert any one of them. She was most thankful for her own knowledge of him. She had never considered herself as entitled to reward for not slighting an old friend like Mrs Smith, but here was a reward indeed springing from it! Mrs Smith had been able to tell her what no one else could have done. Could the knowledge have been extended through her family? But this was a vain idea. She must talk to Lady Russell, tell her, consult with her, and having done her best, wait the event with as much composure as possible; and after all, her greatest want of composure would be in that quarter of the mind which could not be opened to Lady Russell; in that flow of anxieties and fears which must be all to herself.
 
 \
-
-She found, on reaching home, that she had, as she intended, escaped seeing Mr Elliot; that he had called and paid them a long morning visit; but hardly had she congratulated herself, and felt safe, when she heard that he was coming again in the evening.
+ She found, on reaching home, that she had, as she intended, escaped seeing Mr Elliot; that he had called and paid them a long morning visit; but hardly had she congratulated herself, and felt safe, when she heard that he was coming again in the evening.
 
 “I had not the smallest intention of asking him,” said Elizabeth, with affected carelessness, “but he gave so many hints; so Mrs Clay says, at least.”
 
@@ -1797,7 +1765,7 @@ She had some satisfaction in finding that he was really going out of Bath the ne
 
 On Friday morning she meant to go very early to Lady Russell, and accomplish the necessary communication; and she would have gone directly after breakfast, but that Mrs Clay was also going out on some obliging purpose of saving her sister trouble, which determined her to wait till she might be safe from such a companion. She saw Mrs Clay fairly off, therefore, before she began to talk of spending the morning in Rivers Street.
 
-“Very well,” said Elizabeth, "I have nothing to send but my love. Oh! you may as well take back that tiresome book she would lend me, and pretend I have read it through. I really cannot be plaguing myself for ever with all the new poems and states of the nation that come out. Lady Russell quite bores one with her new publications. You need not tell her so, but I thought her dress hideous the other night. I used to think she had some taste in dress, but I was ashamed of her at the concert. Something so formal and *arrangé* in her air! and she sits so upright! My best love, of course."
+“Very well,” said Elizabeth, “I have nothing to send but my love. Oh! you may as well take back that tiresome book she would lend me, and pretend I have read it through. I really cannot be plaguing myself for ever with all the new poems and states of the nation that come out. Lady Russell quite bores one with her new publications. You need not tell her so, but I thought her dress hideous the other night. I used to think she had some taste in dress, but I was ashamed of her at the concert. Something so formal and *arrangé* in her air! and she sits so upright! My best love, of course.”
 
 “And mine,” added Sir Walter. “Kindest regards. And you may say, that I mean to call upon her soon. Make a civil message; but I shall only leave my card. Morning visits are never fair by women at her time of life, who make themselves up so little. If she would only wear rouge she would not be afraid of being seen; but last time I called, I observed the blinds were let down immediately.”
 
@@ -1907,7 +1875,6 @@ She only roused herself from the broodings of this restless agitation, to let Mr
 
 “Oh! dear! very true. Only think, Miss Elliot, to my great surprise I met with Mr Elliot in Bath Street. I was never more astonished. He turned back and walked with me to the Pump Yard. He had been prevented setting off for Thornberry, but I really forget by what; for I was in a hurry, and could not much attend, and I can only answer for his being determined not to be delayed in his return. He wanted to know how early he might be admitted to-morrow. He was full of ‘to-morrow,’ and it is very evident that I have been full of it too, ever since I entered the house, and learnt the extension of your plan and all that had happened, or my seeing him could never have gone so entirely out of my head.”
 
-
 ## Chapter 23
 
 One day only had passed since Anne’s conversation with Mrs Smith; but a keener interest had succeeded, and she was now so little touched by Mr Elliot’s conduct, except by its effects in one quarter, that it became a matter of course the next morning, still to defer her explanatory visit in Rivers Street. She had promised to be with the Musgroves from breakfast to dinner. Her faith was plighted, and Mr Elliot’s character, like the Sultaness Scheherazade’s head, must live another day.
@@ -1993,14 +1960,12 @@ She had only time, however, to move closer to the table where he had been writin
 The revolution which one instant had made in Anne, was almost beyond expression. The letter, with a direction hardly legible, to “Miss A. E.—,” was evidently the one which he had been folding so hastily. While supposed to be writing only to Captain Benwick, he had been also addressing her! On the contents of that letter depended all which this world could do for her. Anything was possible, anything might be defied rather than suspense. Mrs Musgrove had little arrangements of her own at her own table; to their protection she must trust, and sinking into the chair which he had occupied, succeeding to the very spot where he had leaned and written, her eyes devoured the following words:
 
 \
-
-"I can listen no longer in silence. I must speak to you by such means as are within my reach. You pierce my soul. I am half agony, half hope. Tell me not that I am too late, that such precious feelings are gone for ever. I offer myself to you again with a heart even more your own than when you almost broke it, eight years and a half ago. Dare not say that man forgets sooner than woman, that his love has an earlier death. I have loved none but you. Unjust I may have been, weak and resentful I have been, but never inconstant. You alone have brought me to Bath. For you alone, I think and plan. Have you not seen this? Can you fail to have understood my wishes? I had not waited even these ten days, could I have read your feelings, as I think you must have penetrated mine. I can hardly write. I am every instant hearing something which overpowers me. You sink your voice, but I can distinguish the tones of that voice when they would be lost on others. Too good, too excellent creature! You do us justice, indeed. You do believe that there is true attachment and constancy among men. Believe it to be most fervent, most undeviating, in F. W.
+ “I can listen no longer in silence. I must speak to you by such means as are within my reach. You pierce my soul. I am half agony, half hope. Tell me not that I am too late, that such precious feelings are gone for ever. I offer myself to you again with a heart even more your own than when you almost broke it, eight years and a half ago. Dare not say that man forgets sooner than woman, that his love has an earlier death. I have loved none but you. Unjust I may have been, weak and resentful I have been, but never inconstant. You alone have brought me to Bath. For you alone, I think and plan. Have you not seen this? Can you fail to have understood my wishes? I had not waited even these ten days, could I have read your feelings, as I think you must have penetrated mine. I can hardly write. I am every instant hearing something which overpowers me. You sink your voice, but I can distinguish the tones of that voice when they would be lost on others. Too good, too excellent creature! You do us justice, indeed. You do believe that there is true attachment and constancy among men. Believe it to be most fervent, most undeviating, in F. W.
 
 “I must go, uncertain of my fate; but I shall return hither, or follow your party, as soon as possible. A word, a look, will be enough to decide whether I enter your father’s house this evening or never.”
 
 \
-
-Such a letter was not to be soon recovered from. Half an hour’s solitude and reflection might have tranquillized her; but the ten minutes only which now passed before she was interrupted, with all the restraints of her situation, could do nothing towards tranquillity. Every moment rather brought fresh agitation. It was overpowering happiness. And before she was beyond the first stage of full sensation, Charles, Mary, and Henrietta all came in.
+ Such a letter was not to be soon recovered from. Half an hour’s solitude and reflection might have tranquillized her; but the ten minutes only which now passed before she was interrupted, with all the restraints of her situation, could do nothing towards tranquillity. Every moment rather brought fresh agitation. It was overpowering happiness. And before she was beyond the first stage of full sensation, Charles, Mary, and Henrietta all came in.
 
 The absolute necessity of seeming like herself produced then an immediate struggle; but after a while she could do no more. She began not to understand a word they said, and was obliged to plead indisposition and excuse herself. They could then see that she looked very ill, were shocked and concerned, and would not stir without her for the world. This was dreadful. Would they only have gone away, and left her in the quiet possession of that room it would have been her cure; but to have them all standing or waiting around her was distracting, and in desperation, she said she would go home.
 
@@ -2077,7 +2042,6 @@ He looked at her, looked at Lady Russell, and looking again at her, replied, as 
 “Would I!” was all her answer; but the accent was decisive enough.
 
 “Good God!” he cried, “you would! It is not that I did not think of it, or desire it, as what could alone crown all my other success; but I was proud, too proud to ask again. I did not understand you. I shut my eyes, and would not understand you, or do you justice. This is a recollection which ought to make me forgive every one sooner than myself. Six years of separation and suffering might have been spared. It is a sort of pain, too, which is new to me. I have been used to the gratification of believing myself to earn every blessing that I enjoyed. I have valued myself on honourable toils and just rewards. Like other great men under reverses,” he added, with a smile. “I must endeavour to subdue my mind to my fortune. I must learn to brook being happier than I deserve.”
-
 
 ## Chapter 24
 
