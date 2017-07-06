@@ -1,4 +1,4 @@
-# LADY SUSAN
+# Lady Susan
 
 ✍ Jane Austen
 
@@ -14,16 +14,8 @@ I long to be made known to your dear little children, in whose hearts I shall be
 
 Your most obliged and affectionate sister,
 
-S. VERNON. <span id="link2H_4_0002"></span>
+S. VERNON.
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## II
 
@@ -41,16 +33,7 @@ Adieu, I will send you a line as soon as I arrive in town.
 
 Yours ever,
 
-S. VERNON. <span id="link2H_4_0003"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+S. VERNON. 
 
 ## III
 
@@ -60,16 +43,7 @@ Churchhill.
 
 My dear Mother,—I am very sorry to tell you that it will not be in our power to keep our promise of spending our Christmas with you; and we are prevented that happiness by a circumstance which is not likely to make us any amends. Lady Susan, in a letter to her brother-in-law, has declared her intention of visiting us almost immediately; and as such a visit is in all probability merely an affair of convenience, it is impossible to conjecture its length. I was by no means prepared for such an event, nor can I now account for her ladyship’s conduct; Langford appeared so exactly the place for her in every respect, as well from the elegant and expensive style of living there, as from her particular attachment to Mr. Mainwaring, that I was very far from expecting so speedy a distinction, though I always imagined from her increasing friendship for us since her husband’s death that we should, at some future period, be obliged to receive her. Mr. Vernon, I think, was a great deal too kind to her when he was in Staffordshire; her behaviour to him, independent of her general character, has been so inexcusably artful and ungenerous since our marriage was first in agitation that no one less amiable and mild than himself could have overlooked it all; and though, as his brother’s widow, and in narrow circumstances, it was proper to render her pecuniary assistance, I cannot help thinking his pressing invitation to her to visit us at Churchhill perfectly unnecessary. Disposed, however, as he always is to think the best of everyone, her display of grief, and professions of regret, and general resolutions of prudence, were sufficient to soften his heart and make him really confide in her sincerity; but, as for myself, I am still unconvinced, and plausibly as her ladyship has now written, I cannot make up my mind till I better understand her real meaning in coming to us. You may guess, therefore, my dear madam, with what feelings I look forward to her arrival. She will have occasion for all those attractive powers for which she is celebrated to gain any share of my regard; and I shall certainly endeavour to guard myself against their influence, if not accompanied by something more substantial. She expresses a most eager desire of being acquainted with me, and makes very gracious mention of my children but I am not quite weak enough to suppose a woman who has behaved with inattention, if not with unkindness, to her own child, should be attached to any of mine. Miss Vernon is to be placed at a school in London before her mother comes to us which I am glad of, for her sake and my own. It must be to her advantage to be separated from her mother, and a girl of sixteen who has received so wretched an education, could not be a very desirable companion here. Reginald has long wished, I know, to see the captivating Lady Susan, and we shall depend on his joining our party soon. I am glad to hear that my father continues so well; and am, with best love, &c.,
 
-CATHERINE VERNON. <span id="link2H_4_0004"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+CATHERINE VERNON. 
 
 ## IV
 
@@ -85,16 +59,7 @@ What a woman she must be! I long to see her, and shall certainly accept your kin
 
 Your affectionate brother,
 
-R. DE COURCY. <span id="link2H_4_0005"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+R. DE COURCY. 
 
 ## V
 
@@ -110,16 +75,7 @@ Poor Mainwaring! I need not tell you how much I miss him, how perpetually he is 
 
 Ever yours, S. VERNON.
 
-<span id="link2H_4_0006"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## VI
 
@@ -133,16 +89,7 @@ If her manners have so great an influence on my resentful heart, you may judge h
 
 Yours, &c.,
 
-CATHERINE VERNON <span id="link2H_4_0007"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+CATHERINE VERNON 
 
 ## VII
 
@@ -154,16 +101,7 @@ My dear Alicia,—You are very good in taking notice of Frederica, and I am grat
 
 Yours ever,
 
-S. VERNON. <span id="link2H_4_0008"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+S. VERNON. 
 
 ## VIII
 
@@ -175,16 +113,7 @@ My dear Mother,—You must not expect Reginald back again for some time. He desi
 
 I am, &c.,
 
-CATHERINE VERNON. <span id="link2H_4_0009"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+CATHERINE VERNON. 
 
 ## IX
 
@@ -196,16 +125,7 @@ My dearest Friend,—I congratulate you on Mr. De Courcy’s arrival, and I advi
 
 Yours faithfully,
 
-ALICIA. <span id="link2H_4_0010"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+ALICIA. 
 
 ## X
 
@@ -217,16 +137,7 @@ I am much obliged to you, my dear Friend, for your advice respecting Mr. De Cour
 
 Yours, &c.,
 
-S. VERNON. <span id="link2H_4_0011"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+S. VERNON. 
 
 ## XI
 
@@ -238,16 +149,7 @@ I really grow quite uneasy, my dearest mother, about Reginald, from witnessing t
 
 Yours, &c.,
 
-CATHERINE VERNON. <span id="link2H_4_0012"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+CATHERINE VERNON. 
 
 ## XII
 
@@ -265,16 +167,7 @@ I honestly tell you my sentiments and intentions: I do not wish to work on your 
 
 I am, &c., &c,
 
-REGINALD DE COURCY <span id="link2H_4_0013"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+REGINALD DE COURCY 
 
 ## XIII
 
@@ -286,16 +179,7 @@ My dear Catherine,—Unluckily I was confined to my room when your last letter c
 
 Your affectionate mother,
 
-C. DE COURCY. <span id="link2H_4_0014"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+C. DE COURCY. 
 
 ## XIV
 
@@ -309,16 +193,7 @@ I blame myself severely for having so easily believed the slanderous tales inven
 
 I am, &c., &c.,
 
-R. DE COURCY. <span id="link2H_4_0015"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+R. DE COURCY. 
 
 ## XV
 
@@ -330,16 +205,7 @@ My dear Mother,—I return you Reginald’s letter, and rejoice with all my hear
 
 Yours ever, &c.,
 
-CATHERINE VERNON. <span id="link2H_4_0016"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+CATHERINE VERNON. 
 
 ## XVI
 
@@ -353,16 +219,7 @@ Reginald is never easy unless we are by ourselves, and when the weather is toler
 
 Yours ever, S. VERNON.
 
-<span id="link2H_4_0017"></span>
 
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## XVII
 
@@ -376,16 +233,7 @@ Her mother has insinuated that her temper is intractable, but I never saw a face
 
 I remain, &c., &c.,
 
-CATHERINE VERNON. <span id="link2H_4_0018"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+CATHERINE VERNON. 
 
 ## XVIII
 
@@ -397,16 +245,7 @@ My dear Mother,—I am very glad to find that my description of Frederica Vernon
 
 Your affectionate daughter,
 
-C. VERNON <span id="link2H_4_0019"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+C. VERNON 
 
 ## XIX
 
@@ -420,16 +259,7 @@ Artlessness will never do in love matters; and that girl is born a simpleton who
 
 Yours ever,
 
-S. VERNON. <span id="link2H_4_0020"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+S. VERNON. 
 
 ## XX
 
@@ -441,16 +271,7 @@ We have a very unexpected guest with us at present, my dear Mother: he arrived y
 
 Yours, &c.,
 
-C. VERNON. <span id="link2H_4_0021"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+C. VERNON. 
 
 ## XXI
 
@@ -460,16 +281,7 @@ Sir,—I hope you will excuse this liberty; I am forced upon it by the greatest 
 
 I am, Sir, your most humble servant,
 
-F. S. V. <span id="link2H_4_0022"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+F. S. V. 
 
 ## XXII
 
@@ -481,16 +293,7 @@ This is insufferable! My dearest friend, I was never so enraged before, and must
 
 Your affectionate
 
-S. VERNON. <span id="link2H_4_0023"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+S. VERNON. 
 
 ## XXIII
 
@@ -502,16 +305,7 @@ Let me congratulate you, my dearest Mother! The affair which has given us so muc
 
 Yours ever, &c.,
 
-CATH. VERNON. <span id="link2H_4_0024"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+CATH. VERNON. 
 
 ## XXIV
 
@@ -527,16 +321,7 @@ Reginald was glad to get away, and I went to Lady Susan, curious, indeed, to hea
 
 Yours ever, &c.,
 
-CATHERINE VERNON. <span id="link2H_4_0025"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+CATHERINE VERNON. 
 
 ## XXV
 
@@ -548,16 +333,7 @@ I call on you, dear Alicia, for congratulations: I am my own self, gay and trium
 
 Your most attached
 
-S. VERNON. <span id="link2H_4_0026"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+S. VERNON. 
 
 ## XXVI
 
@@ -569,16 +345,7 @@ I am gratified by your reference, and this is my advice: that you come to town y
 
 Adieu. Yours ever,
 
-ALICIA. <span id="link2H_4_0027"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+ALICIA. 
 
 ## XXVII
 
@@ -590,16 +357,7 @@ This letter, my dear Mother, will be brought you by Reginald. His long visit is 
 
 Your affectionate, &c.,
 
-C. VERNON. <span id="link2H_4_0028"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+C. VERNON. 
 
 ## XXVIII
 
@@ -613,16 +371,7 @@ I am pleased to find that my letter had so much effect on you, and that De Courc
 
 Yours ever,
 
-ALICIA. <span id="link2H_4_0029"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+ALICIA. 
 
 ## XXIX
 
@@ -634,16 +383,7 @@ My dear Alicia,—There needed not this last fit of the gout to make me detest M
 
 Yours ever,
 
-S. VERNON. <span id="link2H_4_0030"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+S. VERNON. 
 
 ## XXX
 
@@ -655,16 +395,7 @@ I have received your letter, and though I do not attempt to conceal that I am gr
 
 I am, very faithfully yours,
 
-S. VERNON <span id="link2H_4_0031"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+S. VERNON 
 
 ## XXXI
 
@@ -674,16 +405,7 @@ Upper Seymour Street.
 
 My dear Friend,—That tormenting creature, Reginald, is here. My letter, which was intended to keep him longer in the country, has hastened him to town. Much as I wish him away, however, I cannot help being pleased with such a proof of attachment. He is devoted to me, heart and soul. He will carry this note himself, which is to serve as an introduction to you, with whom he longs to be acquainted. Allow him to spend the evening with you, that I may be in no danger of his returning here. I have told him that I am not quite well, and must be alone; and should he call again there might be confusion, for it is impossible to be sure of servants. Keep him, therefore, I entreat you, in Edward Street. You will not find him a heavy companion, and I allow you to flirt with him as much as you like. At the same time, do not forget my real interest; say all that you can to convince him that I shall be quite wretched if he remains here; you know my reasons—propriety, and so forth. I would urge them more myself, but that I am impatient to be rid of him, as Mainwaring comes within half an hour. Adieu!
 
-S VERNON <span id="link2H_4_0032"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+S VERNON 
 
 ## XXXII
 
@@ -693,16 +415,7 @@ Edward Street.
 
 My dear Creature,—I am in agonies, and know not what to do. Mr. De Courcy arrived just when he should not. Mrs. Mainwaring had that instant entered the house, and forced herself into her guardian’s presence, though I did not know a syllable of it till afterwards, for I was out when both she and Reginald came, or I should have sent him away at all events; but she was shut up with Mr. Johnson, while he waited in the drawing-room for me. She arrived yesterday in pursuit of her husband, but perhaps you know this already from himself. She came to this house to entreat my husband’s interference, and before I could be aware of it, everything that you could wish to be concealed was known to him, and unluckily she had wormed out of Mainwaring’s servant that he had visited you every day since your being in town, and had just watched him to your door herself! What could I do! Facts are such horrid things! All is by this time known to De Courcy, who is now alone with Mr. Johnson. Do not accuse me; indeed, it was impossible to prevent it. Mr. Johnson has for some time suspected De Courcy of intending to marry you, and would speak with him alone as soon as he knew him to be in the house. That detestable Mrs. Mainwaring, who, for your comfort, has fretted herself thinner and uglier than ever, is still here, and they have been all closeted together. What can be done? At any rate, I hope he will plague his wife more than ever. With anxious wishes, Yours faithfully,
 
-ALICIA. <span id="link2H_4_0033"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+ALICIA. 
 
 ## XXXIII
 
@@ -714,16 +427,7 @@ This eclaircissement is rather provoking. How unlucky that you should have been 
 
 Adieu!
 
-S. V. <span id="link2H_4_0034"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+S. V. 
 
 ## XXXIV
 
@@ -733,16 +437,7 @@ MR. DE COURCY TO LADY SUSAN
 
 I write only to bid you farewell, the spell is removed; I see you as you are. Since we parted yesterday, I have received from indisputable authority such a history of you as must bring the most mortifying conviction of the imposition I have been under, and the absolute necessity of an immediate and eternal separation from you. You cannot doubt to what I allude. Langford! Langford! that word will be sufficient. I received my information in Mr. Johnson’s house, from Mrs. Mainwaring herself. You know how I have loved you; you can intimately judge of my present feelings, but I am not so weak as to find indulgence in describing them to a woman who will glory in having excited their anguish, but whose affection they have never been able to gain.
 
-R. DE COURCY. <span id="link2H_4_0035"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+R. DE COURCY. 
 
 ## XXXV
 
@@ -752,16 +447,7 @@ Upper Seymour Street.
 
 I will not attempt to describe my astonishment in reading the note this moment received from you. I am bewildered in my endeavours to form some rational conjecture of what Mrs. Mainwaring can have told you to occasion so extraordinary a change in your sentiments. Have I not explained everything to you with respect to myself which could bear a doubtful meaning, and which the ill-nature of the world had interpreted to my discredit? What can you now have heard to stagger your esteem for me? Have I ever had a concealment from you? Reginald, you agitate me beyond expression, I cannot suppose that the old story of Mrs. Mainwaring’s jealousy can be revived again, or at least be LISTENED to again. Come to me immediately, and explain what is at present absolutely incomprehensible. Believe me the single word of Langford is not of such potent intelligence as to supersede the necessity of more. If we ARE to part, it will at least be handsome to take your personal leave—but I have little heart to jest; in truth, I am serious enough; for to be sunk, though but for an hour, in your esteem is a humiliation to which I know not how to submit. I shall count every minute till your arrival.
 
-S. V. <span id="link2H_4_0036"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+S. V. 
 
 ## XXXVI
 
@@ -771,16 +457,7 @@ MR. DE COURCY TO LADY SUSAN
 
 Why would you write to me? Why do you require particulars? But, since it must be so, I am obliged to declare that all the accounts of your misconduct during the life, and since the death of Mr. Vernon, which had reached me, in common with the world in general, and gained my entire belief before I saw you, but which you, by the exertion of your perverted abilities, had made me resolved to disallow, have been unanswerably proved to me; nay more, I am assured that a connection, of which I had never before entertained a thought, has for some time existed, and still continues to exist, between you and the man whose family you robbed of its peace in return for the hospitality with which you were received into it; that you have corresponded with him ever since your leaving Langford; not with his wife, but with him, and that he now visits you every day. Can you, dare you deny it? and all this at the time when I was an encouraged, an accepted lover! From what have I not escaped! I have only to be grateful. Far from me be all complaint, every sigh of regret. My own folly had endangered me, my preservation I owe to the kindness, the integrity of another; but the unfortunate Mrs. Mainwaring, whose agonies while she related the past seemed to threaten her reason, how is SHE to be consoled! After such a discovery as this, you will scarcely affect further wonder at my meaning in bidding you adieu. My understanding is at length restored, and teaches no less to abhor the artifices which had subdued me than to despise myself for the weakness on which their strength was founded.
 
-R. DE COURCY. <span id="link2H_4_0037"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+R. DE COURCY. 
 
 ## XXXVII
 
@@ -790,16 +467,7 @@ Upper Seymour Street.
 
 I am satisfied, and will trouble you no more when these few lines are dismissed. The engagement which you were eager to form a fortnight ago is no longer compatible with your views, and I rejoice to find that the prudent advice of your parents has not been given in vain. Your restoration to peace will, I doubt not, speedily follow this act of filial obedience, and I flatter myself with the hope of surviving my share in this disappointment.
 
-S. V. <span id="link2H_4_0038"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+S. V. 
 
 ## XXXVIII
 
@@ -811,16 +479,7 @@ I am grieved, though I cannot be astonished at your rupture with Mr. De Courcy; 
 
 Your sincerely attached
 
-ALICIA. <span id="link2H_4_0039"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+ALICIA. 
 
 ## XXXIX
 
@@ -830,16 +489,7 @@ Upper Seymour Street.
 
 My dear Alicia,—I yield to the necessity which parts us. Under circumstances you could not act otherwise. Our friendship cannot be impaired by it, and in happier times, when your situation is as independent as mine, it will unite us again in the same intimacy as ever. For this I shall impatiently wait, and meanwhile can safely assure you that I never was more at ease, or better satisfied with myself and everything about me than at the present hour. Your husband I abhor, Reginald I despise, and I am secure of never seeing either again. Have I not reason to rejoice? Mainwaring is more devoted to me than ever; and were we at liberty, I doubt if I could resist even matrimony offered by HIM. This event, if his wife live with you, it may be in your power to hasten. The violence of her feelings, which must wear her out, may be easily kept in irritation. I rely on your friendship for this. I am now satisfied that I never could have brought myself to marry Reginald, and am equally determined that Frederica never shall. To-morrow, I shall fetch her from Churchhill, and let Maria Mainwaring tremble for the consequence. Frederica shall be Sir James’s wife before she quits my house, and she may whimper, and the Vernons may storm, I regard them not. I am tired of submitting my will to the caprices of others; of resigning my own judgment in deference to those to whom I owe no duty, and for whom I feel no respect. I have given up too much, have been too easily worked on, but Frederica shall now feel the difference. Adieu, dearest of friends; may the next gouty attack be more favourable! and may you always regard me as unalterably yours,
 
-S. VERNON <span id="link2H_4_0040"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+S. VERNON 
 
 ## XL
 
@@ -849,16 +499,7 @@ My dear Catherine,—I have charming news for you, and if I had not sent off my 
 
 Your affectionate mother,
 
-C. DE COURCY <span id="link2H_4_0041"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+C. DE COURCY 
 
 ## XLI
 
@@ -870,16 +511,7 @@ My dear Mother,—Your letter has surprized me beyond measure! Can it be true th
 
 Yours ever, &c.,
 
-C. VERNON <span id="link2H_CONC"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
+C. VERNON 
 
 ## Conclusion
 

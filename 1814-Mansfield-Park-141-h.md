@@ -45,16 +45,6 @@ Mrs. Norris was quite at his service; and though she perfectly agreed with him a
 
 It will be readily believed that Mrs. Norris did not write to her sister in vain. Mrs. Price seemed rather surprised that a girl should be fixed on, when she had so many fine boys, but accepted the offer most thankfully, assuring them of her daughter’s being a very well-disposed, good-humoured girl, and trusting they would never have cause to throw her off. She spoke of her farther as somewhat delicate and puny, but was sanguine in the hope of her being materially better for change of air. Poor woman! she probably thought change of air might agree with many of her children.
 
-<span id="link2HCH0002"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter II
 
@@ -128,16 +118,6 @@ Amid the cares and the complacency which his own children suggested, Sir Thomas 
 
 Kept back as she was by everybody else, his single support could not bring her forward; but his attentions were otherwise of the highest importance in assisting the improvement of her mind, and extending its pleasures. He knew her to be clever, to have a quick apprehension as well as good sense, and a fondness for reading, which, properly directed, must be an education in itself. Miss Lee taught her French, and heard her read the daily portion of history; but he recommended the books which charmed her leisure hours, he encouraged her taste, and corrected her judgment: he made reading useful by talking to her of what she read, and heightened its attraction by judicious praise. In return for such services she loved him better than anybody in the world except William: her heart was divided between the two.
 
-<span id="link2HCH0003"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter III
 
@@ -265,16 +245,6 @@ Lady Bertram did not at all like to have her husband leave her; but she was not 
 
 The Miss Bertrams were much to be pitied on the occasion: not for their sorrow, but for their want of it. Their father was no object of love to them; he had never seemed the friend of their pleasures, and his absence was unhappily most welcome. They were relieved by it from all restraint; and without aiming at one gratification that would probably have been forbidden by Sir Thomas, they felt themselves immediately at their own disposal, and to have every indulgence within their reach. Fanny’s relief, and her consciousness of it, were quite equal to her cousins’; but a more tender nature suggested that her feelings were ungrateful, and she really grieved because she could not grieve. “Sir Thomas, who had done so much for her and her brothers, and who was gone perhaps never to return! that she should see him go without a tear! it was a shameful insensibility.” He had said to her, moreover, on the very last morning, that he hoped she might see William again in the course of the ensuing winter, and had charged her to write and invite him to Mansfield as soon as the squadron to which he belonged should be known to be in England. “This was so thoughtful and kind!” and would he only have smiled upon her, and called her “my dear Fanny,” while he said it, every former frown or cold address might have been forgotten. But he had ended his speech in a way to sink her in sad mortification, by adding, “If William does come to Mansfield, I hope you may be able to convince him that the many years which have passed since you parted have not been spent on your side entirely without improvement; though, I fear, he must find his sister at sixteen in some respects too much like his sister at ten.” She cried bitterly over this reflection when her uncle was gone; and her cousins, on seeing her with red eyes, set her down as a hypocrite.
 
-<span id="link2HCH0004"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter IV
 
@@ -332,16 +302,6 @@ Dr. Grant laughingly congratulated Miss Crawford on feeling no disinclination to
 
 “Oh yes! I am not at all ashamed of it. I would have everybody marry if they can do it properly: I do not like to have people throw themselves away; but everybody should marry as soon as they can do it to advantage.”
 
-<span id="link2HCH0005"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter V
 
@@ -431,16 +391,6 @@ Edmund, to whom this was chiefly addressed, replied, “I believe I know what yo
 
 “Oh! then the point is clear. Miss Price is not out.”
 
-<span id="link2HCH0006"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter VI
 
@@ -566,16 +516,6 @@ Mrs. Grant, hearing the latter part of this speech, enforced it warmly, persuade
 
 Lady Bertram made no objection; and every one concerned in the going was forward in expressing their ready concurrence, excepting Edmund, who heard it all and said nothing.
 
-<span id="link2HCH0007"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter VII
 
@@ -697,16 +637,6 @@ Vexed as Edmund was with his mother and aunt, he was still more angry with himse
 
 Fanny went to bed with her heart as full as on the first evening of her arrival at the Park. The state of her spirits had probably had its share in her indisposition; for she had been feeling neglected, and been struggling against discontent and envy for some days past. As she leant on the sofa, to which she had retreated that she might not be seen, the pain of her mind had been much beyond that in her head; and the sudden change which Edmund’s kindness had then occasioned, made her hardly know how to support herself.
 
-<span id="link2HCH0008"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter VIII
 
@@ -784,16 +714,6 @@ Miss Crawford was not slow to admire; she pretty well guessed Miss Bertram’s f
 
 Miss Bertram could now speak with decided information of what she had known nothing about when Mr. Rushworth had asked her opinion; and her spirits were in as happy a flutter as vanity and pride could furnish, when they drove up to the spacious stone steps before the principal entrance.
 
-<span id="link2HCH0009"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter IX
 
@@ -949,16 +869,6 @@ Edmund left the seat likewise. “Now, Miss Crawford, if you will look up the wa
 
 He still reasoned with her, but in vain. She would not calculate, she would not compare. She would only smile and assert. The greatest degree of rational consistency could not have been more engaging, and they talked with mutual satisfaction. At last it was agreed that they should endeavour to determine the dimensions of the wood by walking a little more about it. They would go to one end of it, in the line they were then in—for there was a straight green walk along the bottom by the side of the ha-ha—and perhaps turn a little way in some other direction, if it seemed likely to assist them, and be back in a few minutes. Fanny said she was rested, and would have moved too, but this was not suffered. Edmund urged her remaining where she was with an earnestness which she could not resist, and she was left on the bench to think with pleasure of her cousin’s care, but with great regret that she was not stronger. She watched them till they had turned the corner, and listened till all sound of them had ceased.
 
-<span id="link2HCH0010"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter X
 
@@ -1076,16 +986,6 @@ Maria was just discontented enough to say directly, “I think *you* have done p
 
 It was a beautiful evening, mild and still, and the drive was as pleasant as the serenity of Nature could make it; but when Mrs. Norris ceased speaking, it was altogether a silent drive to those within. Their spirits were in general exhausted; and to determine whether the day had afforded most pleasure or pain, might occupy the meditations of almost all.
 
-<span id="link2HCH0011"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XI
 
@@ -1175,16 +1075,6 @@ Fanny agreed to it, and had the pleasure of seeing him continue at the window wi
 
 Fanny sighed alone at the window till scolded away by Mrs. Norris’s threats of catching cold.
 
-<span id="link2HCH0012"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XII
 
@@ -1242,16 +1132,6 @@ Fanny was led off very willingly, though it was impossible for her to feel much 
 
 “A pretty modest request upon my word,” he indignantly exclaimed as they walked away. “To want to nail me to a card-table for the next two hours with herself and Dr. Grant, who are always quarrelling, and that poking old woman, who knows no more of whist than of algebra. I wish my good aunt would be a little less busy! And to ask me in such a way too! without ceremony, before them all, so as to leave me no possibility of refusing. *That* is what I dislike most particularly. It raises my spleen more than anything, to have the pretence of being asked, of being given a choice, and at the same time addressed in such a way as to oblige one to do the very thing, whatever it be! If I had not luckily thought of standing up with you I could not have got out of it. It is a great deal too bad. But when my aunt has got a fancy in her head, nothing can stop her.”
 
-<span id="link2HCH0013"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XIII
 
@@ -1335,16 +1215,6 @@ Maria gave Edmund a glance, which meant, “What say you now? Can we be wrong if
 
 The scheme advanced. Opposition was vain; and as to Mrs. Norris, he was mistaken in supposing she would wish to make any. She started no difficulties that were not talked down in five minutes by her eldest nephew and niece, who were all-powerful with her; and as the whole arrangement was to bring very little expense to anybody, and none at all to herself, as she foresaw in it all the comforts of hurry, bustle, and importance, and derived the immediate advantage of fancying herself obliged to leave her own house, where she had been living a month at her own cost, and take up her abode in theirs, that every hour might be spent in their service, she was, in fact, exceedingly delighted with the project.
 
-<span id="link2HCH0014"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XIV
 
@@ -1396,16 +1266,6 @@ When this had lasted some time, the division of the party was completed by Tom B
 
 The first use she made of her solitude was to take up the volume which had been left on the table, and begin to acquaint herself with the play of which she had heard so much. Her curiosity was all awake, and she ran through it with an eagerness which was suspended only by intervals of astonishment, that it could be chosen in the present instance, that it could be proposed and accepted in a private theatre! Agatha and Amelia appeared to her in their different ways so totally improper for home representation—the situation of one, and the language of the other, so unfit to be expressed by any woman of modesty, that she could hardly suppose her cousins could be aware of what they were engaging in; and longed to have them roused as soon as possible by the remonstrance which Edmund would certainly make.
 
-<span id="link2HCH0015"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XV
 
@@ -1533,16 +1393,6 @@ Charles Maddox was to be the man. Tom repeated his resolution of going to him ea
 
 “I am not very sanguine as to our play,” said Miss Crawford, in an undervoice to Fanny, after some consideration; “and I can tell Mr. Maddox that I shall shorten some of *his* speeches, and a great many of *my* *own*, before we rehearse together. It will be very disagreeable, and by no means what I expected.”
 
-<span id="link2HCH0016"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XVI
 
@@ -1602,16 +1452,6 @@ She could not finish the generous effusion. Her conscience stopt her in the midd
 
 He went; but there was no reading, no China, no composure for Fanny. He had told her the most extraordinary, the most inconceivable, the most unwelcome news; and she could think of nothing else. To be acting! After all his objections—objections so just and so public! After all that she had heard him say, and seen him look, and known him to be feeling. Could it be possible? Edmund so inconsistent! Was he not deceiving himself? Was he not wrong? Alas! it was all Miss Crawford’s doing. She had seen her influence in every speech, and was miserable. The doubts and alarms as to her own conduct, which had previously distressed her, and which had all slept while she listened to him, were become of little consequence now. This deeper anxiety swallowed them up. Things should take their course; she cared not how it ended. Her cousins might attack, but could hardly tease her. She was beyond their reach; and if at last obliged to yield—no matter—it was all misery now.
 
-<span id="link2HCH0017"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XVII
 
@@ -1671,16 +1511,6 @@ Fanny saw and pitied much of this in Julia; but there was no outward fellowship 
 
 The inattention of the two brothers and the aunt to Julia’s discomposure, and their blindness to its true cause, must be imputed to the fullness of their own minds. They were totally preoccupied. Tom was engrossed by the concerns of his theatre, and saw nothing that did not immediately relate to it. Edmund, between his theatrical and his real part, between Miss Crawford’s claims and his own conduct, between love and consistency, was equally unobservant; and Mrs. Norris was too busy in contriving and directing the general little matters of the company, superintending their various dresses with economical expedient, for which nobody thanked her, and saving, with delighted integrity, half a crown here and there to the absent Sir Thomas, to have leisure for watching the behaviour, or guarding the happiness of his daughters.
 
-<span id="link2HCH0018"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XVIII
 
@@ -1750,16 +1580,6 @@ Fanny could not say she did *not*; and as they all persevered, as Edmund repeate
 
 They *did* begin; and being too much engaged in their own noise to be struck by an unusual noise in the other part of the house, had proceeded some way when the door of the room was thrown open, and Julia, appearing at it, with a face all aghast, exclaimed, “My father is come! He is in the hall at this moment.”
 
-<span id="link2HCH0019"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XIX
 
@@ -1833,16 +1653,6 @@ Sir Thomas looked again, and then replied with an approving smile, “I am happy
 
 Sir Thomas meant to be giving Mr. Rushworth’s opinion in better words than he could find himself. He was aware that he must not expect a genius in Mr. Rushworth; but as a well-judging, steady young man, with better notions than his elocution would do justice to, he intended to value him very highly. It was impossible for many of the others not to smile. Mr. Rushworth hardly knew what to do with so much meaning; but by looking, as he really felt, most exceedingly pleased with Sir Thomas’s good opinion, and saying scarcely anything, he did his best towards preserving that good opinion a little longer.
 
-<span id="link2HCH0020"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XX
 
@@ -1890,16 +1700,6 @@ Another day or two, and Mr. Yates was gone likewise. In *his* departure Sir Thom
 
 Mrs. Norris contrived to remove one article from his sight that might have distressed him. The curtain, over which she had presided with such talent and such success, went off with her to her cottage, where she happened to be particularly in want of green baize.
 
-<span id="link2HCH0021"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XXI
 
@@ -1971,16 +1771,6 @@ Julia was to go with them to Brighton. Since rivalry between the sisters had cea
 
 Their departure made another material change at Mansfield, a chasm which required some time to fill up. The family circle became greatly contracted; and though the Miss Bertrams had latterly added little to its gaiety, they could not but be missed. Even their mother missed them; and how much more their tenderhearted cousin, who wandered about the house, and thought of them, and felt for them, with a degree of affectionate regret which they had never done much to deserve!
 
-<span id="link2HCH0022"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XXII
 
@@ -2086,16 +1876,6 @@ Fanny’s hurry increased; and without in the least expecting Edmund’s attenda
 
 The two cousins walked home together; and, except in the immediate discussion of this engagement, which Edmund spoke of with the warmest satisfaction, as so particularly desirable for her in the intimacy which he saw with so much pleasure established, it was a silent walk; for having finished that subject, he grew thoughtful and indisposed for any other.
 
-<span id="link2HCH0023"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XXIII
 
@@ -2237,16 +2017,6 @@ The party being now all united, and the chief talkers attracting each other, she
 
 The assurance of Edmund’s being so soon to take orders, coming upon her like a blow that had been suspended, and still hoped uncertain and at a distance, was felt with resentment and mortification. She was very angry with him. She had thought her influence more. She *had* begun to think of him; she felt that she had, with great regard, with almost decided intentions; but she would now meet him with his own cool feelings. It was plain that he could have no serious views, no true attachment, by fixing himself in a situation which he must know she would never stoop to. She would learn to match him in his indifference. She would henceforth admit his attentions without any idea beyond immediate amusement. If *he* could so command his affections, *hers* should do her no harm.
 
-<span id="link2HCH0024"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XXIV
 
@@ -2303,16 +2073,6 @@ The wish was rather eager than lasting. He was roused from the reverie of retros
                         the Edinburgh University Press]
 ```
 
-<span id="link2HCH0025"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XXV
 
@@ -2448,16 +2208,6 @@ Sir Thomas could not dissent, as it had been his own arrangement, previously com
 
 Fanny’s last feeling in the visit was disappointment: for the shawl which Edmund was quietly taking from the servant to bring and put round her shoulders was seized by Mr. Crawford’s quicker hand, and she was obliged to be indebted to his more prominent attention.
 
-<span id="link2HCH0026"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XXVI
 
@@ -2509,16 +2259,6 @@ It was impossible for her to be insensible of Mr. Crawford’s change of manners
 
 Reflecting and doubting, and feeling that the possession of what she had so much wished for did not bring much satisfaction, she now walked home again, with a change rather than a diminution of cares since her treading that path before.
 
-<span id="link2HCH0027"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XXVII
 
@@ -2604,16 +2344,6 @@ They were now on the second floor, and the appearance of a housemaid prevented a
 
 Her aunt Bertram had recollected her on this occasion with an unusual degree of wakefulness. It had really occurred to her, unprompted, that Fanny, preparing for a ball, might be glad of better help than the upper housemaid’s, and when dressed herself, she actually sent her own maid to assist her; too late, of course, to be of any use. Mrs. Chapman had just reached the attic floor, when Miss Price came out of her room completely dressed, and only civilities were necessary; but Fanny felt her aunt’s attention almost as much as Lady Bertram or Mrs. Chapman could do themselves.
 
-<span id="link2HCH0028"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XXVIII
 
@@ -2685,16 +2415,6 @@ Shortly afterward, Sir Thomas was again interfering a little with her inclinatio
 
 In thus sending her away, Sir Thomas perhaps might not be thinking merely of her health. It might occur to him that Mr. Crawford had been sitting by her long enough, or he might mean to recommend her as a wife by shewing her persuadableness.
 
-<span id="link2HCH0029"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XXIX
 
@@ -2776,16 +2496,6 @@ Now Fanny could not bring herself to speak, and Miss Crawford was disappointed; 
 
 Her companion looked at her keenly; and gathering greater spirit from the blush soon produced from such a look, only said, “He is best off as he is,” and turned the subject.
 
-<span id="link2HCH0030"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XXX
 
@@ -2859,16 +2569,6 @@ The impossibility of not doing everything in the world to make Fanny Price happy
 
 “Edmund! True, I believe he is, generally speaking, kind to her, and so is Sir Thomas in his way; but it is the way of a rich, superior, long-worded, arbitrary uncle. What can Sir Thomas and Edmund together do, what do they *do* for her happiness, comfort, honour, and dignity in the world, to what I *shall* do?”
 
-<span id="link2HCH0031"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XXXI
 
@@ -2944,16 +2644,6 @@ The note was held out, and must be taken; and as she instantly and with averted 
 
 Fanny thought she had never known a day of greater agitation, both of pain and pleasure; but happily the pleasure was not of a sort to die with the day; for every day would restore the knowledge of William’s advancement, whereas the pain, she hoped, would return no more. She had no doubt that her note must appear excessively ill-written, that the language would disgrace a child, for her distress had allowed no arrangement; but at least it would assure them both of her being neither imposed on nor gratified by Mr. Crawford’s attentions.
 
-<span id="link2HCH0032"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XXXII
 
@@ -3081,16 +2771,6 @@ But Baddeley was stout. “No, ma’am, it is Miss Price; I am certain of its be
 
 Mrs. Norris, much discontented, was obliged to compose herself to work again; and Fanny, walking off in agitating consciousness, found herself, as she anticipated, in another minute alone with Mr. Crawford.
 
-<span id="link2HCH0033"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XXXIII
 
@@ -3150,16 +2830,6 @@ This was almost the only rule of conduct, the only piece of advice, which Fanny 
 
 “I will tell you what, Fanny,” said she, “I am sure he fell in love with you at the ball; I am sure the mischief was done that evening. You did look remarkably well. Everybody said so. Sir Thomas said so. And you know you had Chapman to help you to dress. I am very glad I sent Chapman to you. I shall tell Sir Thomas that I am sure it was done that evening.” And still pursuing the same cheerful thoughts, she soon afterwards added, “And I will tell you what, Fanny, which is more than I did for Maria: the next time Pug has a litter you shall have a puppy.”
 
-<span id="link2HCH0034"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XXXIV
 
@@ -3251,16 +2921,6 @@ The solemn procession, headed by Baddeley, of tea-board, urn, and cake-bearers, 
 
 Edmund was not sorry to be admitted again among the number of those who might speak and hear. But though the conference had seemed full long to him, and though on looking at Fanny he saw rather a flush of vexation, he inclined to hope that so much could not have been said and listened to without some profit to the speaker.
 
-<span id="link2HCH0035"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XXXV
 
@@ -3374,16 +3034,6 @@ Edmund saw weariness and distress in her face, and immediately resolved to forbe
 
 Still, however, Fanny was oppressed and wearied; he saw it in her looks, it could not be talked away; and attempting it no more, he led her directly, with the kind authority of a privileged guardian, into the house.
 
-<span id="link2HCH0036"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XXXVI
 
@@ -3461,16 +3111,6 @@ When it came to the moment of parting, he would take her hand, he would not be d
 
 On the morrow the Crawfords were gone.
 
-<span id="link2HCH0037"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XXXVII
 
@@ -3532,16 +3172,6 @@ Poor Fanny! though going as she did willingly and eagerly, the last evening at M
 
 All this passed overnight, for the journey was to begin very early in the morning; and when the small, diminished party met at breakfast, William and Fanny were talked of as already advanced one stage.
 
-<span id="link2HCH0038"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XXXVIII
 
@@ -3637,16 +3267,6 @@ Fanny, fatigued and fatigued again, was thankful to accept the first invitation 
 
 There was nothing to raise her spirits in the confined and scantily furnished chamber that she was to share with Susan. The smallness of the rooms above and below, indeed, and the narrowness of the passage and staircase, struck her beyond her imagination. She soon learned to think with respect of her own little attic at Mansfield Park, in *that* house reckoned too small for anybody’s comfort.
 
-<span id="link2HCH0039"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XXXIX
 
@@ -3674,16 +3294,6 @@ The living in incessant noise was, to a frame and temper delicate and nervous li
 
 In a review of the two houses, as they appeared to her before the end of a week, Fanny was tempted to apply to them Dr. Johnson’s celebrated judgment as to matrimony and celibacy, and say, that though Mansfield Park might have some pains, Portsmouth could have no pleasures.
 
-<span id="link2HCH0040"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XL
 
@@ -3707,16 +3317,6 @@ The intimacy thus begun between them was a material advantage to each. By sittin
 
 In this occupation she hoped, moreover, to bury some of the recollections of Mansfield, which were too apt to seize her mind if her fingers only were busy; and, especially at this time, hoped it might be useful in diverting her thoughts from pursuing Edmund to London, whither, on the authority of her aunt’s last letter, she knew he was gone. She had no doubt of what would ensue. The promised notification was hanging over her head. The postman’s knock within the neighbourhood was beginning to bring its daily terrors, and if reading could banish the idea for even half an hour, it was something gained.
 
-<span id="link2HCH0041"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XLI
 
@@ -3766,16 +3366,6 @@ Before they parted, she had to thank him for another pleasure, and one of no tri
 
 To have had him join their family dinner-party, and see all their deficiencies, would have been dreadful! Rebecca’s cookery and Rebecca’s waiting, and Betsey’s eating at table without restraint, and pulling everything about as she chose, were what Fanny herself was not yet enough inured to for her often to make a tolerable meal. *She* was nice only from natural delicacy, but *he* had been brought up in a school of luxury and epicurism.
 
-<span id="link2HCH0042"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XLII
 
@@ -3843,16 +3433,6 @@ Fanny was out of spirits all the rest of the day. Though tolerably secure of not
 
 Her dejection had no abatement from anything passing around her; a friend or two of her father’s, as always happened if he was not with them, spent the long, long evening there; and from six o’clock till half-past nine, there was little intermission of noise or grog. She was very low. The wonderful improvement which she still fancied in Mr. Crawford was the nearest to administering comfort of anything within the current of her thoughts. Not considering in how different a circle she had been just seeing him, nor how much might be owing to contrast, she was quite persuaded of his being astonishingly more gentle and regardful of others than formerly. And, if in little things, must it not be so in great? So anxious for her health and comfort, so very feeling as he now expressed himself, and really seemed, might not it be fairly supposed that he would not much longer persevere in a suit so distressing to her?
 
-<span id="link2HCH0043"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XLIII
 
@@ -3876,16 +3456,6 @@ Their conversations, however, were not always on subjects so high as history or 
 
 Poor Susan was very little better fitted for home than her elder sister; and as Fanny grew thoroughly to understand this, she began to feel that when her own release from Portsmouth came, her happiness would have a material drawback in leaving Susan behind. That a girl so capable of being made everything good should be left in such hands, distressed her more and more. Were *she* likely to have a home to invite her to, what a blessing it would be! And had it been possible for her to return Mr. Crawford’s regard, the probability of his being very far from objecting to such a measure would have been the greatest increase of all her own comforts. She thought he was really good-tempered, and could fancy his entering into a plan of that sort most pleasantly.
 
-<span id="link2HCH0044"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XLIV
 
@@ -3919,16 +3489,6 @@ Susan was her only companion and listener on this, as on more common occasions. 
 
 So long divided and so differently situated, the ties of blood were little more than nothing. An attachment, originally as tranquil as their tempers, was now become a mere name. Mrs. Price did quite as much for Lady Bertram as Lady Bertram would have done for Mrs. Price. Three or four Prices might have been swept away, any or all except Fanny and William, and Lady Bertram would have thought little about it; or perhaps might have caught from Mrs. Norris’s lips the cant of its being a very happy thing and a great blessing to their poor dear sister Price to have them so well provided for.
 
-<span id="link2HCH0045"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XLV
 
@@ -3964,16 +3524,6 @@ Fanny’s disgust at the greater part of this letter, with her extreme reluctanc
 
 Her representation of her cousin’s state at this time was exactly according to her own belief of it, and such as she supposed would convey to the sanguine mind of her correspondent the hope of everything she was wishing for. Edmund would be forgiven for being a clergyman, it seemed, under certain conditions of wealth; and this, she suspected, was all the conquest of prejudice which he was so ready to congratulate himself upon. She had only learnt to think nothing of consequence but money.
 
-<span id="link2HCH0046"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XLVI
 
@@ -4051,16 +3601,6 @@ It made her melancholy again; and the knowledge of what must be enduring there, 
 
 By one of the suffering party within they were expected with such impatience as she had never known before. Fanny had scarcely passed the solemn-looking servants, when Lady Bertram came from the drawing-room to meet her; came with no indolent step; and falling on her neck, said, “Dear Fanny! now I shall be comfortable.”
 
-<span id="link2HCH0047"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XLVII
 
@@ -4126,16 +3666,6 @@ After repeating this, Edmund was so much affected that Fanny, watching him with 
 
 And such was Fanny’s dependence on his words, that for five minutes she thought they *had* done. Then, however, it all came on again, or something very like it, and nothing less than Lady Bertram’s rousing thoroughly up could really close such a conversation. Till that happened, they continued to talk of Miss Crawford alone, and how she had attached him, and how delightful nature had made her, and how excellent she would have been, had she fallen into good hands earlier. Fanny, now at liberty to speak openly, felt more than justified in adding to his knowledge of her real character, by some hint of what share his brother’s state of health might be supposed to have in her wish for a complete reconciliation. This was not an agreeable intimation. Nature resisted it for a while. It would have been a vast deal pleasanter to have had her more disinterested in her attachment; but his vanity was not of a strength to fight long against reason. He submitted to believe that Tom’s illness had influenced her, only reserving for himself this consoling thought, that considering the many counteractions of opposing habits, she had certainly been *more* attached to him than could have been expected, and for his sake been more near doing right. Fanny thought exactly the same; and they were also quite agreed in their opinion of the lasting effect, the indelible impression, which such a disappointment must make on his mind. Time would undoubtedly abate somewhat of his sufferings, but still it was a sort of thing which he never could get entirely the better of; and as to his ever meeting with any other woman who could—it was too impossible to be named but with indignation. Fanny’s friendship was all that he had to cling to.
 
-<span id="link2HCH0048"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter XLVIII
 

@@ -18,52 +18,34 @@ Mrs. Morland was a very good woman, and wished to see her children everything th
 
 From Pope, she learnt to censure those who
 
-``` {space="preserve"}
    “bear about the mockery of woe.”
- 
-```
 
 From Gray, that
 
-``` {space="preserve"}
    “Many a flower is born to blush unseen,
    “And waste its fragrance on the desert air.”
- 
-```
 
 From Thompson, that—
 
-``` {space="preserve"}
    “It is a delightful task
    “To teach the young idea how to shoot.”
- 
-```
 
 And from Shakespeare she gained a great store of information—amongst the rest, that—
 
-``` {space="preserve"}
    “Trifles light as air,
    “Are, to the jealous, confirmation strong,
    “As proofs of Holy Writ.”
- 
-```
 
 That
 
-``` {space="preserve"}
    “The poor beetle, which we tread upon,
    “In corporal sufferance feels a pang as great
    “As when a giant dies.”
- 
-```
 
 And that a young woman in love always looks—
 
-``` {space="preserve"}
    “like Patience on a monument
    “Smiling at Grief.”
- 
-```
 
 So far her improvement was sufficient—and in many other points she came on exceedingly well; for though she could not write sonnets, she brought herself to read them; and though there seemed no chance of her throwing a whole party into raptures by a prelude on the pianoforte, of her own composition, she could listen to other people’s performance with very little fatigue. Her greatest deficiency was in the pencil—she had no notion of drawing—not enough even to attempt a sketch of her lover’s profile, that she might be detected in the design. There she fell miserably short of the true heroic height. At present she did not know her own poverty, for she had no lover to portray. She had reached the age of seventeen, without having seen one amiable youth who could call forth her sensibility, without having inspired one real passion, and without having excited even any admiration but what was very moderate and very transient. This was strange indeed! But strange things may be generally accounted for if their cause be fairly searched out. There was not one lord in the neighbourhood; no—not even a baronet. There was not one family among their acquaintance who had reared and supported a boy accidentally found at their door—not one young man whose origin was unknown. Her father had no ward, and the squire of the parish no children.
 
@@ -71,16 +53,6 @@ But when a young lady is to be a heroine, the perverseness of forty surrounding 
 
 Mr. Allen, who owned the chief of the property about Fullerton, the village in Wiltshire where the Morlands lived, was ordered to Bath for the benefit of a gouty constitution—and his lady, a good-humoured woman, fond of Miss Morland, and probably aware that if adventures will not befall a young lady in her own village, she must seek them abroad, invited her to go with them. Mr. and Mrs. Morland were all compliance, and Catherine all happiness.
 
-<span id="link2HCH0002"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 2
 
@@ -140,16 +112,6 @@ The company began to disperse when the dancing was over—enough to leave space 
 
 She was looked at, however, and with some admiration; for, in her own hearing, two gentlemen pronounced her to be a pretty girl. Such words had their due effect; she immediately thought the evening pleasanter than she had found it before—her humble vanity was contented—she felt more obliged to the two young men for this simple praise than a true-quality heroine would have been for fifteen sonnets in celebration of her charms, and went to her chair in good humour with everybody, and perfectly satisfied with her share of public attention.
 
-<span id="link2HCH0003"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 3
 
@@ -251,18 +213,8 @@ Catherine coloured, and said, “I was not thinking of anything.”
 
 “Thank you; for now we shall soon be acquainted, as I am authorized to tease you on this subject whenever we meet, and nothing in the world advances intimacy so much.”
 
-They danced again; and, when the assembly closed, parted, on the lady’s side at least, with a strong inclination for continuing the acquaintance. Whether she thought of him so much, while she drank her warm wine and water, and prepared herself for bed, as to dream of him when there, cannot be ascertained; but I hope it was no more than in a slight slumber, or a morning doze at most; for if it be true, as a celebrated writer has maintained, that no young lady can be justified in falling in love before the gentleman’s love is declared,\* it must be very improper that a young lady should dream of a gentleman before the gentleman is first known to have dreamt of her. How proper Mr. Tilney might be as a dreamer or a lover had not yet perhaps entered Mr. Allen’s head, but that he was not objectionable as a common acquaintance for his young charge he was on inquiry satisfied; for he had early in the evening taken pains to know who her partner was, and had been assured of Mr. Tilney’s being a clergyman, and of a very respectable family in Gloucestershire.
+They danced again; and, when the assembly closed, parted, on the lady’s side at least, with a strong inclination for continuing the acquaintance. Whether she thought of him so much, while she drank her warm wine and water, and prepared herself for bed, as to dream of him when there, cannot be ascertained; but I hope it was no more than in a slight slumber, or a morning doze at most; for if it be true, as a celebrated writer has maintained, that no young lady can be justified in falling in love before the gentleman’s love is declared,^[Vide a letter from Mr. Richardson, No. 97, Vol. II, Rambler.] it must be very improper that a young lady should dream of a gentleman before the gentleman is first known to have dreamt of her. How proper Mr. Tilney might be as a dreamer or a lover had not yet perhaps entered Mr. Allen’s head, but that he was not objectionable as a common acquaintance for his young charge he was on inquiry satisfied; for he had early in the evening taken pains to know who her partner was, and had been assured of Mr. Tilney’s being a clergyman, and of a very respectable family in Gloucestershire.
 
-<span id="link2HCH0004"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 4
 
@@ -284,16 +236,6 @@ Mrs. Thorpe was a widow, and not a very rich one; she was a good-humoured, well-
 
 This brief account of the family is intended to supersede the necessity of a long and minute detail from Mrs. Thorpe herself, of her past adventures and sufferings, which might otherwise be expected to occupy the three or four following chapters; in which the worthlessness of lords and attorneys might be set forth, and conversations, which had passed twenty years before, be minutely repeated.
 
-<span id="link2HCH0005"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 5
 
@@ -305,16 +247,6 @@ Mrs. Allen was now quite happy—quite satisfied with Bath. She had found some a
 
 The progress of the friendship between Catherine and Isabella was quick as its beginning had been warm, and they passed so rapidly through every gradation of increasing tenderness that there was shortly no fresh proof of it to be given to their friends or themselves. They called each other by their Christian name, were always arm in arm when they walked, pinned up each other’s train for the dance, and were not to be divided in the set; and if a rainy morning deprived them of other enjoyments, they were still resolute in meeting in defiance of wet and dirt, and shut themselves up, to read novels together. Yes, novels; for I will not adopt that ungenerous and impolitic custom so common with novel-writers, of degrading by their contemptuous censure the very performances, to the number of which they are themselves adding—joining with their greatest enemies in bestowing the harshest epithets on such works, and scarcely ever permitting them to be read by their own heroine, who, if she accidentally take up a novel, is sure to turn over its insipid pages with disgust. Alas! If the heroine of one novel be not patronized by the heroine of another, from whom can she expect protection and regard? I cannot approve of it. Let us leave it to the reviewers to abuse such effusions of fancy at their leisure, and over every new novel to talk in threadbare strains of the trash with which the press now groans. Let us not desert one another; we are an injured body. Although our productions have afforded more extensive and unaffected pleasure than those of any other literary corporation in the world, no species of composition has been so much decried. From pride, ignorance, or fashion, our foes are almost as many as our readers. And while the abilities of the nine-hundredth abridger of the History of England, or of the man who collects and publishes in a volume some dozen lines of Milton, Pope, and Prior, with a paper from the Spectator, and a chapter from Sterne, are eulogized by a thousand pens—there seems almost a general wish of decrying the capacity and undervaluing the labour of the novelist, and of slighting the performances which have only genius, wit, and taste to recommend them. “I am no novel-reader—I seldom look into novels—Do not imagine that I often read novels—It is really very well for a novel.” Such is the common cant. “And what are you reading, Miss—?” “Oh! It is only a novel!” replies the young lady, while she lays down her book with affected indifference, or momentary shame. “It is only Cecilia, or Camilla, or Belinda”; or, in short, only some work in which the greatest powers of the mind are displayed, in which the most thorough knowledge of human nature, the happiest delineation of its varieties, the liveliest effusions of wit and humour, are conveyed to the world in the best-chosen language. Now, had the same young lady been engaged with a volume of the Spectator, instead of such a work, how proudly would she have produced the book, and told its name; though the chances must be against her being occupied by any part of that voluminous publication, of which either the matter or manner would not disgust a young person of taste: the substance of its papers so often consisting in the statement of improbable circumstances, unnatural characters, and topics of conversation which no longer concern anyone living; and their language, too, frequently so coarse as to give no very favourable idea of the age that could endure it.
 
-<span id="link2HCH0006"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 6
 
@@ -406,16 +338,6 @@ Catherine readily agreed. “Only,” she added, “perhaps we may overtake the 
 
 Catherine had nothing to oppose against such reasoning; and therefore, to show the independence of Miss Thorpe, and her resolution of humbling the sex, they set off immediately as fast as they could walk, in pursuit of the two young men.
 
-<span id="link2HCH0007"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 7
 
@@ -527,16 +449,6 @@ James accepted this tribute of gratitude, and qualified his conscience for accep
 
 Inquiries and communications concerning brothers and sisters, the situation of some, the growth of the rest, and other family matters now passed between them, and continued, with only one small digression on James’s part, in praise of Miss Thorpe, till they reached Pulteney Street, where he was welcomed with great kindness by Mr. and Mrs. Allen, invited by the former to dine with them, and summoned by the latter to guess the price and weigh the merits of a new muff and tippet. A pre-engagement in Edgar’s Buildings prevented his accepting the invitation of one friend, and obliged him to hurry away as soon as he had satisfied the demands of the other. The time of the two parties uniting in the Octagon Room being correctly adjusted, Catherine was then left to the luxury of a raised, restless, and frightened imagination over the pages of Udolpho, lost from all worldly concerns of dressing and dinner, incapable of soothing Mrs. Allen’s fears on the delay of an expected dressmaker, and having only one minute in sixty to bestow even on the reflection of her own felicity, in being already engaged for the evening.
 
-<span id="link2HCH0008"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 8
 
@@ -616,16 +528,6 @@ Catherine was disappointed and vexed. She seemed to have missed by so little the
 
 Again Catherine excused herself; and at last he walked off to quiz his sisters by himself. The rest of the evening she found very dull; Mr. Tilney was drawn away from their party at tea, to attend that of his partner; Miss Tilney, though belonging to it, did not sit near her, and James and Isabella were so much engaged in conversing together that the latter had no leisure to bestow more on her friend than one smile, one squeeze, and one “dearest Catherine.”
 
-<span id="link2HCH0009"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 9
 
@@ -731,16 +633,6 @@ Catherine found Mrs. Allen just returned from all the busy idleness of the morni
 
 Catherine inquired no further; she had heard enough to feel that Mrs. Allen had no real intelligence to give, and that she was most particularly unfortunate herself in having missed such a meeting with both brother and sister. Could she have foreseen such a circumstance, nothing should have persuaded her to go out with the others; and, as it was, she could only lament her ill luck, and think over what she had lost, till it was clear to her that the drive had by no means been very pleasant and that John Thorpe himself was quite disagreeable.
 
-<span id="link2HCH0010"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 10
 
@@ -870,16 +762,6 @@ Catherine’s answer was only “Oh!”—but it was an “Oh!” expressing eve
 
 In chatting with Miss Tilney before the evening concluded, a new source of felicity arose to her. She had never taken a country walk since her arrival in Bath. Miss Tilney, to whom all the commonly frequented environs were familiar, spoke of them in terms which made her all eagerness to know them too; and on her openly fearing that she might find nobody to go with her, it was proposed by the brother and sister that they should join in a walk, some morning or other. “I shall like it,” she cried, “beyond anything in the world; and do not let us put it off—let us go tomorrow.” This was readily agreed to, with only a proviso of Miss Tilney’s, that it did not rain, which Catherine was sure it would not. At twelve o’clock, they were to call for her in Pulteney Street; and “Remember—twelve o’clock,” was her parting speech to her new friend. Of her other, her older, her more established friend, Isabella, of whose fidelity and worth she had enjoyed a fortnight’s experience, she scarcely saw anything during the evening. Yet, though longing to make her acquainted with her happiness, she cheerfully submitted to the wish of Mr. Allen, which took them rather early away, and her spirits danced within her, as she danced in her chair all the way home.
 
-<span id="link2HCH0011"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 11
 
@@ -1013,16 +895,6 @@ Catherine could almost have accused Isabella of being wanting in tenderness towa
 
 And now I may dismiss my heroine to the sleepless couch, which is the true heroine’s portion; to a pillow strewed with thorns and wet with tears. And lucky may she think herself, if she get another good night’s rest in the course of the next three months.
 
-<span id="link2HCH0012"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 12
 
@@ -1074,16 +946,6 @@ Here Catherine, who was much less gratified by his admiration than by General Ti
 
 That General Tilney, instead of disliking, should admire her, was very delightful; and she joyfully thought that there was not one of the family whom she need now fear to meet. The evening had done more, much more, for her than could have been expected.
 
-<span id="link2HCH0013"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 13
 
@@ -1169,16 +1031,6 @@ Catherine, relieved for herself, felt uneasy for Isabella, and after a moment’
 
 Catherine submitted, and though sorry to think that Isabella should be doing wrong, felt greatly relieved by Mr. Allen’s approbation of her own conduct, and truly rejoiced to be preserved by his advice from the danger of falling into such an error herself. Her escape from being one of the party to Clifton was now an escape indeed; for what would the Tilneys have thought of her, if she had broken her promise to them in order to do what was wrong in itself, if she had been guilty of one breach of propriety, only to enable her to be guilty of another?
 
-<span id="link2HCH0014"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 14
 
@@ -1292,16 +1144,6 @@ Catherine, a little doubtful of this, could not help answering, “I wish you co
 
 Catherine was still unconvinced; but glad that Anne should have the friendship of an Emily and a Sophia to console her, she bade her adieu without much uneasiness, and returned home, pleased that the party had not been prevented by her refusing to join it, and very heartily wishing that it might be too pleasant to allow either James or Isabella to resent her resistance any longer.
 
-<span id="link2HCH0015"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 15
 
@@ -1401,16 +1243,6 @@ When the contents of the letter were ascertained, John Thorpe, who had only wait
 
 The agitation which she had herself experienced on first learning her brother’s engagement made her expect to raise no inconsiderable emotion in Mr. and Mrs. Allen, by the communication of the wonderful event. How great was her disappointment! The important affair, which many words of preparation ushered in, had been foreseen by them both ever since her brother’s arrival; and all that they felt on the occasion was comprehended in a wish for the young people’s happiness, with a remark, on the gentleman’s side, in favour of Isabella’s beauty, and on the lady’s, of her great good luck. It was to Catherine the most surprising insensibility. The disclosure, however, of the great secret of James’s going to Fullerton the day before, did raise some emotion in Mrs. Allen. She could not listen to that with perfect calmness, but repeatedly regretted the necessity of its concealment, wished she could have known his intention, wished she could have seen him before he went, as she should certainly have troubled him with her best regards to his father and mother, and her kind compliments to all the Skinners.
 
-<span id="link2HCH0016"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 16
 
@@ -1514,16 +1346,6 @@ Isabella recollected herself. “As to that, my sweet Catherine, there cannot be
 
 Catherine’s uncomfortable feelings began to lessen. She endeavoured to believe that the delay of the marriage was the only source of Isabella’s regret; and when she saw her at their next interview as cheerful and amiable as ever, endeavoured to forget that she had for a minute thought otherwise. James soon followed his letter, and was received with the most gratifying kindness.
 
-<span id="link2HCH0017"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 17
 
@@ -1553,16 +1375,6 @@ It was wonderful that her friends should seem so little elated by the possession
 
 Many were the inquiries she was eager to make of Miss Tilney; but so active were her thoughts, that when these inquiries were answered, she was hardly more assured than before, of Northanger Abbey having been a richly endowed convent at the time of the Reformation, of its having fallen into the hands of an ancestor of the Tilneys on its dissolution, of a large portion of the ancient building still making a part of the present dwelling although the rest was decayed, or of its standing low in a valley, sheltered from the north and east by rising woods of oak.
 
-<span id="link2HCH0018"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 18
 
@@ -1626,16 +1438,6 @@ Catherine heard all this, and quite out of countenance, could listen no longer. 
 
 The compliment of John Thorpe’s affection did not make amends for this thoughtlessness in his sister. She was almost as far from believing as from wishing it to be sincere; for she had not forgotten that he could mistake, and his assertion of the offer and of her encouragement convinced her that his mistakes could sometimes be very egregious. In vanity, therefore, she gained but little; her chief profit was in wonder. That he should think it worth his while to fancy himself in love with her was a matter of lively astonishment. Isabella talked of his attentions; she had never been sensible of any; but Isabella had said many things which she hoped had been spoken in haste, and would never be said again; and upon this she was glad to rest altogether for present ease and comfort.
 
-<span id="link2HCH0019"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 19
 
@@ -1703,16 +1505,6 @@ Catherine would contend no longer against comfort. She had resisted its approach
 
 Her resolution was supported by Isabella’s behaviour in their parting interview. The Thorpes spent the last evening of Catherine’s stay in Pulteney Street, and nothing passed between the lovers to excite her uneasiness, or make her quit them in apprehension. James was in excellent spirits, and Isabella most engagingly placid. Her tenderness for her friend seemed rather the first feeling of her heart; but that at such a moment was allowable; and once she gave her lover a flat contradiction, and once she drew back her hand; but Catherine remembered Henry’s instructions, and placed it all to judicious affection. The embraces, tears, and promises of the parting fair ones may be fancied.
 
-<span id="link2HCH0020"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 20
 
@@ -1772,16 +1564,6 @@ The general, perceiving how her eye was employed, began to talk of the smallness
 
 Returning through the large and lofty hall, they ascended a broad staircase of shining oak, which, after many flights and many landing-places, brought them upon a long, wide gallery. On one side it had a range of doors, and it was lighted on the other by windows which Catherine had only time to discover looked into a quadrangle, before Miss Tilney led the way into a chamber, and scarcely staying to hope she would find it comfortable, left her with an anxious entreaty that she would make as little alteration as possible in her dress.
 
-<span id="link2HCH0021"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 21
 
@@ -1809,16 +1591,6 @@ Catherine’s heart beat quick, but her courage did not fail her. With a cheek f
 
 The dimness of the light her candle emitted made her turn to it with alarm; but there was no danger of its sudden extinction; it had yet some hours to burn; and that she might not have any greater difficulty in distinguishing the writing than what its ancient date might occasion, she hastily snuffed it. Alas! It was snuffed and extinguished in one. A lamp could not have expired with more awful effect. Catherine, for a few moments, was motionless with horror. It was done completely; not a remnant of light in the wick could give hope to the rekindling breath. Darkness impenetrable and immovable filled the room. A violent gust of wind, rising with sudden fury, added fresh horror to the moment. Catherine trembled from head to foot. In the pause which succeeded, a sound like receding footsteps and the closing of a distant door struck on her affrighted ear. Human nature could support no more. A cold sweat stood on her forehead, the manuscript fell from her hand, and groping her way to the bed, she jumped hastily in, and sought some suspension of agony by creeping far underneath the clothes. To close her eyes in sleep that night, she felt must be entirely out of the question. With a curiosity so justly awakened, and feelings in every way so agitated, repose must be absolutely impossible. The storm too abroad so dreadful! She had not been used to feel alarm from wind, but now every blast seemed fraught with awful intelligence. The manuscript so wonderfully found, so wonderfully accomplishing the morning’s prediction, how was it to be accounted for? What could it contain? To whom could it relate? By what means could it have been so long concealed? And how singularly strange that it should fall to her lot to discover it! Till she had made herself mistress of its contents, however, she could have neither repose nor comfort; and with the sun’s first rays she was determined to peruse it. But many were the tedious hours which must yet intervene. She shuddered, tossed about in her bed, and envied every quiet sleeper. The storm still raged, and various were the noises, more terrific even than the wind, which struck at intervals on her startled ear. The very curtains of her bed seemed at one moment in motion, and at another the lock of her door was agitated, as if by the attempt of somebody to enter. Hollow murmurs seemed to creep along the gallery, and more than once her blood was chilled by the sound of distant moans. Hour after hour passed away, and the wearied Catherine had heard three proclaimed by all the clocks in the house before the tempest subsided or she unknowingly fell fast asleep.
 
-<span id="link2HCH0022"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 22
 
@@ -1904,16 +1676,6 @@ Catherine attempted no longer to hide from herself the nature of the feelings wh
 
 She had just settled this point when the end of the path brought them directly upon the general; and in spite of all her virtuous indignation, she found herself again obliged to walk with him, listen to him, and even to smile when he smiled. Being no longer able, however, to receive pleasure from the surrounding objects, she soon began to walk with lassitude; the general perceived it, and with a concern for her health, which seemed to reproach her for her opinion of him, was most urgent for returning with his daughter to the house. He would follow them in a quarter of an hour. Again they parted—but Eleanor was called back in half a minute to receive a strict charge against taking her friend round the abbey till his return. This second instance of his anxiety to delay what she so much wished for struck Catherine as very remarkable.
 
-<span id="link2HCH0023"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 23
 
@@ -1955,16 +1717,6 @@ Catherine sometimes started at the boldness of her own surmises, and sometimes h
 
 The side of the quadrangle, in which she supposed the guilty scene to be acting, being, according to her belief, just opposite her own, it struck her that, if judiciously watched, some rays of light from the general’s lamp might glimmer through the lower windows, as he passed to the prison of his wife; and, twice before she stepped into bed, she stole gently from her room to the corresponding window in the gallery, to see if it appeared; but all abroad was dark, and it must yet be too early. The various ascending noises convinced her that the servants must still be up. Till midnight, she supposed it would be in vain to watch; but then, when the clock had struck twelve, and all was quiet, she would, if not quite appalled by darkness, steal out and look once more. The clock struck twelve—and Catherine had been half an hour asleep.
 
-<span id="link2HCH0024"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 24
 
@@ -2028,16 +1780,6 @@ She could not contradict it, and therefore suffered herself to be detained, thou
 
 They had reached the end of the gallery, and with tears of shame she ran off to her own room.
 
-<span id="link2HCH0025"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 25
 
@@ -2127,16 +1869,6 @@ Miss Tilney, at Catherine’s invitation, now read the letter likewise, and, hav
 
 Catherine, by some chance or other, found her spirits so very much relieved by this conversation that she could not regret her being led on, though so unaccountably, to mention the circumstance which had produced it.
 
-<span id="link2HCH0026"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 26
 
@@ -2196,16 +1928,6 @@ She could not but observe that the abundance of the dinner did not seem to creat
 
 At six o’clock, the general having taken his coffee, the carriage again received them; and so gratifying had been the tenor of his conduct throughout the whole visit, so well assured was her mind on the subject of his expectations, that, could she have felt equally confident of the wishes of his son, Catherine would have quitted Woodston with little anxiety as to the How or the When she might return to it.
 
-<span id="link2HCH0027"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 27
 
@@ -2243,16 +1965,6 @@ Henry bowed his assent.
 
 Catherine was complimented out of further bitterness. Frederick could not be unpardonably guilty, while Henry made himself so agreeable. She resolved on not answering Isabella’s letter, and tried to think no more of it.
 
-<span id="link2HCH0028"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 28
 
@@ -2318,16 +2030,6 @@ Eleanor only replied, “I cannot wonder at your feelings. I will not importune 
 
 There was yet another point which Miss Tilney was anxious to settle, though somewhat embarrassed in speaking of. It had occurred to her that after so long an absence from home, Catherine might not be provided with money enough for the expenses of her journey, and, upon suggesting it to her with most affectionate offers of accommodation, it proved to be exactly the case. Catherine had never thought on the subject till that moment, but, upon examining her purse, was convinced that but for this kindness of her friend, she might have been turned from the house without even the means of getting home; and the distress in which she must have been thereby involved filling the minds of both, scarcely another word was said by either during the time of their remaining together. Short, however, was that time. The carriage was soon announced to be ready; and Catherine, instantly rising, a long and affectionate embrace supplied the place of language in bidding each other adieu; and, as they entered the hall, unable to leave the house without some mention of one whose name had not yet been spoken by either, she paused a moment, and with quivering lips just made it intelligible that she left “her kind remembrance for her absent friend.” But with this approach to his name ended all possibility of restraining her feelings; and, hiding her face as well as she could with her handkerchief, she darted across the hall, jumped into the chaise, and in a moment was driven from the door.
 
-<span id="link2HCH0029"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 29
 
@@ -2387,16 +2089,6 @@ Catherine could not answer; and, after a short trial of other subjects, Mrs. All
 
 As they walked home again, Mrs. Morland endeavoured to impress on her daughter’s mind the happiness of having such steady well-wishers as Mr. and Mrs. Allen, and the very little consideration which the neglect or unkindness of slight acquaintance like the Tilneys ought to have with her, while she could preserve the good opinion and affection of her earliest friends. There was a great deal of good sense in all this; but there are some situations of the human mind in which good sense has very little power; and Catherine’s feelings contradicted almost every position her mother advanced. It was upon the behaviour of these very slight acquaintance that all her present happiness depended; and while Mrs. Morland was successfully confirming her own opinions by the justness of her own representations, Catherine was silently reflecting that now Henry must have arrived at Northanger; now he must have heard of her departure; and now, perhaps, they were all setting off for Hereford.
 
-<span id="link2HCH0030"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 30
 
@@ -2432,16 +2124,6 @@ Henry, in having such things to relate of his father, was almost as pitiable as 
 
 He steadily refused to accompany his father into Herefordshire, an engagement formed almost at the moment to promote the dismissal of Catherine, and as steadily declared his intention of offering her his hand. The general was furious in his anger, and they parted in dreadful disagreement. Henry, in an agitation of mind which many solitary hours were required to compose, had returned almost instantly to Woodston, and, on the afternoon of the following day, had begun his journey to Fullerton.
 
-<span id="link2HCH0031"></span>
-
-<div style="height: 4em;">
-
-\
-\
-\
-\
-
-</div>
 
 ## Chapter 31
 
@@ -2459,7 +2141,7 @@ The influence of the viscount and viscountess in their brother’s behalf was as
 
 On the strength of this, the general, soon after Eleanor’s marriage, permitted his son to return to Northanger, and thence made him the bearer of his consent, very courteously worded in a page full of empty professions to Mr. Morland. The event which it authorized soon followed: Henry and Catherine were married, the bells rang, and everybody smiled; and, as this took place within a twelvemonth from the first day of their meeting, it will not appear, after all the dreadful delays occasioned by the general’s cruelty, that they were essentially hurt by it. To begin perfect happiness at the respective ages of twenty-six and eighteen is to do pretty well; and professing myself moreover convinced that the general’s unjust interference, so far from being really injurious to their felicity, was perhaps rather conducive to it, by improving their knowledge of each other, and adding strength to their attachment, I leave it to be settled, by whomsoever it may concern, whether the tendency of this work be altogether to recommend parental tyranny, or reward filial disobedience.
 
-\* Vide a letter from Mr. Richardson, No. 97, Vol. II, Rambler.
+
 
 
 
