@@ -3,6 +3,20 @@
 This repository contains the source texts to [Jane Austen](https://en.wikipedia.org/wiki/Jane_Austen)’s (1775–1817) _Collected Works_.
 
 
+## [Textus Classics Bicentenary Edition](http://JaneAusten2017.com)
+
+The text files to the books offered in this repository have been prepared at the occasion of Jane Austen’s bicentenary (July 18, 1817–2017), and are the source to the **Textus Classics edition** online available **for free at [JaneAusten2017.com](http://JaneAusten2017.com)**.
+
+[![](JaneAusten2017.com.png)](http://JaneAusten2017.com)
+
+It’s a demo showcase of our work-in-progress at [Textus.io](http://www.textus.io/) and [TextusClassics.com](http://textusclassics.com/). **Textus is building the future of books by automating typesetting and design.**
+
+![With Textus, publishing is as easy as drag-and-drop!](Textus.io-drag-and-drop.gif)
+
+All the online HTML5 ebooks and PDFs offered for free at [JaneAusten2017.com](http://JaneAusten2017.com) have been typeset and generated automatically using [Textus.io](http://www.textus.io/). The markdown plain text source files contained in this repository was the only required input, along with a simple cover artwork (`cover.svg`) and metadata (`meta.yml`) file.
+
+**Request your private beta invite to soon get started turning your own manuscripts into gorgeous HTML5 ebooks and print-ready PDFs!** For more information, please visit [Textus.io](http://www.textus.io/) and subscribe to our mailing list.
+
 ## Technical details and contents
 
 The main source file to each book is stored in a single markdown file (the `.md` extension denotes that the text has been formatted using a [markdown compliant](http://commonmark.org) markup syntax), each stored in a separate folder, along with any assets (like image and metadata files).
@@ -21,7 +35,9 @@ The main source file to each book is stored in a single markdown file (the `.md`
 
 ## Collaborating
 
-If you find any issues with the texts, please report them here or by clicking the Issues tab to this repository. Please copy-and-paste the entire sentence that contains the error, and what the text should read. For advanced users, you can make a Pull Request here on Github.
+If you find any issues with the texts, please report them here or by clicking the [Issues tab](https://github.com/textvs/Austen-Works/issues) to this repository. Please copy-and-paste the entire sentence that contains the error, and what the text should read. For advanced users, you can make a Pull Request here on Github.
+
+If you find formatting or typesetting errors, or would want to make suggestions on the styling of the Textus Classics books published for free on [JaneAusten2017.com](http://JaneAusten2017.com), then by all means, please get in touch! Jane Austen’s _Collected Works_ are a first public showcase of what [Textus](http://www.textus.io/) is capable of, yet. We would love to get your feedback on typography and styling, so we can improve our work.
 
 ## TODO
 
