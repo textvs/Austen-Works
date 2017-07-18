@@ -1,12 +1,12 @@
-# Sense & Sensibility
+# Sense and Sensibility
 
 ✍ Jane Austen
 
-  With an introduction by Austin Dobson
-
+<!--
+With an introduction by Austin Dobson
 Illustrated by Hugh Thomson
-
 (First Edition with Hugh Thomson’s Illustrations: 1896)
+-->
 
 ## Introduction
 
